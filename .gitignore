@@ -1,3 +1,6 @@
+# OBD pickled resources
+*.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
