@@ -39,6 +39,8 @@ Only element text is changed: never tag attributes (e.g., href="?bref=John.3.16"
 CHANGELOG:
     2026-11-17 First version
     2026-11-17 Normalise copied CRLF line endings to LF
+    2026-11-19 Don't treat a closing quote after a quoted name (e.g., ‘Jesus’) as a possessive
+    2026-11-19 Add ItemAdapter.adaptText() and 'UBS' terminology scope so adaptUBSResources.py can reuse this code
 """
 from collections import Counter, defaultdict
 from csv import DictReader
@@ -49,9 +51,9 @@ import shutil
 import sys
 
 
-LAST_MODIFIED_DATE = '2026-11-17' # by RJH
+LAST_MODIFIED_DATE = '2026-11-19' # by RJH
 PROGRAM_NAME = "Adapt Tyndale Open Resources for OET-RV"
-PROGRAM_VERSION = '0.10'
+PROGRAM_VERSION = '0.11'
 
 THIS_FOLDER = Path(__file__).resolve().parent
 DOWNLOADS_FOLDER = THIS_FOLDER.parent # where the zips were unzipped
@@ -81,7 +83,8 @@ SKIP_ELEMENTS = {'a', 'title', 'refs', 'include'}
 SKIP_CLASSES = {'hebrew', 'greek', 'sc', 'sn-ref', 'sn-ref-sc', 'sn-hebrew-chars', 'toc', 'artfile', 'lc', 'vn'}
 
 # Terminology changes: (enabled, scopes, regex, replacement, description)
-#   scopes: 'TOSN' = study/theme notes etc., 'TOBD' = Bible dictionary
+#   scopes: 'TOSN' = study/theme notes etc., 'TOBD' = Bible dictionary,
+#       'UBS' = UBS resources (see adaptUBSResources.py in OET_ubs-open-license, which imports this module)
 #   Replacements keep the case of the first letter of the matched text (unless the replacement starts with '<').
 #   Rules whose regex contains '<' are applied to the whole XML line (so must never match inside attributes),
 #       all other rules are only applied to element text (outside skipped elements).
@@ -95,10 +98,10 @@ TERMINOLOGY_RULES = [
     (True, ('TOSN','TOBD'), rf'{DIVINE}Lord God</span>', r'<span class="\1">Yahweh God</span>', "LORD God → Yahweh God"),
     (True, ('TOSN','TOBD'), rf'{DIVINE}Holy to the Lord</span>', r'<span class="\1">Holy to Yahweh</span>', "Holy to the LORD → Holy to Yahweh"),
     (True, ('TOSN','TOBD'), rf'{DIVINE}Lord(\W?)</span>', r'<span class="\1">Yahweh\2</span>', "LORD → Yahweh"),
-    (True, ('TOSN','TOBD'), r'\b(?:[Tt]he )?LORD\b', 'Yahweh', "LORD → Yahweh"),
+    (True, ('TOSN','TOBD','UBS'), r'\b(?:[Tt]he )?LORD\b', 'Yahweh', "LORD → Yahweh"),
     (True, ('TOSN','TOBD'), r'<span class="sn-excerpt"></span> ?(?=<span class="sn-excerpt-divine-name">)', '', "(remove excerpt spans emptied by the above)"),
     # Other OET-RV wording
-    (True, ('TOSN','TOBD'), r'\bJohn the Baptist\b', 'John the immerser', "John the Baptist → John the immerser"),
+    (True, ('TOSN','TOBD','UBS'), r'\bJohn the Baptist\b', 'John the immerser', "John the Baptist → John the immerser"),
     (True, ('TOSN',), r'\bSabbath days?\b', 'Rest Day', "Sabbath day → Rest Day"),
     (True, ('TOSN',), r'\bSabbaths\b', 'Rest Days', "Sabbaths → Rest Days"),
     (True, ('TOSN',), r'\bSabbath\b', 'Rest Day', "Sabbath → Rest Day"),
@@ -303,6 +306,15 @@ class ItemAdapter:
         return ''.join(pieces)
     # end of ItemAdapter.adaptLine
 
+    def adaptText(self, text:str) -> str:
+        """
+        Adapt one plain-text field (counted as one 'line' for the explanation window).
+
+        Used by other scripts (e.g., adaptUBSResources.py) for non-Tyndale resources.
+        """
+        self.lineNumber += 1
+        return self.adaptNames(self.adaptTerminology(text, self.terminologyRules))
+
     def adaptTerminology(self, text:str, rules:list) -> str:
         for regex, replacement, description in rules:
             text, numChanges = regex.subn(lambda m: matchCase(m.expand(replacement), m.group(0)), text)
@@ -319,8 +331,9 @@ class ItemAdapter:
             rvName = info['rvName']
             # Possessives: ’s, or a bare ’ after a name ending in 's' (but not a closing quote)
             possessiveMatch = POSSESSIVE_RE.match(text, match.end())
-            if possessiveMatch and len(possessiveMatch.group(0)) == 1 and not matchedName.endswith('s'):
-                possessiveMatch = None
+            if possessiveMatch and len(possessiveMatch.group(0)) == 1 \
+            and (not matchedName.endswith('s') or text[max(0,match.start()-1):match.start()] in ('‘',"'")):
+                possessiveMatch = None # Not a possessive, e.g., ‘Jesus’ is (a closing quote)
             endIndex = possessiveMatch.end() if possessiveMatch else match.end()
             # See if Tyndale already follows the name with a parenthesised alternative that we'd change to the same RV name
             alreadyExplainedMatch, alternativeName = re.compile(r" \(([\w’' -]+)\)").match(text, endIndex), None

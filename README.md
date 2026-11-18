@@ -7,3 +7,5 @@ We are very grateful to Tyndale House publishers for generously making their *Ty
 
 Understandably, their notes are based on their *New Living Translation*, whereas our [Open English Translation](https://OpenEnglishTranslation.Bible) makes a number of different translation decisions (especially concerning people's names),
 so we have adapted the Tyndale notes and dictionary entries to be more relevant to the *OET*.
+
+These adapted resources are then used on our [Open Bible Data](https://github.com/Freely-Given-org/OpenBibleData) site which is accessible [here](https://Freely-Given.org/OBD/par/).

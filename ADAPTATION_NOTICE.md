@@ -11,7 +11,7 @@ The original works are copyright © Tyndale House Publishers and licensed under
 
 ## Changes made
 
-These changes were made automatically by `adaptTyndaleResources.py` (version 0.10)
+These changes were made automatically by `adaptTyndaleResources.py` (version 0.11)
 to match the [Open English Translation](https://github.com/Freely-Given-org/OpenEnglishTranslation--OET) Readers’ Version (OET-RV):
 
 - Traditional (mostly NLT) forms of names were changed to the OET-RV forms from `OET-RV_names_table.tsv`.
