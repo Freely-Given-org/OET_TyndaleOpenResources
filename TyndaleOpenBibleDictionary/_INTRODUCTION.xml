@@ -6,7 +6,7 @@
 <p class="h1">Introduction to the <span class="ital">Tyndale Open Bible Dictionary</span></p>
 <p class="fl">The <span class="ital">Tyndale Open Bible Dictionary</span> is a comprehensive Bible dictionary, including articles for each book of the Bible and all the significant people, places, and terms found therein. In addition, it contains articles on the cultural context of scripture and on important theological terms.</p>
 <p class="h2">Asterisks</p>
-<p class="fl">This dictionary presents terms from a variety of Bible versions. Though the New Living Translation is the primary version used, hundreds of terms appear in the dictionary that do not appear in the NLT. Dictionary entries marked with an asterisk (*) are for words that are not found in the New Living Translation but may appear in other versions such as the King Ya’akov (James) Version and Revised Standard Version.</p>
+<p class="fl">This dictionary presents terms from a variety of Bible versions. Though the New Living Translation is the primary version used, hundreds of terms appear in the dictionary that do not appear in the NLT. Dictionary entries marked with an asterisk (*) are for words that are not found in the New Living Translation but may appear in other versions such as the King James Version and Revised Standard Version.</p>
 <p class="h2">Cross-References</p>
 <p class="fl">Two types of cross-references are used:</p>
 <p class="list-space">• <span class="bold">“See” references</span> point to one or more articles that contain information considered necessary for a complete understanding of the topic in question.</p>
@@ -18,8 +18,8 @@
 <tr><td><p class="td">Add Est</p></td><td><p class="td">Additions to Ester (Esther)</p></td></tr>
 <tr><td><p class="td">Bar</p></td><td><p class="td">Baruk (Baruch)</p></td></tr>
 <tr><td><p class="td">Bel</p></td><td><p class="td">Bel and the Dragon</p></td></tr>
-<tr><td><p class="td">1 Esd</p></td><td><p class="td">1 Ezra (Esdras)</p></td></tr>
-<tr><td><p class="td">2 Esd</p></td><td><p class="td">2 Ezra</p></td></tr>
+<tr><td><p class="td">1 Esd</p></td><td><p class="td">1 Esdras</p></td></tr>
+<tr><td><p class="td">2 Esd</p></td><td><p class="td">2 Esdras</p></td></tr>
 <tr><td><p class="td">Ecclus</p></td><td><p class="td">Sira (Sirach) (Ecclesiasticus)</p></td></tr>
 <tr><td><p class="td">Jdt</p></td><td><p class="td">Yehudit (Judith)</p></td></tr>
 <tr><td><p class="td">1 Macc</p></td><td><p class="td">1 Maccabees</p></td></tr>
@@ -51,12 +51,12 @@
 <table>
 <tr><td><p class="td">ASV</p></td><td><p class="td">American Standard Version</p></td></tr>
 <tr><td><p class="td">ERV</p></td><td><p class="td">English Revised Version</p></td></tr>
-<tr><td><p class="td">JB</p></td><td><p class="td">Yerushalem (Jerusalem) Bible</p></td></tr>
-<tr><td><p class="td">KJV</p></td><td><p class="td">King Ya’akov (James) Version</p></td></tr>
+<tr><td><p class="td">JB</p></td><td><p class="td">Jerusalem Bible</p></td></tr>
+<tr><td><p class="td">KJV</p></td><td><p class="td">King James Version</p></td></tr>
 <tr><td><p class="td">NASB</p></td><td><p class="td">New American Standard Bible</p></td></tr>
 <tr><td><p class="td">NEB</p></td><td><p class="td">New English Bible</p></td></tr>
 <tr><td><p class="td">NIV</p></td><td><p class="td">New International Version</p></td></tr>
-<tr><td><p class="td">NJB</p></td><td><p class="td">New Yerushalem Bible</p></td></tr>
+<tr><td><p class="td">NJB</p></td><td><p class="td">New Jerusalem Bible</p></td></tr>
 <tr><td><p class="td">NLT</p></td><td><p class="td">New Living Translation</p></td></tr>
 <tr><td><p class="td">NRSV</p></td><td><p class="td">New Revised Standard Version</p></td></tr>
 <tr><td><p class="td">RSV</p></td><td><p class="td">Revised Standard Version</p></td></tr>

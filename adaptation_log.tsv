@@ -1,1385 +1,1885 @@
 Type	Change	Count
-NAME	Jesus → Yeshua	8499
-NAME	Israel → Yisrael	6715
-NAME	Paul → Paulos	5021
-NAME	Jerusalem → Yerushalem	3859
-NAME	Judah → Yehudah	2875
-NAME	Moses → Mosheh	1993
-NAME	Egypt → Mitsrayim	1924
-NAME	John → Yohan	1860
-NAME	Jews → Yehudim	1705
-NAME	Israelites → Israelis	1408
-NAME	Solomon → Shelomoh	1362
-NAME	Abraham → Avraham	1205
-NAME	Saul → Sha’ul	1204
-NAME	Peter → Kefa	1133
-NAME	Jacob → Ya’akov	1093
-NAME	Babylon → Bavel	1000
-NAME	Jeremiah → Yirmiyah	990
-TERM	the LORD → Yahweh	945
-NAME	Rome → Romai	860
-NAME	Joshua → Yehoshua	760
-NAME	Joseph → Yosef	742
-NAME	Job → Iyov	740
-NAME	Luke → Lukas	696
-NAME	Canaan → Kena’an	675
-NAME	Jordan → Yarden	640
-NAME	Isaiah → Yeshayah	620
-NAME	Assyria → Ashur	599
-NAME	Egyptian → Mitsri	570
-NAME	Israelite → Israeli	559
-NAME	Daniel → Daniyel	557
-NAME	Hezekiah → Hizkiyah	523
-NAME	Galilee → Galil	520
-NAME	Ezekiel → Yehezkel	512
-NAME	Philistines → Pelishtim	507
-NAME	Herod → Herodes	503
-NAME	James → Ya’akov	501
-NAME	Syria → Aram	490
-NAME	Mark → Markos	477
-NAME	Nehemiah → Nehemyah	473
-NAME	Matthew → Matay	468
-NAME	Samuel → Shmuel	466
-NAME	Aaron → Aharon	449
-NAME	Canaanite → Kena’ani	442
-NAME	Benjamin → Benyamin	441
-NAME	Sinai → Sinay	435
-NAME	Nebuchadnezzar → Nevukadnetsar	423
-NAME	Isaac → Yitshak	422
-NAME	Timothy → Timotheos	403
-NAME	Manasseh → Menasheh	402
-NAME	Elijah → Eliyah	399
-NAME	Samaria → Shomron	398
-NAME	Ahab → Ahav	397
-NAME	Moab → Moav	396
-NAME	Mary → Maria	369
-NAME	Pharaoh → Par’oh	352
-NAME	Judaism → Youdaismos	351
-NAME	Corinth → Korinthos	343
-NAME	Tyre → Tsor	338
-NAME	Pharisees → Farisaios	335
-NAME	Jeroboam → Yarov’am	331
-NAME	Ephesus → Efesos	328
-NAME	Baal → Ba’al	325
-NAME	Esau → Esav	312
-NAME	Josiah → Yoshiyah	310
-NAME	Judas → Yehudah	310
-NAME	Zechariah → Zekaryah	303
-NAME	Egyptians → Mitsrim	302
-NAME	Ephraim → Efrayim	293
-NAME	Damascus → Damesek	284
-NAME	Cyrus → Koresh	282
-NAME	Pilate → Pilatos	274
-NAME	Jonathan → Yonatan	272
-NAME	Zerubbabel → Zerubavel	268
-NAME	Abram → Avram	261
-NAME	Jericho → Yeriho	255
-NAME	Absalom → Avshalom	253
-NAME	Philistine → Pelishti	240
-NAME	Antiochus → Antiokos	238
-TERM	John the Baptist → John the immerser	237
-NAME	Canaanites → Kena’anim	232
-NAME	Titus → Titos	229
-NAME	Persia → Paras	228
-NAME	Hebron → Hevron	226
-TERM	(remove excerpt spans emptied by the above)	226
-NAME	Shechem → Shekem	216
-NAME	Simon → Shim’on	216
-NAME	Alexander → Alexandros	215
-NAME	Zedekiah → Tsidkiyah	215
-NAME	Sennacherib → Sanheriv	214
-NAME	Bethel → Beyt-El	210
-NAME	Jehoshaphat → Yehoshafat	208
-NAME	Antioch → Antiokeia	201
-NAME	Gideon → Gid’on	201
-NAME	Jonah → Yonah	200
-NAME	Zion → Tsiyon	199
-NAME	Caesar → Kaisar	192
-NAME	Philip → Filippos	187
-NAME	Simeon → Shim’on	186
-NAME	Syrian → Arami	185
-NAME	Joab → Yoav	184
-NAME	Jew → Yehudi	181
-NAME	Bethlehem → Beyt-Lehem	178
-NAME	Hosea → Hoshea	178
-NAME	Darius → Dareyavesh	177
-NAME	Reuben → Re’uven	176
-NAME	Rehoboam → Rehav’am	175
-NAME	Arabia → Arav	171
-NAME	Ishmael → Yishmael	165
-NAME	Balaam → Bil’am	164
-NAME	Caleb → Kalev	162
-NAME	Esther → Ester	162
-NAME	Ammonites → Amonim	161
-NAME	Babylonia → Bavel	161
-NAME	Rachel → Rahel	161
-NAME	Laban → Lavan	160
-NAME	Jehu → Yehu	158
-NAME	Micah → Mikah	153
-NAME	Uzziah → Uziyah	152
-NAME	Lebanon → Levanon	150
-NAME	Naphtali → Naftali	150
-NAME	Greece → Yavan	149
-NAME	Jehoiakim → Yehoyakim	146
-NAME	Samson → Shimshon	144
-NAME	Abimelech → Avimelek	140
-NAME	Judean → Yehudi	139
-NAME	Agrippa → Agrippas	138
-NAME	Sodom → Sedom	138
-NAME	Caesarea → Kaisareia	136
-NAME	Samaritan → Shomroni	136
-NAME	Eve → Havah	135
-NAME	Nazareth → Nazaret	135
-TERM	Sabbath → Rest Day	135
-NAME	Jehoiachin → Yehoyakin	134
-NAME	Zebulun → Zevulun	134
-NAME	Euphrates → Perat	133
-NAME	Abner → Avner	131
-NAME	Sidon → Tsidon	131
-NAME	Ben-hadad → Ben-Hadad	129
-NAME	Moabite → Moavi	127
-NAME	Thomas → Toma	127
-NAME	Jezebel → Izevel	126
-NAME	Jude → Yehudah	126
-NAME	Haggai → Hagay	125
-NAME	Sadducees → Saddoukaios	122
-NAME	Artaxerxes → Artahshashta	121
-NAME	Baruch → Baruk	120
-NAME	Habakkuk → Havakuk	120
-NAME	Mordecai → Mordekai	119
-NAME	Ahaziah → Ahazyah	118
-NAME	Andrew → Andreas	118
-NAME	Tiglath-pileser → Tiglat-Pileser	118
-NAME	Crete → Kraitai	117
-NAME	Hittite → Hiti	116
-NAME	Issachar → Yisakar	115
-NAME	Macedonia → Makedonia	115
-NAME	Gibeon → Giveon	114
-NAME	Philemon → Filemon	114
-NAME	Malachi → Malaki	112
-NAME	Amorites → Amorim	111
-NAME	Amalekites → Amalekim	110
-NAME	Rebekah → Rivkah	109
-NAME	Jehoram → Yehoram	108
-NAME	Philippi → Filippou	107
-NAME	Cain → Kayin	106
-NAME	Joash → Yoash	105
-NAME	Zephaniah → Tsefanyah	104
-NAME	Athens → Athainai	103
-NAME	Gaza → Azah	103
-NAME	Stephen → Stefanos	103
-NAME	Leah → Le’ah	102
-NAME	Carmel → Karmel	101
-NAME	Enoch → Hanok	100
-NAME	Xerxes → Ahashverosh	100
-NAME	Joel → Yoel	98
-NAME	Moabites → Moavim	98
-NAME	Midian → Midyan	97
-NAME	Naomi → No’omi	97
-NAME	Ptolemy → Ptolemaios	97
-NAME	Thessalonica → Thessalonikai	97
-NAME	Ammon → Amon	96
-NAME	Edomites → Edomim	96
-NAME	Samaritans → Shomronim	96
-NAME	Bathsheba → Bat-Sheva	95
-NAME	Jezreel → Yizre’el	95
-NAME	Lazarus → Eleazar	94
-NAME	Zadok → Tsadok	94
-NAME	Beersheba → Be’er-Sheva	93
-NAME	Jephthah → Yiftah	92
-NAME	Amorite → Amori	91
-NAME	Hazor → Hatsor	91
-NAME	Lachish → Lakish	91
-NAME	Claudius → Klaudios	89
-NAME	Midianites → Midyanites	89
-NAME	Amaziah → Amatsyah	88
-NAME	Baasha → Baesha	86
-NAME	Ai → Ay	84
-NAME	Megiddo → Megidon	84
-NAME	Nathan → Natan	84
-NAME	Uriah → Uriyah	84
-NAME	Gath → Gat	83
-NAME	Ishbosheth → Ish-Boshet	83
-NAME	Melchizedek → Malki-Tsedek	83
-NAME	Cyprus → Kupros	81
-NAME	Asaph → Asaf	80
-NAME	India → Hodu	80
-NAME	Tiberius → Tiberios	80
-NAME	Adonijah → Adoniyah	78
-NAME	Edomite → Edomi	78
-NAME	Jotham → Yotam	78
-NAME	Seir → Se’ir	78
-NAME	Corinthian → Korinthios	77
-NAME	Eliphaz → Elifaz	77
-NAME	Phoenicia → Foinikai	77
-NAME	Syrians → Aramim	77
-NAME	Ammonite → Amoni	76
-NAME	Azariah → Azaryah	75
-NAME	Arabah → Aravah	74
-NAME	Athaliah → Atalyah	74
-NAME	Elam → Eylam	74
-NAME	Epiphanes → Epifanes	74
-NAME	Sheba → Sheva	74
-NAME	Capernaum → Kafarnaoum	72
-NAME	Demetrius → Demetrios	72
-NAME	Jeshua → Yeshua	72
-NAME	Medes → Madim	72
-NAME	Rahab → Rahav	72
-NAME	Gedaliah → Gedalyah	71
-NAME	Gibeah → Giveah	70
-NAME	Goliath → Galyat	70
-NAME	Benjamite → Benyamite	69
-NAME	Neco → Nekoh	69
-NAME	Spain → Spania	69
-NAME	Alexandrian → Alexandria	68
-NAME	Hittites → Hitim	68
-NAME	Italy → Italia	68
-NAME	Abiathar → Evyatar	67
-NAME	Aquila → Akulas	67
-NAME	Judeans → Yehudim	67
-NAME	Midianite → Midyanite	67
-NAME	Ziklag → Tsiklag	67
-NAME	Arabian → Aravi	66
-NAME	Colosse → Kolossai	66
-NAME	Gomorrah → Amorah	66
-NAME	Jesse → Yishay	65
-NAME	Belshazzar → Belshatsar	63
-NAME	Caiaphas → Kayafa	63
-NAME	Priscilla → Priskilla	63
-TERM	LORD → Yahweh	63
-NAME	Joppa → Yafo	62
-NAME	Joram → Yoram	62
-NAME	Onesimus → Onesimos	62
-NAME	Tigris → Hidekel	62
-NAME	Jethro → Yitro	61
-NAME	Ahasuerus → Ahashverosh	60
-NAME	Hamath → Hamat	60
-NAME	Mizpah → Mitspah	60
-NAME	Philistia → Peleshet	60
-NAME	Abel → Hevel	59
-NAME	Ethiopia → Kush	59
-NAME	Thebes → No	59
-NAME	Julius → Yulios	58
-NAME	Mephibosheth → Mefiboshet	58
-NAME	Tarsus → Tarsos	58
-NAME	Abijah → Aviyah	57
-NAME	Hyrcanus → Hurkanos	57
-NAME	Jehoahaz → Yehoahaz	57
-NAME	Miriam → Miryam	57
-NAME	Troas → Troias	57
-NAME	Lystra → Lustra	56
-NAME	Phinehas → Pinhas	56
-NAME	Heman → Heyman	55
-NAME	Naboth → Navot	55
-NAME	Sarai → Saray	55
-NAME	Babel → Bavel	54
-NAME	Chaldeans → Kasdim	54
-NAME	Galilean → Galili	54
-NAME	Kadesh-barnea → Kadesh-Barnea	54
-NAME	Michal → Mikal	54
-NAME	Obadiah → Ovadyah	54
-NAME	Kohath → Kohat	53
-NAME	Laodicea → Laodikeia	53
-NAME	Gaius → Gaios	52
-NAME	Jehoash → Yehoash	52
-NAME	Shemaiah → Shemayah	52
-NAME	Cilicia → Kilikia	51
-NAME	Jehoiada → Yehoyada	51
-NAME	Nadab → Nadav	51
-NAME	Nebo → Nevo	51
-NAME	Pergamum → Pergamos	51
-NAME	Gibeonites → Givonim	49
-NAME	Judith → Yehudit	49
-NAME	Tabor → Tavor	49
-NAME	Achan → Akan	48
-NAME	Bethany → Beyt-Ania	47
-NAME	Carchemish → Karkemish	47
-NAME	Cornelius → Kornelios	47
-NAME	Festus → Festos	47
-NAME	Iscariot → Iskariot	47
-NAME	Jabin → Yavin	47
-NAME	Japheth → Yefet	47
-NAME	Johanan → Yohanan	47
-NAME	Micaiah → Mikayah	47
-NAME	Thessalonian → Thessalonikai	47
-NAME	Tobit → Tovi	47
-TERM	synagogue → meeting hall	47
-NAME	Annas → Hanan	46
-NAME	Immanuel → Imanu-El	46
-NAME	Martha → Marta	46
-NAME	Michael → Mika’el	46
-NAME	Cush → Kush	45
-NAME	Ethiopian → Kushi	45
-NAME	Lydia → Ludia	45
-NAME	Marduk → Merodak	45
-NAME	Memphis → Nof	45
-NAME	Susa → Shushan	45
-NAME	Esdras → Ezra	44
-NAME	Kiriath-jearim → Kiryat-Yearim	44
-NAME	Nicodemus → Nikodemos	44
-NAME	Rezin → Retsin	44
-NAME	Abishai → Avishay	43
-NAME	Arab → Aravi	43
-NAME	Aristobulus → Aristobulos	43
-NAME	Iconium → Ikonion	43
-NAME	Jabbok → Yabok	43
-NAME	Mesha → Meysha	43
-NAME	Achaia → Akaia	42
-NAME	Bethsaida → Beyt-Tsayda	42
-NAME	Ezion-geber → Etsyon-Gever	42
-NAME	Naaman → Na’aman	42
-NAME	Seth → Shet	42
-NAME	Bartholomew → Bar-Talmay	41
-NAME	Beth-shemesh → Beyt-Shemesh	41
-NAME	Horite → Hori	40
-NAME	Jair → Yair	40
-NAME	Mattathias → Matityah	40
-NAME	Nabal → Naval	40
-NAME	Achish → Akish	39
-NAME	Gethsemane → Gethsaimanai	39
-NAME	Jebusites → Yevusim	39
-NAME	Ophir → Ofir	39
-NAME	Shallum → Shalum	39
-NAME	Ahijah → Ahiyah	38
-NAME	Esarhaddon → Esar-Hadon	38
-NAME	Pharisee → Farisaios	38
-NAME	Succoth → Sukot	38
-NAME	Ebal → Eyval	37
-NAME	Hananiah → Hananyah	37
-NAME	Hillel → Hilel	37
-NAME	Maacah → Ma’akah	37
-NAME	Miletus → Milaitos	37
-NAME	Nathanael → Netanel	37
-NAME	Decapolis → Dekapolis	36
-NAME	Gabriel → Gavriel	36
-NAME	Gershon → Gereshon	36
-NAME	Joiakim → Yoyakim	36
-NAME	Lamech → Lemek	36
-NAME	Othniel → Otniel	36
-NAME	Zebedee → Zavday	36
-NAME	Abigail → Avigayil	35
-NAME	Shephelah → Shefelah	35
-NAME	Ananias → Hananyah	34
-NAME	Gehenna → geenna	34
-NAME	Hinnom → Hinom	34
-NAME	Kenites → Keynim	34
-NAME	Tirzah → Tirtsah	34
-NAME	Ahithophel → Ahitofel	33
-NAME	Caesarea Philippi → Kaisareia-Filippi	33
-NAME	Elizabeth → Elisheva	33
-NAME	Gallio → Gallion	33
-NAME	Perez → Perets	33
-NAME	Ephraimites → Efrayimim	32
-NAME	Jason → Yason	32
-NAME	Macedonian → Makedonian	32
-NAME	Onias → Honyo	32
-NAME	Pontius → Pontios	32
-NAME	Seraiah → Serayah	32
-NAME	Tobiah → Toviyah	32
-NAME	Abihu → Avihu	31
-NAME	Aphek → Afek	31
-NAME	Archelaus → Arkelaos	31
-NAME	Benaiah → Benayah	31
-NAME	Ecbatana → Ahmeta	31
-NAME	Geba → Geva	31
-NAME	Merodach-baladan → Merodak-Bal’adan	31
-NAME	Obed-edom → Oved-Edom	31
-NAME	Rephaim → Refaim	31
-NAME	Riblah → Rivlah	31
-NAME	Seleucus → Seleukos	31
-NAME	Zobah → Tsovah	31
-NAME	Derbe → Derbai	30
-NAME	Molech → Molek	30
-NAME	Ramoth-gilead → Ramot-Gilead	30
-NAME	Sanballat → Sanvalat	30
+NAME	Jesus → Yeshua	4201
+NAME	Israel → Yisrael	3025
+NAME	Paul → Paulos	2740
+NAME	Israel → Israel (Yisrael)	2429
+NAME	Jesus → Jesus (Yeshua)	2351
+NAME	Jerusalem → Yerushalem	2215
+NAME	Judah → Yehudah	1651
+NAME	Egypt → Mitsrayim	1174
+NAME	Moses → Mosheh	1161
+NAME	Jerusalem → Jerusalem (Yerushalem)	1160
+NAME	Paul → Paul (Paulos)	1147
+NAME	Jews → Yehudim	1121
+NAME	John → Yohan	1093
+NAME	Judah → Judah (Yehudah)	828
+NAME	Israelites → Israelis	735
+NAME	Solomon → Shelomoh	725
+TERM	the LORD → Yahweh (added after their term)	706
+NAME	Abraham → Avraham	662
+NAME	Saul → Sha’ul	660
+NAME	Peter → Kefa	594
+NAME	Rome → Romai	586
+NAME	Moses → Moses (Mosheh)	563
+NAME	Israelites → Israelites (Israelis)	552
+NAME	Egypt → Egypt (Mitsrayim)	534
+NAME	Jacob → Ya’akov	530
+NAME	Babylon → Bavel	512
+NAME	Jeremiah → Yirmiyah	485
+NAME	Luke → Lukas	478
+NAME	Egyptian → Mitsri	456
+NAME	Joshua → Yehoshua	438
+NAME	Jordan → Yarden	419
+NAME	Joseph → Yosef	419
+NAME	Jews → Jews (Yehudim)	414
+NAME	Syria → Aram	405
+NAME	John → John (Yohan)	397
+NAME	Canaan → Kena’an	390
+NAME	Isaiah → Yeshayah	388
+NAME	Solomon → Solomon (Shelomoh)	373
+NAME	Herod → Herodes	369
+NAME	Galilee → Galil	358
+NAME	Israelite → Israeli	356
+NAME	Abraham → Abraham (Avraham)	341
+NAME	Babylon → Babylon (Bavel)	335
+NAME	Daniel → Daniyel	335
+NAME	Benjamin → Benyamin	331
+NAME	Jacob → Jacob (Ya’akov)	329
+NAME	Philistines → Pelishtim	327
+NAME	Assyria → Ashur	322
+NAME	Jeremiah → Jeremiah (Yirmiyah)	321
+NAME	Matthew → Matay	317
+NAME	Saul → Saul (Sha’ul)	311
+NAME	Nehemiah → Nehemyah	301
+NAME	Hezekiah → Hizkiyah	284
+NAME	Ezekiel → Yehezkel	278
+NAME	Job → Iyov	277
+NAME	Nebuchadnezzar → Nevukadnetsar	274
+NAME	Canaanite → Kena’ani	271
+NAME	James → Ya’akov	271
+NAME	Mark → Markos	269
+NAME	Samaria → Shomron	261
+NAME	Peter → Peter (Kefa)	260
+NAME	Aaron → Aharon	259
+NAME	Sinai → Sinay	258
+NAME	Mary → Maria	253
+NAME	Moab → Moav	253
+NAME	Job → Job (Iyov)	244
+NAME	Samuel → Shmuel	238
+NAME	Judaism → Youdaismos	228
+NAME	Manasseh → Menasheh	228
+NAME	Zerubbabel → Zerubavel	227
+NAME	Canaan → Canaan (Kena’an)	224
+NAME	Tyre → Tsor	220
+NAME	Ahab → Ahav	219
+NAME	Timothy → Timotheos	212
+NAME	Joshua → Joshua (Yehoshua)	207
+NAME	Joseph → Joseph (Yosef)	205
+NAME	Judas → Yehudah	204
+NAME	Assyria → Assyria (Ashur)	199
+NAME	Isaac → Yitshak	198
+NAME	Damascus → Damesek	197
+NAME	Elijah → Eliyah	196
+NAME	Egyptians → Mitsrim	193
+NAME	Ephesus → Efesos	193
+NAME	Ephraim → Efrayim	190
+NAME	Israelite → Israelite (Israeli)	186
+NAME	Corinth → Korinthos	183
+NAME	Hebron → Hevron	183
+NAME	Jordan → Jordan (Yarden)	183
+NAME	Pharisees → Pharisee party	182
+NAME	Josiah → Yoshiyah	181
+NAME	Syrian → Arami	181
+TERM	the LORD → Yahweh	179
+NAME	Jonathan → Yonatan	175
+NAME	Jericho → Yeriho	171
+NAME	Alexander → Alexandros	170
+NAME	Isaiah → Isaiah (Yeshayah)	170
+NAME	Cyrus → Koresh	168
+NAME	Rome → Rome (Romai)	168
+NAME	Pharaoh → Par’oh	167
+NAME	Jeroboam → Yarov’am	165
+NAME	Zechariah → Zekaryah	163
+NAME	Baal → Ba’al	161
+NAME	Simon → Shim’on	160
+NAME	Esau → Esav	158
+NAME	Philistine → Pelishti	158
+NAME	Pilate → Pilatos	158
+TERM	John the Baptist → John the immerser	158
+NAME	Antioch → Antiokeia	153
+NAME	Simeon → Shim’on	152
+NAME	Ezekiel → Ezekiel (Yehezkel)	149
+NAME	Hezekiah → Hezekiah (Hizkiyah)	149
+NAME	Canaanite → Canaanite (Kena’ani)	146
+NAME	Antiochus → Antiokos	145
+NAME	Sinai → Sinai (Sinay)	145
+NAME	Isaac → Isaac (Yitshak)	144
+NAME	Absalom → Avshalom	143
+NAME	Bethel → Beyt-El	141
+NAME	Shechem → Shekem	141
+NAME	Sennacherib → Sanheriv	138
+KEEP	Quote from another Bible version (unchanged)	136
+NAME	Caesar → Kaisar	136
+NAME	Jew → Yehudi	136
+NAME	Persia → Paras	135
+NAME	Philistines → Philistines (Pelishtim)	135
+NAME	Galilee → Galilee (Galil)	134
+NAME	Philip → Filippos	134
+NAME	Canaanites → Kena’anim	131
+NAME	Jehoshaphat → Yehoshafat	131
+NAME	Aaron → Aaron (Aharon)	130
+NAME	Darius → Dareyavesh	128
+NAME	Babylonia → Bavel	126
+NAME	Elijah → Elijah (Eliyah)	126
+NAME	Arabia → Arav	124
+NAME	Naphtali → Naftali	124
+NAME	Reuben → Re’uven	124
+NAME	Titus → Titos	124
+NAME	Bethlehem → Beyt-Lehem	123
+NAME	Baal → Baal (Ba’al)	121
+NAME	Gideon → Gid’on	120
+NAME	Pharaoh → Pharaoh (Par’oh)	120
+NAME	Pharisees → Pharisees (Pharisee party)	118
+NAME	Samuel → Samuel (Shmuel)	118
+NAME	Daniel → Daniel (Daniyel)	116
+NAME	James → James (Ya’akov)	115
+NAME	Manasseh → Manasseh (Menasheh)	115
+NAME	Mark → Mark (Markos)	114
+NAME	Caleb → Kalev	113
+NAME	Judean → Yehudi	113
+NAME	Zebulun → Zevulun	110
+NAME	Zedekiah → Tsidkiyah	110
+NAME	Hosea → Hoshea	109
+NAME	Luke → Luke (Lukas)	109
+NAME	Caesarea → Kaisareia	108
+NAME	Moab → Moab (Moav)	107
+NAME	Abram → Avram	105
+NAME	Joab → Yoav	105
+NAME	Samaritan → Shomroni	105
+NAME	Jonah → Yonah	104
+NAME	Nebuchadnezzar → Nebuchadnezzar (Nevukadnetsar)	104
+NAME	Greece → Yavan	103
+NAME	Jeroboam → Jeroboam (Yarov’am)	103
+NAME	Lebanon → Levanon	103
+NAME	Timothy → Timothy (Timotheos)	103
+NAME	Ishmael → Yishmael	102
+NAME	Rehoboam → Rehav’am	102
+NAME	Samaria → Samaria (Shomron)	102
+NAME	Ahab → Ahab (Ahav)	101
+NAME	Issachar → Yisakar	98
+NAME	Jehu → Yehu	98
+NAME	Nazareth → Nazaret	98
+NAME	Andrew → Andreas	97
+NAME	Judaism → Judaism (Youdaismos)	97
+NAME	Sidon → Tsidon	97
+NAME	Egyptian → Egyptian (Mitsri)	96
+NAME	Zion → Zion (Tsiyon)	96
+NAME	Ammonites → Amonim	95
+NAME	Balaam → Bil’am	95
+NAME	Esther → Ester	95
+NAME	Agrippa → Agrippas	94
+NAME	Artaxerxes → Artahshashta	93
+NAME	Egyptians → Egyptians (Mitsrim)	93
+NAME	Esau → Esau (Esav)	93
+NAME	Micah → Mikah	93
+NAME	Thomas → Toma	93
+NAME	Benjamin → Benjamin (Benyamin)	92
+NAME	Euphrates → Perat	92
+NAME	Moabite → Moavi	92
+NAME	Eve → Havah	91
+NAME	Tiglath-pileser → Tiglat-Pileser	91
+NAME	Hittite → Hiti	90
+TERM	Sabbath → Rest Day (added after their term)	88
+NAME	Gaza → Azah	86
+NAME	Nehemiah → Nehemiah (Nehemyah)	86
+NAME	Jehoiakim → Yehoyakim	85
+NAME	Canaanites → Canaanites (Kena’anim)	84
+NAME	Corinth → Corinth (Korinthos)	84
+NAME	Rachel → Rahel	82
+NAME	Ptolemy → Ptolemaios	81
+NAME	Uzziah → Uziyah	81
+NAME	Athens → Athainai	79
+NAME	Gibeon → Giveon	79
+NAME	Josiah → Josiah (Yoshiyah)	79
+NAME	Sadducees → Sadducee group	79
+NAME	Zechariah → Zechariah (Zekaryah)	79
+NAME	Abimelech → Avimelek	78
+NAME	Herod → Herod (Herodes)	78
+NAME	Jude → Yehudah	78
+NAME	Laban → Lavan	78
+NAME	Abram → Abram (Avram)	77
+NAME	Ben-hadad → Ben-Hadad	77
+NAME	Jehoram → Yehoram	77
+NAME	Matthew → Matthew (Matay)	77
+NAME	Ephraim → Ephraim (Efrayim)	76
+NAME	Macedonia → Makedonia	76
+NAME	Samson → Shimshon	76
+NAME	Tyre → Tyre (Tsor)	76
+NAME	Zion → Tsiyon	76
+NAME	Ephesus → Ephesus (Efesos)	75
+NAME	Lachish → Lakish	75
+NAME	Midian → Midyan	75
+NAME	Amorites → Amorim	74
+NAME	Syrians → Aramim	74
+NAME	Ahaziah → Ahazyah	73
+NAME	Persia → Persia (Paras)	73
+NAME	Amalekites → Amalekim	72
+NAME	Carmel → Karmel	71
+NAME	Claudius → Klaudios	70
+NAME	Jehoiachin → Yehoyakin	70
+NAME	Jezebel → Izevel	70
+NAME	Joash → Yoash	70
+NAME	Samaritans → Shomronim	70
+NAME	Sodom → Sedom	70
+NAME	Zedekiah → Zedekiah (Tsidkiyah)	70
+NAME	Amorite → Amori	69
+NAME	Hazor → Hatsor	69
+NAME	Philistine → Philistine (Pelishti)	69
+NAME	Cyrus → Cyrus (Koresh)	68
+NAME	Syria → Syria (Aram)	68
+NAME	Alexandrian → Alexandria	67
+NAME	Mary → Mary (Maria)	67
+NAME	Philippi → Filippou	67
+NAME	Stephen → Stefanos	67
+NAME	Benjamite → Benyamite	65
+NAME	Cyprus → Kupros	65
+NAME	Megiddo → Megidon	65
+NAME	Absalom → Absalom (Avshalom)	64
+NAME	Beersheba → Be’er-Sheva	64
+NAME	Ziklag → Tsiklag	64
+NAME	Azariah → Azaryah	63
+NAME	Crete → Kraitai	63
+NAME	Demetrius → Demetrios	63
+NAME	India → Hodu	63
+NAME	Jericho → Jericho (Yeriho)	63
+NAME	Midianites → Midyanites	63
+NAME	Baruch → Baruk	62
+NAME	Damascus → Damascus (Damesek)	62
+NAME	Philemon → Filemon	62
+NAME	Phoenicia → Foinikai	62
+NAME	Edomite → Edomi	61
+NAME	Epiphanes → Epifanes	61
+NAME	Moabites → Moavim	61
+NAME	Mordecai → Mordekai	61
+NAME	Tiberius → Tiberios	61
+NAME	Elam → Eylam	60
+NAME	Jezreel → Yizre’el	60
+NAME	Judas → Judas (Yehudah)	60
+NAME	Thessalonica → Thessalonikai	60
+NAME	Joppa → Yafo	59
+NAME	Arabah → Aravah	58
+NAME	Gath → Gat	58
+NAME	Seir → Se’ir	58
+NAME	Sennacherib → Sennacherib (Sanheriv)	58
+NAME	Asaph → Asaf	57
+NAME	Bethel → Bethel (Beyt-El)	57
+NAME	Lazarus → Eleazar	57
+NAME	Zephaniah → Tsefanyah	57
+NAME	Abner → Avner	56
+NAME	Ahasuerus → Ahashverosh	56
+NAME	Ammon → Amon	56
+NAME	Ammonite → Amoni	56
+NAME	Baasha → Baesha	56
+NAME	Habakkuk → Havakuk	56
+NAME	Pilate → Pilate (Pilatos)	56
+NAME	Titus → Titus (Titos)	56
+NAME	Ammonites → Ammonites (Amonim)	55
+NAME	Edomites → Edomim	55
+NAME	Hyrcanus → Hurkanos	53
+NAME	Shechem → Shechem (Shekem)	53
+NAME	Enoch → Hanok	52
+NAME	Gideon → Gideon (Gid’on)	52
+NAME	Haggai → Hagay	52
+NAME	Italy → Italia	52
+NAME	Sodom → Sodom (Sedom)	52
+NAME	Amaziah → Amatsyah	51
+NAME	Naomi → No’omi	51
+NAME	Neco → Nekoh	51
+NAME	Rachel → Rachel (Rahel)	51
+NAME	Rebekah → Rivkah	51
+NAME	Zadok → Tsadok	51
+NAME	Cain → Kayin	50
+NAME	Jehoiakim → Jehoiakim (Yehoyakim)	50
+NAME	Leah → Le’ah	50
+NAME	Midianite → Midyanite	50
+NAME	Aquila → Akulas	49
+NAME	Bathsheba → Bat-Sheva	49
+NAME	Chaldeans → Kasdim	49
+NAME	Jonathan → Jonathan (Yonatan)	49
+NAME	Nathan → Natan	49
+NAME	Tigris → Hidekel	49
+NAME	Abimelech → Abimelech (Avimelek)	48
+NAME	Ai → Ay	48
+NAME	Goliath → Galyat	48
+NAME	Ishbosheth → Ish-Boshet	48
+NAME	Jesse → Yishay	48
+NAME	Judith → Yehudit	48
+NAME	Arabian → Aravi	47
+NAME	Bethlehem → Bethlehem (Beyt-Lehem)	47
+NAME	Capernaum → Kafarnaoum	47
+NAME	Corinthian → Korinthios	47
+NAME	Eliphaz → Eliphaz (Elifaz)	47
+NAME	Gedaliah → Gedalyah	47
+NAME	Gibeah → Giveah	47
+NAME	Tarsus → Tarsos	47
+NAME	Troas → Troias	47
+NAME	Xerxes → Ahashverosh	47
+NAME	Athaliah → Atalyah	46
+NAME	Cilicia → Kilikia	46
+NAME	Hamath → Hamat	46
+NAME	Heman → Heyman	46
+NAME	Jephthah → Yiftah	46
+NAME	Kadesh-barnea → Kadesh-Barnea	46
+NAME	Rehoboam → Rehoboam (Rehav’am)	46
+NAME	Spain → Spania	46
+NAME	Hittites → Hitim	45
+NAME	Hosea → Hosea (Hoshea)	45
+NAME	Jehoshaphat → Jehoshaphat (Yehoshafat)	45
+NAME	Jehu → Jehu (Yehu)	45
+NAME	Pergamum → Pergamos	45
+NAME	Sheba → Sheva	45
+NAME	Tobit → Tovi	45
+NAME	Antiochus → Antiochus (Antiokos)	44
+NAME	Julius → Yulios	44
+NAME	Malachi → Malaki	44
+NAME	Medes → Madim	44
+NAME	Uriah → Uriyah	44
+NAME	Caesar → Caesar (Kaisar)	43
+NAME	Jew → Jew (Yehudi)	43
+NAME	Joel → Yoel	43
+NAME	Laban → Laban (Lavan)	43
+NAME	Priscilla → Priskilla	43
+NAME	Reuben → Reuben (Re’uven)	43
+NAME	Samson → Samson (Shimshon)	43
+NAME	Thebes → No	43
+NAME	Abel → Hevel	42
+NAME	Balaam → Balaam (Bil’am)	42
+NAME	Ethiopia → Kush	42
+NAME	Jehoiachin → Jehoiachin (Yehoyakin)	42
+NAME	Jotham → Yotam	42
+NAME	Lystra → Lustra	42
+NAME	Hebron → Hebron (Hevron)	41
+NAME	Jethro → Yitro	41
+NAME	Jonah → Jonah (Yonah)	41
+NAME	Lebanon → Lebanon (Levanon)	41
+NAME	Abner → Abner (Avner)	40
+NAME	Adonijah → Adoniyah	40
+NAME	Arab → Aravi	40
+NAME	Aristobulus → Aristobulos	40
+NAME	Bartholomew → Bar-Talmay	40
+NAME	Ishmael → Ishmael (Yishmael)	40
+NAME	Jeshua → Yeshua	40
+NAME	Leah → Leah (Le’ah)	40
+NAME	Philistia → Peleshet	40
+NAME	Phinehas → Pinhas	40
+NAME	Shemaiah → Shemayah	40
+NAME	Uzziah → Uzziah (Uziyah)	40
+NAME	Abiathar → Evyatar	39
+NAME	Colosse → Kolossai	39
+NAME	Euphrates → Euphrates (Perat)	39
+NAME	Japheth → Yefet	39
+NAME	Joab → Joab (Yoav)	39
+NAME	Laodicea → Laodikeia	39
+NAME	Memphis → Nof	39
+NAME	Miriam → Miryam	39
+NAME	Mizpah → Mitspah	39
+NAME	Simon → Simon (Shim’on)	39
+TERM	synagogue → meeting hall (added after their term)	39
+NAME	Belshazzar → Belshatsar	38
+NAME	Caiaphas → Kayafa	38
+NAME	Greece → Greece (Yavan)	38
+NAME	Horite → Hori	38
+NAME	Marduk → Merodak	38
+NAME	Michael → Mika’el	38
+NAME	Mordecai → Mordecai (Mordekai)	38
+NAME	Antioch → Antioch (Antiokeia)	37
+NAME	Arabia → Arabia (Arav)	37
+NAME	Haggai → Haggai (Hagay)	37
+NAME	Jehoahaz → Yehoahaz	37
+NAME	Johanan → Yohanan	37
+NAME	Judeans → Yehudim	37
+NAME	Kohath → Kohat	37
+NAME	Tabor → Tavor	37
+NAME	Ezion-geber → Etsyon-Gever	36
+NAME	Ben-hadad → Ben-hadad (Ben-Hadad)	35
+NAME	Cush → Kush	35
+NAME	Esther → Esther (Ester)	35
+NAME	Gomorrah → Amorah	35
+NAME	Jabin → Yavin	35
+NAME	Jephthah → Jephthah (Yiftah)	35
+NAME	Mephibosheth → Mefiboshet	35
+NAME	Mesha → Meysha	35
+NAME	Micah → Micah (Mikah)	35
+NAME	Rebekah → Rebekah (Rivkah)	35
+NAME	Abijah → Aviyah	34
+NAME	Cain → Cain (Kayin)	34
+NAME	Cornelius → Kornelios	34
+NAME	Edomites → Edomites (Edomim)	34
+NAME	Jezebel → Jezebel (Izevel)	34
+NAME	Kiriath-jearim → Kiryat-Yearim	34
+NAME	Shephelah → Shefelah	34
+TERM	LORD → Yahweh	34
+NAME	Beth-shemesh → Beyt-Shemesh	33
+NAME	Festus → Festos	33
+NAME	Iconium → Ikonion	33
+NAME	Joiakim → Yoyakim	33
+NAME	Joram → Joram (Yoram)	33
+NAME	Lydia → Ludia	33
+NAME	Naboth → Navot	33
+NAME	Nazareth → Nazareth (Nazaret)	33
+NAME	Sidon → Sidon (Tsidon)	33
+NAME	Ammon → Ammon (Amon)	32
+NAME	Carchemish → Karkemish	32
+NAME	Decapolis → Dekapolis	32
+NAME	Ethiopian → Kushi	32
+NAME	Galilean → Galili	32
+NAME	Hillel → Hilel	32
+NAME	Immanuel → Imanu-El	32
+NAME	Mattathias → Matityah	32
+NAME	Melchizedek → Malki-Tsedek	32
+NAME	Moabites → Moabites (Moavim)	32
+NAME	Philip → Philip (Filippos)	32
+NAME	Jehoash → Yehoash	31
+NAME	Maacah → Ma’akah	31
+NAME	Macedonia → Macedonia (Makedonia)	31
+NAME	Malachi → Malachi (Malaki)	31
+NAME	Miletus → Milaitos	31
+NAME	Moabite → Moabite (Moavi)	31
+NAME	Seth → Shet	31
+NAME	Babel → Bavel	30
+NAME	Bethany → Beyt-Ania	30
+NAME	Bethsaida → Beyt-Tsayda	30
+NAME	Corinthian → Corinthian (Korinthios)	30
+NAME	Gomorrah → Gomorrah (Amorah)	30
+NAME	Habakkuk → Habakkuk (Havakuk)	30
+NAME	Jabbok → Yabok	30
+NAME	Micaiah → Mikayah	30
+NAME	Nadab → Nadav	30
+NAME	Nebo → Nevo	30
+NAME	Rahab → Rahab (Rahav)	30
+NAME	Shallum → Shalum	30
 NAME	Tobias → Toviyah	30
-NAME	Anathoth → Anatot	29
-NAME	Asshur → Ashur	29
-NAME	Chemosh → Kemosh	29
-NAME	Debir → Devir	29
-NAME	Dibon → Divon	29
-NAME	Jabesh-gilead → Yavesh-Gilead	29
-NAME	Phrygia → Frugia	29
-NAME	Rabbah → Rabah	29
-NAME	Ahimelech → Ahimelek	28
-NAME	Aijalon → Ayalon	28
-NAME	Danites → Danim	28
-NAME	Gamaliel → Gamliel	28
+NAME	Adonijah → Adonijah (Adoniyah)	29
+NAME	Ahaziah → Ahaziah (Ahazyah)	29
+NAME	Amalekites → Amalekites (Amalekim)	29
+NAME	Amaziah → Amaziah (Amatsyah)	29
+NAME	Amorites → Amorites (Amorim)	29
+NAME	Baruch → Baruch (Baruk)	29
+NAME	Bathsheba → Bathsheba (Bat-Sheva)	29
+NAME	Darius → Darius (Dareyavesh)	29
+NAME	Ephraimites → Efrayimim	29
+NAME	Eve → Eve (Havah)	29
+NAME	Gershon → Gereshon	29
+NAME	Jehoiada → Yehoyada	29
+NAME	Succoth → Sukot	29
+NAME	Carmel → Carmel (Karmel)	28
+NAME	Ecbatana → Ahmeta	28
+NAME	Gethsemane → Gethsaimanai	28
 NAME	Jeconiah → Yekaneyah	28
-NAME	Kohathite → Kohatite	28
-NAME	Kohathites → Kohatites	28
-NAME	Mede → Madi	28
-NAME	Nob → Nov	28
-NAME	Pamphylia → Pamfulia	28
-NAME	Quirinius → Kurenios	28
-NAME	Rameses → Ra’meses	28
-NAME	Sheshbazzar → Sheshebatsar	28
-NAME	Zacchaeus → Zakay	28
-NAME	Zophar → Tsofar	28
-NAME	Beth-horon → Beyt-Horon	27
-NAME	Cappadocia → Kappadokia	27
-NAME	Esdraelon → Yizre’el	27
-NAME	Ethan → Eytan	27
-NAME	Hezron → Hetsron	27
-NAME	Hushai → Hushay	27
-NAME	Jebusite → Yevusi	27
-NAME	Lysias → Lusias	27
-NAME	Machpelah → Makpelah	27
-NAME	Reuel → Re’uel	27
-NAME	Ain → Ayin	26
-NAME	Eliakim → Elyakim	26
-NAME	Heliopolis → Beyt-Shemesh	26
-NAME	Horites → Horim	26
-NAME	Lycaonia → Lukaonia	26
-NAME	Sardis → Sardeis	26
-NAME	Tychicus → Tukikos	26
-TERM	synagogues → meeting halls	26
-NAME	Benjaminite → Benyamini	25
-NAME	Cleopatra → Kleopatra	25
-NAME	Cyrene → Kurainai	25
-NAME	Emmaus → Emmaous	25
-NAME	En-gedi → Eyn-Gedi	25
-NAME	Jairus → Yair	25
+NAME	Joash → Joash (Yoash)	28
+NAME	Macedonian → Makedonian	28
+NAME	Nathanael → Netanel	28
+NAME	Obadiah → Ovadyah	28
+NAME	Ophir → Ofir	28
+NAME	Rezin → Retsin	28
+NAME	Seraiah → Serayah	28
+NAME	Simeon → Simeon (Shim’on)	28
+NAME	Susa → Shushan	28
+NAME	Abigail → Avigayil	27
+NAME	Achish → Akish	27
+NAME	Archelaus → Arkelaos	27
+NAME	Asshur → Ashur	27
+NAME	Crete → Crete (Kraitai)	27
+NAME	Ebal → Eyval	27
+NAME	Esarhaddon → Esar-Hadon	27
+NAME	Gehenna → geenna	27
+NAME	Jason → Yason	27
+NAME	Nabal → Naval	27
+NAME	Nathan → Nathan (Natan)	27
+NAME	Philippi → Philippi (Filippou)	27
+NAME	Rahab → Rahav	27
+NAME	Rephaim → Refaim	27
+NAME	Achaia → Akaia	26
+NAME	Annas → Hanan	26
+NAME	Caesarea Philippi → Kaisareia-Filippi	26
+NAME	Caleb → Caleb (Kalev)	26
+NAME	Esdraelon → Yizre’el	26
+NAME	Gabriel → Gavriel	26
+NAME	Gallio → Gallion	26
+NAME	Gibeon → Gibeon (Giveon)	26
+NAME	Jair → Yair	26
+NAME	Jezreel → Jezreel (Yizre’el)	26
+NAME	Judean → Judean (Yehudi)	26
+NAME	Judeans → Judeans (Yehudim)	26
+NAME	Kenites → Keynim	26
+NAME	Kohathite → Kohatite	26
+NAME	Lysias → Lusias	26
+NAME	Melchizedek → Melchizedek (Malki-Tsedek)	26
+NAME	Michal → Mikal	26
+NAME	Obed-edom → Oved-Edom	26
+NAME	Othniel → Otniel	26
+NAME	Phrygia → Frugia	26
+NAME	Tirzah → Tirtsah	26
+NAME	Ahijah → Ahiyah	25
+NAME	Ai → Ai (Ay)	25
+NAME	Alexander → Alexander (Alexandros)	25
+NAME	Beersheba → Beersheba (Be’er-Sheva)	25
+NAME	Caesarea → Caesarea (Kaisareia)	25
+NAME	Gibeonites → Givonim	25
+NAME	Hinnom → Hinom	25
+NAME	Iscariot → Iskariot	25
 NAME	Jerahmeel → Yerahme’el	25
-NAME	Magdalene → Magdala	25
-NAME	Shealtiel → Shealtiyel	25
-NAME	Ziph → Zif	25
-NAME	Barzillai → Barzilay	24
-NAME	Berea → Beroia	24
-NAME	Elath → Eylot	24
-NAME	Gershonite → Gershoni	24
+NAME	Jeshua → Jeshua (Yeshua)	25
+NAME	Joram → Yoram	25
+NAME	Lamech → Lemek	25
+NAME	Lazarus → Lazarus (Eleazar)	25
+NAME	Nicodemus → Nikodemos	25
+NAME	Nob → Nov	25
+NAME	Onias → Honyo	25
+NAME	Pamphylia → Pamfulia	25
+NAME	Ramoth-gilead → Ramot-Gilead	25
+NAME	Sarai → Saray	25
+NAME	Thessalonica → Thessalonica (Thessalonikai)	25
+NAME	Zephaniah → Zephaniah (Tsefanyah)	25
+NAME	Zerubbabel → Zerubbabel (Zerubavel)	25
+NAME	Ain → Ayin	24
+NAME	Babylonia → Babylonia (Bavel)	24
+NAME	Benjaminite → Benyamini	24
+NAME	Cappadocia → Kappadokia	24
+NAME	Debir → Devir	24
+NAME	Derbe → Derbai	24
+NAME	Eliphaz → Elifaz	24
 NAME	Hivite → Hivi	24
-NAME	Horeb → Horev	24
-NAME	Ithamar → Itamar	24
-NAME	Jezreel Valley → Yizre’el Valley	24
-NAME	Mahanaim → Mahanayim	24
-NAME	Peor → Pe’or	24
-NAME	Smyrna → Smurna	24
+NAME	Jehoram → Jehoram (Yehoram)	24
+NAME	Jotham → Jotham (Yotam)	24
+NAME	Perez → Perets	24
+NAME	Quirinius → Kurenios	24
+NAME	Riblah → Rivlah	24
 NAME	Susanna → Shoshanah	24
-NAME	Abijam → Aviyam	23
+NAME	Tobiah → Toviyah	24
+NAME	Zadok → Zadok (Tsadok)	24
+NAME	Zobah → Tsovah	24
+NAME	Aijalon → Ayalon	23
+NAME	Anathoth → Anatot	23
 NAME	Bacchides → Bakides	23
-NAME	Eliashib → Elyashiv	23
-NAME	Elimelech → Elimelek	23
-NAME	Galatian → Galatikos	23
-NAME	Meshullam → Meshulam	23
-NAME	Thummim → Tumim	23
-NAME	Uzzah → Uza	23
-NAME	Zelophehad → Tselofehad	23
-NAME	Zipporah → Tsiporah	23
-NAME	Acco → Ako	22
-NAME	Amalekite → Amaleki	22
-NAME	Bithynia → Bithunia	22
-NAME	Idumea → Idoumaia	22
-NAME	Joktan → Yaketan	22
-NAME	Malta → Melitai	22
-NAME	Maon → Maeon	22
-NAME	Nicanor → Nikanor	22
-NAME	Philadelphia → Filadelfeia	22
-NAME	Pontus → Pontos	22
-NAME	Rephidim → Refidim	22
-NAME	Shammai → Shamay	22
-NAME	Shaphan → Shafan	22
-NAME	Theophilus → Theofilos	22
-NAME	Thyatira → Thuateira	22
-NAME	Ashtaroth → Ashtarot	21
-NAME	Cana → Kana	21
-NAME	Diotrephes → Diotrefes	21
-NAME	Ephraimite → Efrati	21
-NAME	Gershonites → Gershonim	21
-NAME	Hilkiah → Hilkiyah	21
-NAME	Italian → Italia	21
-NAME	Laish → Layish	21
-NAME	Libyans → Luvim	21
-NAME	Lycia → Lukia	21
+NAME	Dibon → Divon	23
+NAME	Ethan → Eytan	23
+NAME	Gamaliel → Gamliel	23
+NAME	Gershonite → Gershoni	23
+NAME	Hananiah → Hananyah	23
+NAME	Horites → Horim	23
+NAME	Lycaonia → Lukaonia	23
+NAME	Martha → Marta	23
+NAME	Merodach-baladan → Merodak-Bal’adan	23
+NAME	Naaman → Na’aman	23
+NAME	Naomi → Naomi (No’omi)	23
+NAME	Onesimus → Onesimos	23
+NAME	Philemon → Philemon (Filemon)	23
+NAME	Sadducees → Sadducees (Sadducee group)	23
+NAME	Samaritan → Samaritan (Shomroni)	23
+NAME	Shealtiel → Shealtiyel	23
+NAME	Zebedee → Zavday	23
+TERM	LORD → Yahweh (added after their term)	23
+NAME	Ahithophel → Ahitofel	22
+NAME	Amorite → Amorite (Amori)	22
+NAME	Ananias → Hananyah	22
+NAME	Cleopatra → Kleopatra	22
+NAME	Elizabeth → Elisheva	22
+NAME	Gaius → Gaios	22
+NAME	Gath → Gath (Gat)	22
+NAME	Geba → Geva	22
+NAME	Heliopolis → Beyt-Shemesh	22
+NAME	Hittite → Hittite (Hiti)	22
+NAME	Horeb → Horev	22
+NAME	Reuel → Re’uel	22
+NAME	Acco → Ako	21
+NAME	Aphek → Afek	21
+NAME	Artaxerxes → Artaxerxes (Artahshashta)	21
+NAME	Belshazzar → Belshazzar (Belshatsar)	21
+NAME	Beth-horon → Beyt-Horon	21
+NAME	Capernaum → Capernaum (Kafarnaoum)	21
+NAME	Colosse → Colosse (Kolossai)	21
+NAME	Danites → Danim	21
+NAME	Emmaus → Emmaous	21
+NAME	Gibeonites → Gibeonites (Givonim)	21
+NAME	Hezron → Hetsron	21
+NAME	Jebusites → Yevusim	21
+NAME	Joel → Joel (Yoel)	21
+NAME	Mede → Madi	21
+NAME	Meshullam → Meshulam	21
+NAME	Midianites → Midianites (Midyanites)	21
+NAME	Nicanor → Nikanor	21
+NAME	Pontius → Pontios	21
 NAME	Raphael → Refael	21
-NAME	Rhodes → Rodos	21
-NAME	Zoar → Tsoar	21
-NAME	Belial → Beliar	20
-NAME	Calah → Kelah	20
-NAME	Eber → Ever	20
-NAME	Hobab → Hovav	20
-NAME	Rimmon → Rimon	20
-NAME	Shebna → Shevna	20
-NAME	Tanis → Tsoan	20
-NAME	Zoan → Tsoan	20
-NAME	Ahimaaz → Ahima’ats	19
-NAME	Aram-naharaim → Aram-Naharayim	19
-NAME	Areopagus → Areios Pagos	19
-NAME	Elamites → Eylamites	19
-NAME	Ephron → Efron	19
-NAME	Hivites → Hivim	19
-NAME	Javan → Yavan	19
-NAME	Jeduthun → Yedutun	19
+NAME	Sanballat → Sanvalat	21
+NAME	Sardis → Sardeis	21
+NAME	Stephen → Stephen (Stefanos)	21
+NAME	Uriah → Uriah (Uriyah)	21
+NAME	Xerxes → Xerxes (Ahashverosh)	21
+NAME	Zebulun → Zebulun (Zevulun)	21
+NAME	Zophar → Zophar (Tsofar)	21
+NAME	Agrippa → Agrippa (Agrippas)	20
+NAME	Athaliah → Athaliah (Atalyah)	20
+NAME	Baasha → Baasha (Baesha)	20
+NAME	Benaiah → Benayah	20
+NAME	Ephraimite → Efrati	20
+NAME	Kohathites → Kohatites	20
+NAME	Libyans → Luvim	20
+NAME	Lycia → Lukia	20
+NAME	Machpelah → Makpelah	20
+NAME	Mephibosheth → Mephibosheth (Mefiboshet)	20
+NAME	Naphtali → Naphtali (Naftali)	20
+NAME	Rameses → Ra’meses	20
+NAME	Sheba → Sheba (Sheva)	20
+NAME	Ahimelech → Ahimelek	19
+NAME	Ashtaroth → Ashtarot	19
+NAME	Calah → Kelah	19
+NAME	Elath → Eylot	19
+NAME	En-gedi → Eyn-Gedi	19
+NAME	Galatian → Galatikos	19
+NAME	Galilean → Galilean (Galili)	19
+NAME	Idumea → Idoumaia	19
 NAME	Jeiel → Yeiel	19
 NAME	Korahite → Korhi	19
-NAME	Merarite → Merari	19
-NAME	Uz → Uts	19
-NAME	Ziba → Tsiva	19
-NAME	Adullam → Adulam	18
+NAME	Medes → Medes (Madim)	19
+NAME	Midian → Midian (Midyan)	19
+NAME	Nadab → Nadab (Nadav)	19
+NAME	Philistia → Philistia (Peleshet)	19
+NAME	Pontus → Pontos	19
+NAME	Seleucus → Seleukos	19
+NAME	Shammai → Shamay	19
+NAME	Uzzah → Uza	19
+NAME	Zipporah → Tsiporah	19
+TERM	synagogues → meeting halls (added after their term)	19
+NAME	Abijah → Abijah (Aviyah)	18
+NAME	Achan → Achan (Akan)	18
 NAME	Alcimus → Alkimos	18
-NAME	Argob → Argov	18
-NAME	Arimathea → Arimathaia	18
-NAME	Arphaxad → Arpakshad	18
-NAME	Athenian → Athainaios	18
-NAME	Bartimaeus → Bar-Timaios	18
-NAME	Basemath → Basemat	18
-NAME	Bethesda → Beyt-Hesda	18
-NAME	Bezalel → Betsalel	18
-NAME	Binnui → Binuy	18
-NAME	Cretan → Kretes	18
-NAME	Epaphroditus → Epafroditos	18
-NAME	Ephesian → Efesos	18
-NAME	Erastus → Erastos	18
-NAME	Gehazi → Geyhazi	18
-NAME	Gennesaret → Gennaisaret	18
+NAME	Ammonite → Ammonite (Amoni)	18
+NAME	Andrew → Andrew (Andreas)	18
+NAME	Arabian → Arabian (Aravi)	18
+NAME	Bithynia → Bithunia	18
+NAME	Eliashib → Elyashiv	18
+NAME	Gedaliah → Gedaliah (Gedalyah)	18
+NAME	Goliath → Goliath (Galyat)	18
+NAME	Hazor → Hazor (Hatsor)	18
 NAME	Herodians → Hairodais	18
-NAME	Hophra → Hofra	18
-NAME	Izhar → Yitshar	18
-NAME	Kenite → Keyni	18
-NAME	Menelaus → Menelaos	18
-NAME	Meshech → Meshek	18
+NAME	Ishbosheth → Ishbosheth (Ish-Boshet)	18
+NAME	Italian → Italia	18
+NAME	Jabesh-gilead → Yavesh-Gilead	18
+NAME	Javan → Yavan	18
+NAME	Jebusite → Yevusi	18
+NAME	Joktan → Yaketan	18
+NAME	Malta → Melitai	18
+NAME	Maon → Maeon	18
+NAME	Merarite → Merari	18
+NAME	Mizpah → Mizpah (Mitspah)	18
+NAME	Rephidim → Refidim	18
 NAME	Simeonite → Shim’oni	18
-NAME	Tubal → Tuval	18
-NAME	Abinadab → Avinadav	17
+NAME	Smyrna → Smurna	18
+NAME	Thessalonian → Thessalonian (Thessalonikai)	18
+NAME	Tiglath-pileser → Tiglath-pileser (Tiglat-Pileser)	18
+NAME	Ziph → Zif	18
+NAME	Arphaxad → Arpakshad	17
 NAME	Asian → Asianos	17
+NAME	Berea → Beroia	17
 NAME	Berechiah → Berekyah	17
-NAME	Bethuel → Betuel	17
-NAME	Eliab → Eliav	17
-NAME	Epaphras → Epafras	17
+NAME	Binnui → Binuy	17
+NAME	Cana → Kana	17
+NAME	Chemosh → Kemosh	17
+NAME	Cyrene → Kurainai	17
+NAME	Eliakim → Elyakim	17
 NAME	Gadite → Gadi	17
-NAME	Hades → Haidais	17
-NAME	Jael → Ya’el	17
-NAME	Libnah → Livnah	17
-NAME	Matthias → Matiyah	17
-NAME	Potiphar → Potifar	17
-NAME	Salem → Shalem	17
-NAME	Shammah → Shamah	17
-NAME	Sirach → Sira	17
-NAME	Taanach → Ta’anak	17
-NAME	Zeruiah → Tseruyah	17
-NAME	Zorah → Tsor’ah	17
-TERM	Sabbath day → Rest Day	17
-NAME	Alphaeus → Halfay	16
-NAME	Ashtoreth → Ashtoret	16
-NAME	Astyages → Astuages	16
-NAME	Cushite → Kushi	16
-NAME	Delilah → Dililah	16
-NAME	Dothan → Dotan	16
-NAME	En-rogel → Eyn-Rogel	16
-NAME	Heli → Eli	16
-NAME	Ishmaelites → Yishmaelim	16
-NAME	Jamnia → Yavneh	16
-NAME	Lucius → Lukios	16
-NAME	Maaseiah → Ma’aseyah	16
+NAME	Gibeah → Gibeah (Giveah)	17
+NAME	Hilkiah → Hilkiyah	17
+NAME	Hobab → Hovav	17
+NAME	Hushai → Hushay	17
+NAME	Jehoash → Jehoash (Yehoash)	17
+NAME	Jehoiada → Jehoiada (Yehoyada)	17
+NAME	Molech → Molech (Molek)	17
+NAME	Onesimus → Onesimus (Onesimos)	17
+NAME	Rabbah → Rabah	17
+NAME	Seir → Seir (Se’ir)	17
+NAME	Tanis → Tsoan	17
+NAME	Thyatira → Thuateira	17
+NAME	Abihu → Avihu	16
+NAME	Achan → Akan	16
+NAME	Areopagus → Areios Pagos	16
+NAME	Argob → Argov	16
+NAME	Barzillai → Barzilay	16
+NAME	Basemath → Basemat	16
+NAME	Bethesda → Beyt-Hesda	16
+NAME	Eber → Ever	16
+NAME	Edomite → Edomite (Edomi)	16
+NAME	Enoch → Enoch (Hanok)	16
+NAME	Gaius → Gaius (Gaios)	16
+NAME	Gaza → Gaza (Azah)	16
+NAME	Gennesaret → Gennaisaret	16
+NAME	India → India (Hodu)	16
+NAME	Iscariot → Iscariot (Iskariot)	16
+NAME	Izhar → Yitshar	16
+NAME	Jude → Jude (Yehudah)	16
+NAME	Mahanaim → Mahanayim	16
+NAME	Matthias → Matiyah	16
+NAME	Menelaus → Menelaos	16
 NAME	Michmash → Mikmas	16
-NAME	Obed → Oved	16
-NAME	Ophrah → Ofrah	16
-NAME	Philippian → Filippaisios	16
-NAME	Uzziel → Uziel	16
-NAME	Abdon → Avdon	15
+NAME	Miriam → Miriam (Miryam)	16
+NAME	Samaritans → Samaritans (Shomronim)	16
+NAME	Sarai → Sarai (Saray)	16
+NAME	Sheshbazzar → Sheshebatsar	16
+NAME	Susa → Susa (Shushan)	16
+NAME	Thessalonian → Thessalonikai	16
+NAME	Zoar → Tsoar	16
+NAME	Abel → Abel (Hevel)	15
+NAME	Achaia → Achaia (Akaia)	15
 NAME	Adaiah → Adayah	15
-NAME	Anath → Anat	15
-NAME	Araunah → Aravnah	15
+NAME	Asaph → Asaph (Asaf)	15
 NAME	Asenath → Esenat	15
-NAME	Barabbas → Bar-Aba	15
+NAME	Athenian → Athainaios	15
+NAME	Athens → Athens (Athainai)	15
+NAME	Elamites → Eylamites	15
 NAME	Elpaal → Elpa’al	15
-NAME	Erech → Erek	15
-NAME	Galileans → Galilim	15
+NAME	Gershonites → Gershonim	15
 NAME	Heber → Hever	15
-NAME	Illyricum → Illurikon	15
-NAME	Maher-shalal-hash-baz → Maher-Shalal-Hash-Baz	15
-NAME	Moriah → Moriyah	15
-NAME	Nicopolis → Nikopolis	15
-NAME	Paphos → Pafos	15
+NAME	Issachar → Issachar (Yisakar)	15
+NAME	Ithamar → Itamar	15
+NAME	Jebusites → Jebusites (Yevusim)	15
+NAME	Kohath → Kohath (Kohat)	15
+NAME	Lucius → Lukios	15
+NAME	Maaseiah → Ma’aseyah	15
+NAME	Magdalene → Magdala	15
+NAME	Martha → Martha (Marta)	15
+NAME	Nebo → Nebo (Nevo)	15
+NAME	Neco → Neco (Nekoh)	15
+NAME	Philadelphia → Filadelfeia	15
 NAME	Reubenite → Re’uveni	15
+NAME	Rhodes → Rodos	15
+NAME	Shammah → Shamah	15
 NAME	Shittim → Shitim	15
-NAME	Tema → Teyma	15
-NAME	Teman → Teyman	15
-NAME	Zin → Tsin	15
-NAME	Abiram → Aviram	14
-NAME	Adriatic → Adrias	14
-NAME	Baal-peor → Ba’al-Pe’or	14
-NAME	Baanah → Ba’anah	14
-NAME	Beeroth → Be’erot	14
-NAME	Cenchrea → Kegkreai	14
-NAME	Cretans → Kraitai	14
-NAME	Dionysius → Dionusios	14
-NAME	Etham → Etam	14
-NAME	Hymenaeus → Humenaios	14
-NAME	Keilah → Ke’ilah	14
+NAME	Taanach → Ta’anak	15
+NAME	Thummim → Thummim (Tumim)	15
+NAME	Tychicus → Tukikos	15
+NAME	Zoan → Tsoan	15
+TERM	Sabbath day → Rest Day (added after their term)	15
+NAME	Abdon → Avdon	14
+NAME	Abiathar → Abiathar (Evyatar)	14
+NAME	Abihu → Abihu (Avihu)	14
+NAME	Abishai → Avishay	14
+NAME	Astyages → Astuages	14
+NAME	Bezalel → Betsalel	14
+NAME	Caiaphas → Caiaphas (Kayafa)	14
+NAME	Carchemish → Carchemish (Karkemish)	14
+NAME	Dothan → Dotan	14
+NAME	Jesse → Jesse (Yishay)	14
+NAME	Kenite → Keyni	14
 NAME	Malchijah → Malkiyah	14
-NAME	Mattaniah → Matanyah	14
-NAME	Milcah → Milkah	14
-NAME	Ninevites → Nineuitais	14
+NAME	Megiddo → Megiddo (Megidon)	14
+NAME	Micaiah → Micaiah (Mikayah)	14
+NAME	Michal → Michal (Mikal)	14
+NAME	Ophrah → Ofrah	14
 NAME	Parosh → Par’osh	14
-NAME	Shaharaim → Shaharayim	14
-NAME	Silvanus → Siluanos	14
-NAME	Zarephath → Tserefat	14
-NAME	Abaddon → Avadon	13
-NAME	Abib → Aviv	13
-NAME	Armageddon → Harmagedon	13
-NAME	Bernice → Bernike	13
+NAME	Shaphan → Shafan	14
+NAME	Spain → Spain (Spania)	14
+NAME	Theophilus → Theofilos	14
+NAME	Tubal → Tuval	14
+NAME	Uzziel → Uziel	14
+NAME	Zacchaeus → Zakay	14
+NAME	Zelophehad → Tselofehad	14
+NAME	Ziba → Tsiva	14
+NAME	Zorah → Tsor’ah	14
+NAME	Abijam → Aviyam	13
+NAME	Adullam → Adulam	13
+NAME	Ahimaaz → Ahima’ats	13
+NAME	Amalekite → Amaleki	13
+NAME	Arabah → Arabah (Aravah)	13
+NAME	Baanah → Ba’anah	13
+NAME	Belial → Beliar	13
+NAME	Bethuel → Betuel	13
 NAME	Bethulia → Betulia	13
-NAME	Cephas → Kefa	13
-NAME	Clopas → Klopas	13
-NAME	Dathan → Datan	13
-NAME	Ebenezer → Even-Ha’ezer	13
-NAME	Elon → Eylon	13
-NAME	Hellenists → Hellainistais	13
-NAME	Justus → Yustos	13
-NAME	Kerioth → Keriyot	13
-NAME	Merarites → Merarim	13
-NAME	Meribah → Merivah	13
-NAME	Paddan-aram → Padan-Aram	13
+NAME	Cyprus → Cyprus (Kupros)	13
+NAME	Eliab → Eliav	13
+NAME	Ephron → Efron	13
+NAME	Erech → Erek	13
+NAME	Ethiopian → Ethiopian (Kushi)	13
+NAME	Heli → Eli	13
+NAME	Hittites → Hittites (Hitim)	13
+NAME	Jairus → Yair	13
+NAME	Jamnia → Yavneh	13
+NAME	Jehoahaz → Jehoahaz (Yehoahaz)	13
+NAME	Laish → Layish	13
+NAME	Mattaniah → Matanyah	13
 NAME	Pahath-moab → Pahat-Moav	13
-NAME	Pekahiah → Pekahyah	13
-NAME	Perga → Pergai	13
-NAME	Seleucia → Seleukeia	13
-NAME	Shecaniah → Shekanyah	13
+NAME	Paphos → Pafos	13
+NAME	Phoenicia → Phoenicia (Foinikai)	13
+NAME	Potiphar → Potifar	13
+NAME	Priscilla → Priscilla (Priskilla)	13
+NAME	Rimmon → Rimon	13
+NAME	Shaharaim → Shaharayim	13
 NAME	Shinar → Shin’ar	13
 NAME	Shobal → Shoval	13
-NAME	Socoh → Sokoh	13
-NAME	Tahpanhes → Tahfanhes	13
-NAME	Tammuz → Tamuz	13
+NAME	Uz → Uts	13
+NAME	Abinadab → Avinadav	12
 NAME	Amminadab → Aminadav	12
-NAME	Anna → Hanah	12
+NAME	Anath → Anat	12
+NAME	Annas → Annas (Hanan)	12
+NAME	Aquila → Aquila (Akulas)	12
+NAME	Aram-naharaim → Aram-Naharayim	12
+NAME	Arimathea → Arimathaia	12
 NAME	Attalus → Atalos	12
-NAME	Caphtor → Kaftor	12
-NAME	Gaal → Ga’al	12
-NAME	Gebal → Geval	12
-NAME	Geshurites → Geshurim	12
-NAME	Ishmaelite → Yishmaeli	12
-NAME	Jaazaniah → Ya’azanyah	12
-NAME	Libyan → Luvi	12
-NAME	Mahalath → Mahalat	12
-NAME	Merab → Merav	12
-NAME	Nazarenes → Nazoraios	12
-NAME	Ophel → Ofel	12
-NAME	Rizpah → Ritspah	12
+NAME	Bethany → Bethany (Beyt-Ania)	12
+NAME	Claudius → Claudius (Klaudios)	12
+NAME	Delilah → Dililah	12
+NAME	Dionysius → Dionusios	12
+NAME	Elimelech → Elimelek	12
+NAME	Erastus → Erastos	12
+NAME	Etham → Etam	12
+NAME	Ethiopia → Ethiopia (Kush)	12
+NAME	Hellenists → Hellainistais	12
+NAME	Hivites → Hivim	12
+NAME	Hophra → Hofra	12
+NAME	Italy → Italy (Italia)	12
+NAME	Jeduthun → Yedutun	12
+NAME	Jezreel Valley → Jezreel Valley (Yizre’el Valley)	12
+NAME	Lachish → Lachish (Lakish)	12
+NAME	Meshech → Meshek	12
+NAME	Midianite → Midianite (Midyanite)	12
+NAME	Naaman → Naaman (Na’aman)	12
+NAME	Nabal → Nabal (Naval)	12
+NAME	Naboth → Naboth (Navot)	12
+NAME	Peor → Pe’or	12
+NAME	Perga → Pergai	12
+NAME	Phinehas → Phinehas (Pinhas)	12
+NAME	Salem → Shalem	12
 NAME	Shephatiah → Shefatyah	12
 NAME	Shunammite → Shunamit	12
-NAME	Syene → Seveneh	12
-NAME	Trophimus → Trofimos	12
-NAME	Zeboiim → Tsevoim	12
+NAME	Sirach → Sira	12
+NAME	Tabor → Tabor (Tavor)	12
+NAME	Thebes → Thebes (No)	12
+NAME	Tiberius → Tiberius (Tiberios)	12
 NAME	Zophah → Tsofah	12
 NAME	Abiel → Aviel	11
 NAME	Abiezer → Aviezer	11
-NAME	Abishag → Avishag	11
+NAME	Abiram → Aviram	11
+NAME	Ahijah → Ahijah (Ahiyah)	11
 NAME	Ahitub → Ahituv	11
-NAME	Athenians → Athainai	11
-NAME	Baal-berith → Ba’al-Berit	11
-NAME	Baal-zebub → Ba’al-Zevuv	11
-NAME	Beth-zur → Beyt-Tsur	11
-NAME	Elamite → Eylami	11
-NAME	Elim → Eylim	11
-NAME	Etam → Eytam	11
-NAME	Gershom → Gereshom	11
+NAME	Azariah → Azariah (Azaryah)	11
+NAME	Beeroth → Be’erot	11
+NAME	Bernice → Bernike	11
+NAME	Caphtor → Kaftor	11
+NAME	Cenchrea → Kegkreai	11
+NAME	Cornelius → Cornelius (Kornelios)	11
+NAME	Cushite → Kushi	11
+NAME	Elon → Eylon	11
+NAME	En-rogel → Eyn-Rogel	11
+NAME	Ephesian → Efesos	11
+NAME	Epiphanes → Epiphanes (Epifanes)	11
+NAME	Esarhaddon → Esarhaddon (Esar-Hadon)	11
+NAME	Festus → Festus (Festos)	11
+NAME	Gethsemane → Gethsemane (Gethsaimanai)	11
+NAME	Hades → Haidais	11
+NAME	Hamath → Hamath (Hamat)	11
+NAME	Hymenaeus → Humenaios	11
+NAME	Illyricum → Illurikon	11
 NAME	Iturea → Itouraios	11
-NAME	Jabesh → Yavesh	11
+NAME	Jaazaniah → Ya’azanyah	11
+NAME	Jael → Ya’el	11
 NAME	Jarmuth → Yarmut	11
-NAME	Jebus → Yevus	11
 NAME	Jehohanan → Yehohanan	11
-NAME	Kenizzite → Kenizi	11
-NAME	Lydda → Lod	11
-NAME	Lysanias → Lusanias	11
-NAME	Lysimachus → Lusimakos	11
-NAME	Makkedah → Makedah	11
-NAME	Micmash → Mikmas	11
-NAME	Moresheth → Morashet	11
-NAME	Oholibamah → Oholivamah	11
+NAME	Jezreel Valley → Yizre’el Valley	11
+NAME	Keilah → Ke’ilah	11
+NAME	Mahalath → Mahalat	11
+NAME	Nazarenes → Nazoraios	11
+NAME	Nicodemus → Nicodemus (Nikodemos)	11
+NAME	Nicopolis → Nikopolis	11
+NAME	Ninevites → Nineuitais	11
+NAME	Obadiah → Obadiah (Ovadyah)	11
 NAME	Pedaiah → Pedayah	11
-NAME	Pethor → Petor	11
-NAME	Ramoth → Ramot	11
-NAME	Sergius → Sergios	11
-NAME	Shelemiah → Shelemyah	11
-NAME	Talmai → Talmay	11
-NAME	Thaddaeus → Thaddaios	11
-NAME	YHWH → Yahweh	11
-NAME	Zalmunna → Tsalmuna	11
-NAME	Zebah → Zevah	11
-NAME	Adoni-zedek → Adoni-Tsedek	10
-NAME	Agabus → Agabos	10
+NAME	Philippian → Filippaisios	11
+NAME	Ptolemy → Ptolemy (Ptolemaios)	11
+NAME	Rabbah → Rabbah (Rabah)	11
+NAME	Seleucia → Seleukeia	11
+NAME	Silvanus → Siluanos	11
+NAME	Socoh → Sokoh	11
+NAME	Syene → Seveneh	11
+NAME	Tarsus → Tarsus (Tarsos)	11
+NAME	Tema → Teyma	11
+NAME	Zebedee → Zebedee (Zavday)	11
+NAME	Zin → Tsin	11
+NAME	Abishai → Abishai (Avishay)	10
+NAME	Adriatic → Adrias	10
+NAME	Alphaeus → Halfay	10
+NAME	Ananias → Ananias (Hananyah)	10
 NAME	Apollonius → Apolonios	10
-NAME	Beor → Be’or	10
-NAME	Bozrah → Batserah	10
+NAME	Athenians → Athainai	10
+NAME	Babel → Babel (Bavel)	10
+NAME	Bartimaeus → Bar-Timaios	10
+NAME	Beth-zur → Beyt-Tsur	10
+NAME	Bethsaida → Bethsaida (Beyt-Tsayda)	10
+NAME	Cephas → Kefa	10
 NAME	Chedorlaomer → Kedorla’omer	10
-NAME	Cushan-rishathaim → Kushan-Rish’atayim	10
-NAME	Dorcas → Dorkas	10
-NAME	Ethiopians → Kushim	10
-NAME	Gerasenes → Gerasainon	10
-NAME	Hophni → Hofni	10
-NAME	Ibleam → Yivleam	10
+NAME	Clopas → Klopas	10
+NAME	Dathan → Datan	10
+NAME	Ebal → Ebal (Eyval)	10
+NAME	Ebenezer → Even-Ha’ezer	10
+NAME	Elam → Elam (Eylam)	10
+NAME	Epaphroditus → Epafroditos	10
+NAME	Etam → Eytam	10
+NAME	Galileans → Galilim	10
+NAME	Gehazi → Gehazi (Geyhazi)	10
+NAME	Hananiah → Hananiah (Hananyah)	10
 NAME	Immer → Imer	10
-NAME	Jahaziel → Yahaziel	10
+NAME	Ishmaelites → Yishmaelim	10
+NAME	Jabbok → Jabbok (Yabok)	10
 NAME	Jether → Yeter	10
-NAME	Joiada → Yoyada	10
-NAME	Kenizzites → Kenizim	10
-NAME	Lebo-hamath → Levo-Hamat	10
-NAME	Massa → Masa	10
-NAME	Parthians → Parthia	10
-NAME	Perizzites → Perizim	10
-NAME	Sidonians → Tsidonim	10
-NAME	Stephanas → Stefanas	10
-NAME	Tyrian → Tsori	10
-NAME	Zabad → Zavad	10
-NAME	Abel-beth-maacah → Avel-Beyt-Ma’akah	9
-NAME	Aristarchus → Aristarkos	9
-NAME	Ataroth → Atarot	9
-NAME	Azel → Atsel	9
-NAME	Beelzebub → Beelzeboul	9
-NAME	Calneh → Keleneh	9
+NAME	Julius → Julius (Yulios)	10
+NAME	Kiriath-jearim → Kiriath-jearim (Kiryat-Yearim)	10
+NAME	Libnah → Livnah	10
+NAME	Libyan → Luvi	10
+NAME	Lydda → Lod	10
+NAME	Lysanias → Lusanias	10
+NAME	Lysimachus → Lusimakos	10
+NAME	Lystra → Lystra (Lustra)	10
+NAME	Moriah → Moriyah	10
+NAME	Obed → Oved	10
+NAME	Peor → Peor (Pe’or)	10
+NAME	Pontius → Pontius (Pontios)	10
+NAME	Rezin → Rezin (Retsin)	10
+NAME	Sergius → Sergios	10
+NAME	Shebna → Shevna	10
+NAME	Shecaniah → Shekanyah	10
+NAME	Shelemiah → Shelemyah	10
+NAME	Sheshbazzar → Sheshbazzar (Sheshebatsar)	10
+NAME	Talmai → Talmay	10
+NAME	Thomas → Thomas (Toma)	10
+NAME	Tigris → Tigris (Hidekel)	10
+NAME	Trophimus → Trofimos	10
+NAME	Abaddon → Avadon	9
+NAME	Abishag → Avishag	9
+NAME	Achish → Achish (Akish)	9
+NAME	Anna → Hanah	9
+NAME	Baal-zebub → Ba’al-Zevuv	9
+NAME	Barabbas → Bar-Aba	9
+NAME	Benaiah → Benaiah (Benayah)	9
 NAME	Caria → Karia	9
 NAME	Chaldea → Kasdim	9
-NAME	Cos → Kos	9
-NAME	Edrei → Edre’i	9
+NAME	Chemosh → Chemosh (Kemosh)	9
+NAME	Cushan-rishathaim → Kushan-Rish’atayim	9
+NAME	Dorcas → Dorkas	9
 NAME	Eleazer → Eleazar	9
-NAME	Elymas → Elumas	9
-NAME	Ephrath → Efrat	9
-NAME	Gemariah → Gemaryah	9
-NAME	Heliodorus → Heliodoros	9
-NAME	Ibzan → Ivtsan	9
-NAME	Jannes → Yannes	9
+NAME	Elim → Eylim	9
+NAME	Elizabeth → Elizabeth (Elisheva)	9
+NAME	Gershom → Gereshom	9
+NAME	Hinnom → Hinnom (Hinom)	9
+NAME	Ibleam → Yivleam	9
+NAME	Immanuel → Immanuel (Imanu-El)	9
+NAME	Jabesh → Yavesh	9
+NAME	Jabesh-gilead → Jabesh-gilead (Yavesh-Gilead)	9
+NAME	Jebusite → Jebusite (Yevusi)	9
 NAME	Jeroham → Yeroham	9
+NAME	Johanan → Johanan (Yohanan)	9
+NAME	Joiada → Yoyada	9
 NAME	Joses → Yoseh	9
-NAME	Kebar → Kevar	9
-NAME	Kiriath-sepher → Kiryat-Sefer	9
-NAME	Macedonians → Makedonians	9
-NAME	Massah → Masah	9
-NAME	Medeba → Meydeva	9
-NAME	Meunites → Meunim	9
-NAME	Mizraim → Mitsrayim	9
-NAME	Nebat → Nevat	9
-NAME	Nicolaitans → Nikolaitais	9
-NAME	Oreb → Orev	9
-NAME	Phoebe → Foibe	9
-NAME	Raamah → Raemah	9
-NAME	Rehob → Rehov	9
-NAME	Rhegium → Raigion	9
-NAME	Sychar → Sukar	9
+NAME	Laodicea → Laodicea (Laodikeia)	9
+NAME	Lydia → Lydia (Ludia)	9
+NAME	Milcah → Milkah	9
+NAME	Molech → Molek	9
+NAME	Oholibamah → Oholivamah	9
+NAME	Ophel → Ofel	9
+NAME	Paddan-aram → Padan-Aram	9
+NAME	Parthians → Parthia	9
+NAME	Pekahiah → Pekahyah	9
+NAME	Rizpah → Ritspah	9
+NAME	Seth → Seth (Shet)	9
+NAME	Succoth → Succoth (Sukot)	9
+NAME	Tammuz → Tamuz	9
 NAME	Tappuah → Tapuah	9
-NAME	Tibni → Tivni	9
-NAME	Tob → Tov	9
-NAME	Abednego → Aved-Nego	8
+NAME	Tyrian → Tsori	9
+NAME	Zabad → Zavad	9
+NAME	Zacchaeus → Zacchaeus (Zakay)	9
+NAME	Zalmunna → Tsalmuna	9
+NAME	Zarephath → Tserefat	9
+NAME	Zebah → Zevah	9
+NAME	Zeruiah → Tseruyah	9
+NAME	Abib → Aviv	8
 NAME	Abihail → Avihayil	8
+NAME	Abijam → Abijam (Aviyam)	8
 NAME	Achior → Ahior	8
+NAME	Adoni-zedek → Adoni-Tsedek	8
 NAME	Adrammelech → Adramelek	8
+NAME	Ahimelech → Ahimelech (Ahimelek)	8
+NAME	Ahithophel → Ahithophel (Ahitofel)	8
+NAME	Amalekite → Amalekite (Amaleki)	8
 NAME	Amariah → Amaryah	8
-NAME	Baal-zephon → Ba’al-Tsefon	8
+NAME	Araunah → Aravnah	8
+NAME	Armageddon → Harmagedon	8
+NAME	Ashtoreth → Ashtoreth (Ashtoret)	8
+NAME	Baal-berith → Ba’al-Berit	8
 NAME	Barsabbas → Bar-Saba	8
-NAME	Benjamites → Benyamites	8
-NAME	Beth-aven → Beyt-Aven	8
+NAME	Beth-shemesh → Beth-shemesh (Beyt-Shemesh)	8
 NAME	Caphtorim → Kaftorim	8
 NAME	Casiphia → Kasifya	8
-NAME	Cauda → Klaudai	8
-NAME	Danite → Dani	8
+NAME	Cretan → Kretes	8
+NAME	Cush → Cush (Kush)	8
+NAME	Edrei → Edre’i	8
+NAME	Elamite → Eylami	8
+NAME	Eliakim → Eliakim (Elyakim)	8
 NAME	Elisheba → Elisheva	8
+NAME	Elymas → Elumas	8
 NAME	En-gannim → Eyn-Ganim	8
-NAME	Ethbaal → Etba’al	8
-NAME	Evil-merodach → Evil-Merodak	8
-NAME	Gadarenes → Gadarainos	8
-NAME	Gadites → Gadim	8
-NAME	Gileadites → Giladim	8
+NAME	Epaphras → Epafras	8
+NAME	Ephrath → Efrat	8
+NAME	Esdras → Ezra	8
+NAME	Gabriel → Gabriel (Gavriel)	8
+NAME	Geba → Geba (Geva)	8
+NAME	Gebal → Geval	8
 NAME	Hellenist → Hellainistais	8
-NAME	Heth → Het	8
+NAME	Heman → Heman (Heyman)	8
+NAME	Ibzan → Ivtsan	8
+NAME	Ithamar → Ithamar (Itamar)	8
+NAME	Jabin → Jabin (Yavin)	8
 NAME	Jabneh → Yavneh	8
 NAME	Jachin → Yakin	8
-NAME	Jambres → Yambres	8
-NAME	Jazer → Yazer	8
-NAME	Jehosheba → Yehosheva	8
-NAME	Jehozadak → Yehotsadak	8
-NAME	Jehudi → Yehudi	8
-NAME	Jephunneh → Yefuneh	8
+NAME	Jahaziel → Yahaziel	8
+NAME	Jair → Jair (Yair)	8
+NAME	Jebus → Yevus	8
 NAME	Jeremoth → Yerimot	8
-NAME	Jochebed → Yokeved	8
-NAME	Kiriath-arba → Kiryat-Arba	8
-NAME	Lydians → Ludi	8
+NAME	Lebo-hamath → Lebo-hamath (Levo-Hamat)	8
+NAME	Magdalene → Magdalene (Magdala)	8
+NAME	Mahanaim → Mahanaim (Mahanayim)	8
 NAME	Malkijah → Malkiyah	8
-NAME	Meremoth → Meremot	8
-NAME	Methuselah → Metushelah	8
+NAME	Merab → Merav	8
+NAME	Merarites → Merarim	8
+NAME	Mizraim → Mitsrayim	8
 NAME	Moabitess → Moavit	8
-NAME	Naamah → Na’amah	8
+NAME	Moresheth → Morashet	8
 NAME	Naarah → Na’arah	8
 NAME	Nephilim → Nefilim	8
 NAME	Netophah → Netofah	8
 NAME	Oholiab → Oholiav	8
-NAME	Pelethites → Peletim	8
-NAME	Pi-hahiroth → Pi-Hahirot	8
-NAME	Pithom → Pitom	8
-NAME	Puteoli → Potioloi	8
-NAME	Rephaites → Refaim	8
-NAME	Reubenites → Re’uvenim	8
-NAME	Sabeans → Sava	8
+NAME	Ophir → Ophir (Ofir)	8
+NAME	Othniel → Othniel (Otniel)	8
+NAME	Perez → Perez (Perets)	8
+NAME	Phoebe → Foibe	8
+NAME	Ramoth → Ramot	8
+NAME	Rhegium → Raigion	8
 NAME	Sallu → Salu	8
-NAME	Samothrace → Samothrakai	8
-NAME	Sapphira → Sapfira	8
-NAME	Shuppim → Shupim	8
-NAME	Syracuse → Surakousai	8
-NAME	Tertullus → Tertullos	8
-NAME	Timnath-serah → Timnat-Serah	8
-NAME	Toi → Toeu	8
-NAME	Topheth → Tofet	8
+NAME	Seleucus → Seleucus (Seleukos)	8
+NAME	Shaphan → Shaphan (Shafan)	8
+NAME	Shemaiah → Shemaiah (Shemayah)	8
+NAME	Tahpanhes → Tahfanhes	8
+NAME	Tirzah → Tirzah (Tirtsah)	8
 NAME	Uzzi → Uzi	8
+NAME	YHWH → Yahweh	8
 NAME	Zaccur → Zakur	8
-NAME	Zalmon → Tsalmon	8
-NAME	Zeeb → Ze’ev	8
+NAME	Zeboiim → Tsevoim	8
 NAME	Zibeon → Tsivoen	8
-NAME	Abarim → Avarim	7
-NAME	Achaicus → Akaikos	7
+NAME	Abednego → Aved-Nego	7
+NAME	Abigail → Abigail (Avigayil)	7
 NAME	Achsah → Aksah	7
-NAME	Ammiel → Amiyel	7
+NAME	Agabus → Agabus (Agabos)	7
 NAME	Ammihud → Amihud	7
-NAME	Andronicus → Andronikos	7
+NAME	Aphek → Aphek (Afek)	7
+NAME	Aram-naharaim → Aram-naharaim (Aram-Naharayim)	7
 NAME	Asherite → Asheri	7
-NAME	Azmaveth → Azmavet	7
-NAME	Azotus → Azotos	7
-NAME	Baal-hazor → Ba’al-Hatsor	7
+NAME	Ataroth → Atarot	7
+NAME	Azel → Atsel	7
+NAME	Baal-peor → Baal-peor (Ba’al-Pe’or)	7
+NAME	Baal-peor → Ba’al-Pe’or	7
+NAME	Baal-zephon → Ba’al-Tsefon	7
 NAME	Baalath-beer → Ba’alat-Be’er	7
 NAME	Becher → Beker	7
-NAME	Belteshazzar → Belteshatsar	7
-NAME	Beth-peor → Beyt-Pe’or	7
-NAME	Brook of Egypt → Egyptian Brook	7
+NAME	Beelzebub → Beelzeboul	7
+NAME	Benjamites → Benyamites	7
+NAME	Beor → Be’or	7
+NAME	Berea → Berea (Beroia)	7
+NAME	Cauda → Klaudai	7
 NAME	Cherethites → Keretim	7
-NAME	Cleopas → Kleopas	7
-NAME	Cozbi → Kozbi	7
-NAME	Crispus → Krispos	7
+NAME	Cos → Kos	7
+NAME	Cyrene → Cyrene (Kurainai)	7
+NAME	Danites → Danites (Danim)	7
+NAME	Diotrephes → Diotrephes (Diotrefes)	7
+NAME	Elimelech → Elimelech (Elimelek)	7
 NAME	Elioenai → Elyehoeynay	7
 NAME	Eliphelet → Elifelet	7
-NAME	Ephah → Eyfah	7
-NAME	Ephrathah → Efratah	7
-NAME	Gibbethon → Gibton	7
+NAME	Gadarenes → Gadarainos	7
+NAME	Gadites → Gadim	7
+NAME	Gershon → Gershon (Gereshon)	7
+NAME	Geshurites → Geshurim	7
 NAME	Gileadite → Giladi	7
-NAME	Hagrites → Hagrim	7
+NAME	Gileadites → Giladim	7
 NAME	Hararite → Harari	7
 NAME	Hauran → Havran	7
+NAME	Hophni → Hofni	7
 NAME	Hotham → Hotam	7
-NAME	Ittai → Itay	7
+NAME	Hushai → Hushai (Hushay)	7
+NAME	Iconium → Iconium (Ikonion)	7
+NAME	Jairus → Jairus (Yair)	7
+NAME	Jannes → Yannes	7
+NAME	Japheth → Japheth (Yefet)	7
 NAME	Jashobeam → Yashaveam	7
-NAME	Jedaiah → Yedayah	7
 NAME	Jediael → Yedieael	7
+NAME	Jeduthun → Jeduthun (Yedutun)	7
 NAME	Jehiel → Yehiel	7
-NAME	Jehonadab → Yehonadav	7
+NAME	Jehudi → Yehudi	7
+NAME	Jethro → Jethro (Yitro)	7
 NAME	Joah → Yoah	7
 NAME	Jokshan → Yakeshan	7
-NAME	Jonadab → Yonadav	7
 NAME	Jozabad → Yozavad	7
 NAME	Jozadak → Yotsadak	7
-NAME	Jubal → Yuval	7
-NAME	Junia → Yunia	7
-NAME	Kerethites → Kereti	7
-NAME	Kittim → Kitim	7
+NAME	Kadesh-barnea → Kadesh-barnea (Kadesh-Barnea)	7
+NAME	Kebar → Kevar	7
+NAME	Kenizzites → Kenizim	7
+NAME	Kiriath-sepher → Kiryat-Sefer	7
 NAME	Ladan → Laedan	7
-NAME	Lo-debar → Lo-Devar	7
+NAME	Lamech → Lamech (Lemek)	7
+NAME	Lydians → Ludi	7
 NAME	Machir → Makir	7
-NAME	Meshach → Meyshak	7
-NAME	Myra → Mura	7
-NAME	Mysia → Musia	7
-NAME	Nobah → Novah	7
+NAME	Machpelah → Machpelah (Makpelah)	7
+NAME	Maher-shalal-hash-baz → Maher-Shalal-Hash-Baz	7
+NAME	Maher-shalal-hash-baz → Maher-shalal-hash-baz (Maher-Shalal-Hash-Baz)	7
+NAME	Makkedah → Makedah	7
+NAME	Massa → Masa	7
+NAME	Medeba → Meydeva	7
+NAME	Meremoth → Meremot	7
+NAME	Merodach-baladan → Merodach-baladan (Merodak-Bal’adan)	7
+NAME	Mesha → Mesha (Meysha)	7
+NAME	Methuselah → Metushelah	7
+NAME	Meunites → Meunim	7
 NAME	Numenius → Numenios	7
-NAME	Oholibah → Oholivah	7
 NAME	Pathros → Patros	7
-NAME	Porcius → Porkios	7
-NAME	Rephaiah → Refayah	7
-NAME	Shadrach → Shadrak	7
-NAME	Shear-jashub → She’ar-Yashuv	7
-NAME	Syrtis → Surtis	7
-NAME	Tattenai → Tatenay	7
-NAME	Temanite → Teymani	7
-NAME	Thebez → Tevets	7
+NAME	Pelethites → Peletim	7
+NAME	Perizzites → Perizim	7
+NAME	Pethor → Petor	7
+NAME	Pi-hahiroth → Pi-Hahirot	7
+NAME	Pithom → Pitom	7
+NAME	Puteoli → Potioloi	7
+NAME	Rameses → Rameses (Ra’meses)	7
+NAME	Samothrace → Samothrakai	7
+NAME	Shallum → Shallum (Shalum)	7
+NAME	Shebna → Shebna (Shevna)	7
+NAME	Sychar → Sukar	7
+NAME	Syracuse → Surakousai	7
+NAME	Teman → Teyman	7
 NAME	Tubal-cain → Tuval-Kayin	7
-NAME	Zaphon → Tsafon	7
+NAME	Tychicus → Tychicus (Tukikos)	7
 NAME	Zattu → Zatu	7
-NAME	Zebul → Zevul	7
+NAME	Zelophehad → Zelophehad (Tselofehad)	7
 NAME	Zerahite → Zarhi	7
-NAME	Zuph → Tsuf	7
-NAME	Abel-meholah → Avel-Meholah	6
+NAME	Ziph → Ziph (Zif)	7
+NAME	Zobah → Zobah (Tsovah)	7
 NAME	Addar → Adar	6
 NAME	Amashsai → Amashsay	6
-NAME	Amittai → Amitay	6
-NAME	Amraphel → Amrafel	6
-NAME	Archippus → Arkippos	6
+NAME	Ammiel → Amiyel	6
+NAME	Anathoth → Anathoth (Anatot)	6
+NAME	Andronicus → Andronikos	6
+NAME	Araunah → Araunah (Aravnah)	6
+NAME	Arimathea → Arimathea (Arimathaia)	6
 NAME	Asaiah → Asayah	6
-NAME	Bamoth-baal → Bamot-Ba’al	6
+NAME	Ashtoreth → Ashtoret	6
+NAME	Azmaveth → Azmavet	6
 NAME	Bebai → Bevay	6
-NAME	Berekiah → Berekyah	6
-NAME	Beth-eden → Beyt-Eden	6
+NAME	Beth-horon → Beth-horon (Beyt-Horon)	6
 NAME	Beth-pelet → Beyt-Pelet	6
-NAME	Bethphage → Beyt-Fagey	6
 NAME	Bithiah → Bityah	6
+NAME	Brook of Egypt → Brook of Egypt (Egyptian Brook)	6
 NAME	Cainan → Keynan	6
-NAME	Caphtorites → Kaftorim	6
 NAME	Chinnereth → Kineret	6
-NAME	Chloe → Kloe	6
-NAME	Cushan → Kushan	6
+NAME	Cleopas → Kleopas	6
+NAME	Cretan → Cretan (Kretes)	6
+NAME	Cretans → Kraitai	6
+NAME	Danite → Dani	6
+NAME	Demetrius → Demetrius (Demetrios)	6
+NAME	Dibon → Dibon (Divon)	6
 NAME	Dionysus → Dionusos	6
-NAME	Ebed → Eved	6
-NAME	Eshcol → Eshkol	6
-NAME	Ethanim → Etanim	6
-NAME	Eunice → Eunike	6
+NAME	Epaphras → Epaphras (Epafras)	6
+NAME	Epaphroditus → Epaphroditus (Epafroditos)	6
+NAME	Ephah → Eyfah	6
+NAME	Evil-merodach → Evil-Merodak	6
+NAME	Ezion-geber → Ezion-geber (Etsyon-Gever)	6
 NAME	Ezrah → Ezra	6
-NAME	Fortunatus → Fortunatos	6
-NAME	Gath-hepher → Gat-Hahefer	6
+NAME	Gemariah → Gemaryah	6
+NAME	Gerasenes → Gerasainon	6
 NAME	Gittite → Giti	6
-NAME	Habor → Havor	6
 NAME	Hasshub → Hashuv	6
-NAME	Havvoth-jair → Havot-Ya’ir	6
-NAME	Huppim → Hupim	6
-NAME	Ichabod → I-Kavod	6
+NAME	Heliodorus → Heliodoros	6
 NAME	Igal → Yigal	6
+NAME	Ishmaelite → Yishmaeli	6
 NAME	Ishvi → Yishvi	6
 NAME	Isshiah → Yishiyah	6
-NAME	Iye-abarim → Iyey-Ha’avarim	6
 NAME	Jabal → Yaval	6
-NAME	Jabez → Yaebets	6
+NAME	Jael → Jael (Ya’el)	6
 NAME	Jahdai → Yehday	6
+NAME	Jambres → Yambres	6
 NAME	Jattir → Yatir	6
+NAME	Jedaiah → Yedayah	6
+NAME	Jehozadak → Yehotsadak	6
 NAME	Jerimoth → Yerimot	6
 NAME	Jokneam → Yakeneam	6
-NAME	Kibroth-hattaavah → Kivrot-Hata’avah	6
+NAME	Jonadab → Yonadav	6
+NAME	Jubal → Yuval	6
+NAME	Justus → Yustos	6
+NAME	Kenites → Kenites (Keynim)	6
+NAME	Kenizzite → Kenizi	6
+NAME	Kerioth → Kerioth (Keriyot)	6
+NAME	Kerioth → Keriyot	6
+NAME	Kiriath-arba → Kiryat-Arba	6
+NAME	Kohathites → Kohathites (Kohatites)	6
+NAME	Laish → Laish (Layish)	6
+NAME	Libnah → Libnah (Livnah)	6
 NAME	Libni → Livni	6
 NAME	Manassite → Menashi	6
-NAME	Meshelemiah → Meshelemyah	6
+NAME	Marduk → Marduk (Merodak)	6
+NAME	Memphis → Memphis (Nof)	6
+NAME	Meribah → Meribah (Merivah)	6
+NAME	Meribah → Merivah	6
+NAME	Meshach → Meyshak	6
+NAME	Michael → Michael (Mika’el)	6
 NAME	Millo → Milo	6
-NAME	Mitylene → Mitulainai	6
-NAME	Moresheth-gath → Moreshet-Gat	6
-NAME	Nebuzaradan → Nevuzar-Adan	6
-NAME	Netophathites → Netofatim	6
-NAME	Onesiphorus → Onesiforos	6
+NAME	Myra → Mura	6
+NAME	Mysia → Musia	6
+NAME	Nathanael → Nathanael (Netanel)	6
+NAME	Nobah → Novah	6
+NAME	Oreb → Orev	6
 NAME	Pelonite → Peloni	6
-NAME	Peninnah → Peninah	6
-NAME	Philometor → Filometor	6
-NAME	Scythian → Skuthais	6
-NAME	Scythopolis → Beyt-Shean	6
-NAME	Sepharvaim → Sefarvayim	6
+NAME	Philadelphia → Philadelphia (Filadelfeia)	6
+NAME	Porcius → Porkios	6
+NAME	Rehob → Rehov	6
+NAME	Rephaiah → Refayah	6
+NAME	Reubenites → Re’uvenim	6
+NAME	Riblah → Riblah (Rivlah)	6
+NAME	Sanballat → Sanballat (Sanvalat)	6
+NAME	Shadrach → Shadrak	6
 NAME	Shammua → Shamua	6
+NAME	Shuppim → Shupim	6
 NAME	Sidonian → Tsidoni	6
-NAME	Sirion → Siryon	6
-NAME	Syntyche → Suntuke	6
-NAME	Taberah → Tav’erah	6
+NAME	Sidonians → Sidonians (Tsidonim)	6
+NAME	Stephanas → Stefanas	6
+NAME	Syrtis → Surtis	6
+NAME	Teman → Teman (Teyman)	6
+NAME	Tertullus → Tertullos	6
+NAME	Thaddaeus → Thaddaios	6
 NAME	Theodotus → Theodotos	6
-NAME	Titius → Titios	6
-NAME	Tower of Hananel → Hananel Tower	6
-NAME	Zarethan → Tseretan	6
-NAME	Ziphites → Zifim	6
+NAME	Thummim → Tumim	6
+NAME	Tibni → Tivni	6
+NAME	Tob → Tov	6
+NAME	Tobiah → Tobiah (Toviyah)	6
+NAME	Troas → Troas (Troias)	6
+NAME	Uz → Uz (Uts)	6
+NAME	Zeruiah → Zeruiah (Tseruyah)	6
 NAME	Abdi → Avdi	5
+NAME	Abel-beth-maacah → Avel-Beyt-Ma’akah	5
+NAME	Abel-meholah → Avel-Meholah	5
+NAME	Abib → Abib (Aviv)	5
+NAME	Abinadab → Abinadab (Avinadav)	5
 NAME	Abishur → Avishur	5
-NAME	Achor → Akor	5
+NAME	Achaicus → Akaikos	5
 NAME	Aczib → Akziv	5
 NAME	Adoni-bezek → Adoni-Vezek	5
-NAME	Adramyttium → Adramuttainos	5
+NAME	Adullam → Adullam (Adulam)	5
+NAME	Ahimaaz → Ahimaaz (Ahima’ats)	5
 NAME	Ahlai → Ahlay	5
-NAME	Anakites → Anakim	5
+NAME	Aijalon → Aijalon (Ayalon)	5
+NAME	Alphaeus → Alphaeus (Halfay)	5
+NAME	Amittai → Amitay	5
+NAME	Amraphel → Amrafel	5
 NAME	Appius → Appios	5
-NAME	Arabians → Aravim	5
-NAME	Aram-zobah → Aram-Tsovah	5
+NAME	Aristarchus → Aristarkos	5
 NAME	Arsaces → Arsakes	5
 NAME	Avvim → Avim	5
-NAME	Avvites → Avim	5
-NAME	Baal-meon → Ba’al-Me’on	5
+NAME	Azotus → Azotos	5
+NAME	Baal-hazor → Ba’al-Hatsor	5
 NAME	Baana → Ba’ana	5
-NAME	Beth-rehob → Beyt-Rehov	5
-NAME	Bezer → Betser	5
+NAME	Bartimaeus → Bartimaeus (Bar-Timaios)	5
+NAME	Barzillai → Barzillai (Barzilay)	5
+NAME	Belial → Belial (Beliar)	5
+NAME	Belteshazzar → Belteshatsar	5
+NAME	Berekiah → Berekyah	5
 NAME	Bigvai → Bigvay	5
+NAME	Bozrah → Batserah	5
+NAME	Bozrah → Bozrah (Batserah)	5
+NAME	Caesarea Philippi → Caesarea Philippi (Kaisareia-Filippi)	5
+NAME	Calneh → Keleneh	5
 NAME	Candace → Kandake	5
+NAME	Chaldeans → Chaldeans (Kasdim)	5
 NAME	Chilion → Kilyon	5
-NAME	Dalmanutha → Dalmanoutha	5
+NAME	Chloe → Kloe	5
+NAME	Cilicia → Cilicia (Kilikia)	5
+NAME	Crispus → Krispos	5
 NAME	Delaiah → Delayah	5
-NAME	Ebed-melech → Eved-Melek	5
+NAME	Derbe → Derbe (Derbai)	5
+NAME	Ebed → Eved	5
+NAME	Elath → Elath (Eylot)	5
 NAME	Eliasaph → Elyasaf	5
+NAME	Eliashib → Eliashib (Elyashiv)	5
 NAME	Elizaphan → Elitsafan	5
 NAME	Elnathan → Elnatan	5
+NAME	En-gedi → En-gedi (Eyn-Gedi)	5
 NAME	En-rimmon → Eyn-Rimon	5
-NAME	Eutychus → Eutukos	5
-NAME	Ezrahite → Ezrahi	5
-NAME	Gittaim → Gitayim	5
+NAME	En-rogel → En-rogel (Eyn-Rogel)	5
+NAME	Ephrathah → Ephrathah (Efratah)	5
+NAME	Eshcol → Eshkol	5
+NAME	Ethanim → Etanim	5
+NAME	Ethbaal → Etba’al	5
+NAME	Ethiopians → Ethiopians (Kushim)	5
+NAME	Ethiopians → Kushim	5
+NAME	Eunice → Eunike	5
+NAME	Gaal → Gaal (Ga’al)	5
+NAME	Gaal → Ga’al	5
+NAME	Galileans → Galileans (Galilim)	5
+NAME	Gallio → Gallio (Gallion)	5
+NAME	Gamaliel → Gamaliel (Gamliel)	5
+NAME	Gehazi → Geyhazi	5
+NAME	Gehenna → Gehenna (geenna)	5
+NAME	Gibbethon → Gibton	5
+NAME	Hades → Hades (Haidais)	5
 NAME	Hakkoz → Hakots	5
 NAME	Hammath → Hamat	5
 NAME	Hashabiah → Hashavyah	5
 NAME	Hassenuah → Senuah	5
-NAME	Hattush → Hatush	5
-NAME	Hazeroth → Hatserot	5
+NAME	Havvoth-jair → Havot-Ya’ir	5
 NAME	Helez → Helets	5
 NAME	Hereth → Heret	5
+NAME	Heth → Het	5
+NAME	Hillel → Hillel (Hilel)	5
+NAME	Hivites → Hivites (Hivim)	5
 NAME	Hoshaiah → Hoshayah	5
 NAME	Imnah → Yimnah	5
 NAME	Ishi → Yishei	5
+NAME	Ishmaelite → Ishmaelite (Yishmaeli)	5
+NAME	Ishmaelites → Ishmaelites (Yishmaelim)	5
 NAME	Ithiel → Itiel	5
+NAME	Ittai → Itay	5
+NAME	Iye-abarim → Iyey-Ha’avarim	5
 NAME	Izrahiah → Yizrahyah	5
-NAME	Jahaz → Yahats	5
-NAME	Jakeh → Yakeh	5
 NAME	Jared → Yered	5
 NAME	Jehoaddah → Yeho’adah	5
+NAME	Jehosheba → Yehosheva	5
 NAME	Jehozabad → Yehozavad	5
-NAME	Jeshaiah → Yeshaeyah	5
-NAME	Jeshurun → Yeshurun	5
+NAME	Jochebed → Yokeved	5
 NAME	Julia → Yulia	5
 NAME	Kelub → Keluv	5
-NAME	Kinnereth → Kineret	5
-NAME	Kiriathaim → Kiryatayim	5
-NAME	Laodiceans → Laodikeia	5
+NAME	Kittim → Kitim	5
+NAME	Lo-debar → Lo-Devar	5
+NAME	Maacah → Maacah (Ma’akah)	5
+NAME	Macedonians → Macedonians (Makedonians)	5
 NAME	Malchiah → Malkiyah	5
-NAME	Malchus → Malkos	5
 NAME	Matthat → Matat	5
 NAME	Meraioth → Merayot	5
-NAME	Milcom → Malkam	5
-NAME	Minni → Mini	5
-NAME	Mizpeh → Mitspah	5
+NAME	Meshech → Meshech (Meshek)	5
+NAME	Meshelemiah → Meshelemyah	5
+NAME	Micmash → Mikmas	5
+NAME	Miletus → Miletus (Milaitos)	5
+NAME	Mitylene → Mitulainai	5
+NAME	Moresheth-gath → Moreshet-Gat	5
 NAME	Nacon → Nakon	5
-NAME	Naioth → Navit	5
-NAME	Nebaioth → Nevayot	5
-NAME	Nethaniah → Netanyah	5
+NAME	Nebat → Nevat	5
+NAME	Nebuzaradan → Nevuzar-Adan	5
 NAME	Netophathite → Netofati	5
+NAME	Netophathites → Netofatim	5
+NAME	Nicolaitans → Nikolaitais	5
 NAME	Nisroch → Nisrok	5
 NAME	Noadiah → Noadyah	5
-NAME	Philetus → Filetos	5
+NAME	Oholibah → Oholivah	5
+NAME	Onesiphorus → Onesiforos	5
+NAME	Onias → Onias (Honyo)	5
+NAME	Pergamum → Pergamum (Pergamos)	5
+NAME	Philippian → Philippian (Filippaisios)	5
+NAME	Philometor → Filometor	5
 NAME	Puvah → Puah	5
+NAME	Raamah → Raemah	5
+NAME	Ramoth-gilead → Ramoth-gilead (Ramot-Gilead)	5
 NAME	Rechab → Rekav	5
 NAME	Rehoboth → Rehovot	5
 NAME	Reumah → Re’umah	5
-NAME	Rhoda → Rode	5
+NAME	Sabeans → Sabeans (Sava)	5
+NAME	Salem → Salem (Shalem)	5
 NAME	Salim → Saleim	5
-NAME	Shaaraim → Sha’arayim	5
+NAME	Sapphira → Sapphira (Sapfira)	5
+NAME	Scythian → Skuthais	5
+NAME	Scythopolis → Beyt-Shean	5
+NAME	Sepharvaim → Sefarvayim	5
 NAME	Shaphat → Shafat	5
 NAME	Shebat → Shevat	5
 NAME	Shelomith → Shelomit	5
 NAME	Shilonite → Shiloni	5
-NAME	Shobi → Shovi	5
-NAME	Shuhite → Shuhi	5
-NAME	Sibmah → Sivmah	5
+NAME	Smyrna → Smyrna (Smurna)	5
 NAME	Soco → Sokoh	5
+NAME	Syntyche → Suntuke	5
 NAME	Tahath → Tahat	5
+NAME	Tahpanhes → Tahpanhes (Tahfanhes)	5
 NAME	Tartarus → Tartaros	5
-NAME	Tel-abib → Tel-Aviv	5
+NAME	Thaddaeus → Thaddaeus (Thaddaios)	5
 NAME	Thaddeus → Thaddaios	5
-NAME	Tower of the Ovens → Ovens Tower	5
+NAME	Thebez → Tevets	5
+NAME	Thyatira → Thyatira (Thuateira)	5
+NAME	Timnath-serah → Timnat-Serah	5
 NAME	Trachonitis → Trakonitis	5
 NAME	Tyrannus → Turannos	5
 NAME	Ulla → Ula	5
 NAME	Zabdi → Zavdi	5
+NAME	Zalmon → Tsalmon	5
+NAME	Zarethan → Tseretan	5
+NAME	Zeeb → Ze’ev	5
 NAME	Abana → Avanah	4
+NAME	Abarim → Avarim	4
 NAME	Abdias → Ovadyah	4
 NAME	Abi → Avi	4
 NAME	Abiud → Avihud	4
-NAME	Aeneas → Aineas	4
+NAME	Achor → Akor	4
+NAME	Adramyttium → Adramuttainos	4
+NAME	Adriatic → Adriatic (Adrias)	4
 NAME	Aenon → Ainon	4
-NAME	Ahio → Ahyo	4
 NAME	Ahzai → Ahzay	4
-NAME	Amana → Amanah	4
 NAME	Ammonitess → Amonit	4
-NAME	Amoz → Amots	4
-NAME	Amphipolis → Amfipolis	4
 NAME	Anab → Anav	4
-NAME	Apphia → Apfia	4
-NAME	Arioch → Areyok	4
+NAME	Anakites → Anakites (Anakim)	4
+NAME	Arabians → Aravim	4
+NAME	Archippus → Arkippos	4
+NAME	Armageddon → Armageddon (Harmagedon)	4
 NAME	Azzur → Azur	4
-NAME	Baal-hermon → Ba’al-Hermon	4
-NAME	Baal-perazim → Ba’al-Peratsim	4
 NAME	Baalah → Ba’alah	4
-NAME	Baalath → Ba’alat	4
 NAME	Baalis → Ba’alis	4
+NAME	Bamoth-baal → Bamot-Ba’al	4
+NAME	Barabbas → Barabbas (Bar-Aba)	4
 NAME	Bavvai → Bavay	4
 NAME	Ben-Geber → Ben-Gever	4
+NAME	Benjamite → Benjamite (Benyamite)	4
 NAME	Beth-arabah → Beyt-Ha’aravah	4
-NAME	Beth-arbel → Beyt-Arbel	4
+NAME	Beth-aven → Beth-aven (Beyt-Aven)	4
+NAME	Beth-aven → Beyt-Aven	4
 NAME	Beth-dagon → Beyt-Dagon	4
+NAME	Beth-eden → Beyt-Eden	4
 NAME	Beth-maacah → Avel-Beyt-Ma’akah	4
-NAME	Beth-millo → Beyt-Milo	4
-NAME	Beth-togarmah → Beyt-Togarmah	4
+NAME	Beth-peor → Beth-peor (Beyt-Pe’or)	4
+NAME	Bethphage → Beyt-Fagey	4
+NAME	Bethuel → Bethuel (Betuel)	4
+NAME	Bezalel → Bezalel (Betsalel)	4
+NAME	Bezer → Betser	4
+NAME	Bithynia → Bithynia (Bithunia)	4
 NAME	Boanerges → Thunder Brothers	4
-NAME	Buzite → Buzi	4
-NAME	Calcol → Kalkol	4
+NAME	Cana → Cana (Kana)	4
 NAME	Carnaim → Karnayim	4
 NAME	Col-hozeh → Kal-Hozeh	4
+NAME	Cozbi → Kozbi	4
+NAME	Cretans → Cretans (Kraitai)	4
+NAME	Cushan → Kushan	4
 NAME	Cushi → Kushi	4
-NAME	Cushites → Kushim	4
 NAME	Cuthah → Kut	4
+NAME	Debir → Debir (Devir)	4
+NAME	Decapolis → Decapolis (Dekapolis)	4
+NAME	Delilah → Delilah (Dililah)	4
 NAME	Dioscorinthius → Dioskorinthios	4
 NAME	Dodai → Doday	4
 NAME	Dositheus → Dositheos	4
+NAME	Eber → Eber (Ever)	4
 NAME	Ebiasaph → Evyasaf	4
 NAME	Eliada → Elyada	4
 NAME	Eliehoenai → Elyehoeynay	4
 NAME	Eloth → Eylot	4
-NAME	Elzaphan → Elitsafan	4
-NAME	Ephraim Gate → Efrayim Gate	4
-NAME	Gareb → Garev	4
-NAME	Geliloth → Gelilot	4
+NAME	Emmaus → Emmaus (Emmaous)	4
+NAME	Ephron → Ephron (Efron)	4
+NAME	Ethan → Ethan (Eytan)	4
+NAME	Eutychus → Eutukos	4
+NAME	Fortunatus → Fortunatos	4
+NAME	Galatian → Galatian (Galatikos)	4
+NAME	Gath-hepher → Gat-Hahefer	4
+NAME	Gebal → Gebal (Geval)	4
 NAME	Gerasene → Gerasenos	4
-NAME	Hadad-rimmon → Hadad-Rimon	4
-NAME	Hadassah → Hadasah	4
+NAME	Gerasenes → Gerasenes (Gerasainon)	4
+NAME	Gershonites → Gershonites (Gershonim)	4
+NAME	Habor → Havor	4
 NAME	Hammoleketh → Hamoleket	4
 NAME	Harodite → Harodi	4
-NAME	Hazar-addar → Hatsar-Adar	4
+NAME	Hattush → Hatush	4
 NAME	Hazar-enan → Hatsar-Eynan	4
-NAME	Heldai → Helday	4
+NAME	Heliopolis → Heliopolis (Beyt-Shemesh)	4
 NAME	Hepher → Hefer	4
 NAME	Hercules → Herakles	4
-NAME	Hobah → Hovah	4
 NAME	Hodaviah → Hodavyah	4
-NAME	Horonaim → Horonayim	4
-NAME	Huram-abi → Huram-Avi	4
+NAME	Hophra → Hophra (Hofra)	4
+NAME	Huppim → Hupim	4
+NAME	Hyrcanus → Hyrcanus (Hurkanos)	4
 NAME	Irijah → Yiriyah	4
-NAME	Jaasiel → Ya’asiyel	4
 NAME	Jaddua → Yadua	4
 NAME	Jahath → Yahat	4
+NAME	Jahaz → Yahats	4
 NAME	Jahzeiah → Yahzeyah	4
 NAME	Japhlet → Yaflet	4
 NAME	Jashen → Yashen	4
+NAME	Jazer → Jazer (Yazer)	4
+NAME	Jazer → Yazer	4
 NAME	Jehallelel → Yehalel’el	4
+NAME	Jehonadab → Jehonadab (Yehonadav)	4
+NAME	Jephunneh → Jephunneh (Yefuneh)	4
 NAME	Jerahmeelite → Yerahme’eli	4
-NAME	Jeshanah → Yeshanah	4
-NAME	Jeshimon → Yeshimon	4
+NAME	Jeshaiah → Yeshaeyah	4
+NAME	Jeshurun → Yeshurun	4
 NAME	Joanan → Yohanan	4
-NAME	Jobab → Yovav	4
 NAME	Joiarib → Yoyariv	4
 NAME	Josech → Yosek	4
-NAME	Kedemoth → Kedemot	4
+NAME	Justus → Justus (Yustos)	4
 NAME	Kenath → Kenat	4
-NAME	Kephirah → Kefirah	4
+NAME	Kenite → Kenite (Keyni)	4
+NAME	Kenizzite → Kenizzite (Kenizi)	4
+NAME	Kerethites → Kereti	4
+NAME	Kinnereth → Kineret	4
+NAME	Kiriathaim → Kiryatayim	4
 NAME	Koz → Kots	4
-NAME	Laodicean → Laodikeus	4
 NAME	Lasea → Lasaia	4
-NAME	Linus → Linos	4
-NAME	Lo-ammi → Lo-Ami	4
-NAME	Lo-ruhamah → Lo-Ruhamah	4
-NAME	Lower Beth-horon → Lower Beyt-Horon	4
-NAME	Maacathites → Ma’akatim	4
+NAME	Makkedah → Makkedah (Makedah)	4
+NAME	Malta → Malta (Melitai)	4
+NAME	Maon → Maon (Maeon)	4
+NAME	Massah → Masah	4
+NAME	Massah → Massah (Masah)	4
+NAME	Mattathias → Mattathias (Matityah)	4
 NAME	Matthan → Matan	4
-NAME	Moseroth → Moserot	4
-NAME	Naamathite → Na’amati	4
-NAME	Neriah → Neriyah	4
-NAME	Nethanel → Netanel	4
+NAME	Mede → Mede (Madi)	4
+NAME	Merarites → Merarites (Merarim)	4
+NAME	Micmash → Micmash (Mikmas)	4
+NAME	Milcom → Malkam	4
+NAME	Minni → Mini	4
+NAME	Mizpeh → Mitspah	4
+NAME	Moriah → Moriah (Moriyah)	4
+NAME	Naamah → Na’amah	4
+NAME	Naioth → Navit	4
+NAME	Nebaioth → Nevayot	4
+NAME	Nebat → Nebat (Nevat)	4
+NAME	Nethaniah → Netanyah	4
 NAME	Nicolaus → Nikolaos	4
+NAME	Obed → Obed (Oved)	4
+NAME	Obed-edom → Obed-edom (Oved-Edom)	4
+NAME	Paddan-aram → Paddan-aram (Padan-Aram)	4
 NAME	Patroclus → Patroklos	4
-NAME	Pelatiah → Pelatyah	4
-NAME	Pelusium → Sin	4
-NAME	Perez-uzzah → Perets-Uza	4
-NAME	Pethuel → Petuel	4
-NAME	Pirathon → Pireaton	4
+NAME	Peninnah → Peninah	4
+NAME	Pethor → Pethor (Petor)	4
+NAME	Philetus → Filetos	4
 NAME	Potiphera → Poti-Fera	4
 NAME	Ramathaim-zophim → Ramatayim-Tsofim	4
 NAME	Reaiah → Reayah	4
+NAME	Rephaites → Rephaites (Refaim)	4
+NAME	Rephidim → Rephidim (Refidim)	4
 NAME	Reu → Re’u	4
-NAME	Riphath → Rifat	4
-NAME	Rufus → Rufos	4
+NAME	Rhoda → Rode	4
+NAME	Rhodes → Rhodes (Rodos)	4
+NAME	Rimmon → Rimmon (Rimon)	4
+NAME	Sardis → Sardis (Sardeis)	4
 NAME	Sebam → Sevam	4
 NAME	Senaah → Sena’ah	4
 NAME	Sepharvites → Sefarvim	4
+NAME	Seraiah → Seraiah (Serayah)	4
+NAME	Shaaraim → Sha’arayim	4
 NAME	Sharezer → Sharetser	4
+NAME	Shear-jashub → Shear-jashub (She’ar-Yashuv)	4
 NAME	Shelomoth → Shelomot	4
 NAME	Shemed → Shemer	4
 NAME	Shephupham → Shefufam	4
 NAME	Shimon → Shim’on	4
-NAME	Tertius → Tertios	4
-NAME	Tishbe → Tishbeh	4
-NAME	Tower of the Hundred → Hundred Tower	4
+NAME	Shobi → Shovi	4
+NAME	Sidonians → Tsidonim	4
+NAME	Sirach → Sirach (Sira)	4
+NAME	Syrian → Syrian (Arami)	4
+NAME	Tattenai → Tatenay	4
+NAME	Tel-abib → Tel-Aviv	4
+NAME	Tema → Tema (Teyma)	4
+NAME	Temanite → Teymani	4
+NAME	Theophilus → Theophilus (Theofilos)	4
+NAME	Toi → Toeu	4
+NAME	Topheth → Tofet	4
+NAME	Topheth → Topheth (Tofet)	4
+NAME	Tubal → Tubal (Tuval)	4
 NAME	Uthai → Utay	4
-NAME	Uzza → Uza	4
-NAME	Valley of Slaughter → Slaughter Valley	4
+NAME	Uzzah → Uzzah (Uza)	4
 NAME	Zaanannim → Tsa’ananim	4
-NAME	Zamzummites → Zamzumim	4
+NAME	Zarephath → Zarephath (Tserefat)	4
 NAME	Zebadiah → Zevadyah	4
-NAME	Zela → Tsela	4
+NAME	Zeboiim → Zeboiim (Tsevoim)	4
+NAME	Zebul → Zevul	4
 NAME	Zeredah → Tseredah	4
+NAME	Ziba → Ziba (Tsiva)	4
 NAME	Zichri → Zikri	4
 NAME	Zillah → Tsilah	4
+NAME	Zin → Zin (Tsin)	4
+NAME	Ziphites → Zifim	4
+NAME	Zipporah → Zipporah (Tsiporah)	4
+NAME	Zoan → Zoan (Tsoan)	4
+NAME	Zoar → Zoar (Tsoar)	4
+NAME	Zophar → Tsofar	4
+NAME	Zuph → Tsuf	4
+NAME	Abaddon → Abaddon (Avadon)	3
+NAME	Abarim → Abarim (Avarim)	3
+NAME	Abel-beth-maacah → Abel-beth-maacah (Avel-Beyt-Ma’akah)	3
 NAME	Abel-shittim → Avel-Hashitim	3
 NAME	Abiezrite → Aviezri	3
 NAME	Abilene → Abilainai	3
 NAME	Achshaph → Akshaf	3
+NAME	Aeneas → Aineas	3
+NAME	Agabus → Agabos	3
 NAME	Ahasbai → Ahasbay	3
 NAME	Ahinadab → Ahinadav	3
+NAME	Ahio → Ahyo	3
 NAME	Ahohite → Ahohi	3
 NAME	Aiah → Ayah	3
-NAME	Aiath → Ay	3
 NAME	Alemeth → Alemet	3
+NAME	Amana → Amanah	3
+NAME	Amphipolis → Amfipolis	3
 NAME	Anammelech → Anamelek	3
-NAME	Apollyon → Apolluon	3
+NAME	Apphia → Apfia	3
+NAME	Arab → Arab (Aravi)	3
+NAME	Aram-zobah → Aram-Tsovah	3
 NAME	Arbite → Arbi	3
+NAME	Archelaus → Archelaus (Arkelaos)	3
 NAME	Archite → Arki	3
+NAME	Areopagus → Areopagus (Areios Pagos)	3
 NAME	Ares → Arah	3
 NAME	Arieh → Aryeh	3
+NAME	Arioch → Areyok	3
+NAME	Aristarchus → Aristarchus (Aristarkos)	3
 NAME	Aroerite → Aro’eri	3
-NAME	Arvadites → Arvadim	3
-NAME	Ashteroth-karnaim → Ashterot-Karnayim	3
 NAME	Assir → Asir	3
-NAME	Assur → Ashur	3
 NAME	Attai → Atay	3
 NAME	Attalia → Atalia	3
 NAME	Avva → Ivah	3
-NAME	Azmon → Atsmon	3
-NAME	Baal-gad → Ba’al-Gad	3
+NAME	Avvites → Avim	3
+NAME	Baal-berith → Baal-berith (Ba’al-Berit)	3
+NAME	Baal-meon → Ba’al-Me’on	3
 NAME	Baalat → Ba’alat	3
-NAME	Bamoth → Bamot	3
+NAME	Baalath → Ba’alat	3
 NAME	Barachel → Barak’el	3
 NAME	Ben-abinadab → Ben-Avinadav	3
 NAME	Ben-oni → Ben-Oni	3
-NAME	Beth-anath → Beyt-Anat	3
+NAME	Beor → Beor (Be’or)	3
 NAME	Beth-anoth → Beyt-Anot	3
-NAME	Beth-haggan → Beyt-Hagan	3
-NAME	Beth-jeshimoth → Beyt-Hayeshimot	3
+NAME	Beth-arbel → Beyt-Arbel	3
 NAME	Beth-nimrah → Beyt-Nimrah	3
+NAME	Beth-peor → Beyt-Pe’or	3
+NAME	Beth-rehob → Beth-rehob (Beyt-Rehov)	3
 NAME	Bethul → Betul	3
-NAME	Bigthana → Bigtan	3
 NAME	Bochim → Bokim	3
 NAME	Bosor → Be’or	3
+NAME	Buzite → Buzi	3
+NAME	Calcol → Kalkol	3
 NAME	Calebite → Kalevi	3
-NAME	Calno → Kalno	3
+NAME	Calneh → Calneh (Keleneh)	3
+NAME	Caphtorites → Caphtorites (Kaftorim)	3
+NAME	Cappadocia → Cappadocia (Kappadokia)	3
+NAME	Cenchrea → Cenchrea (Kegkreai)	3
 NAME	Chislev → Kislev	3
-NAME	Cnidus → Knidos	3
+NAME	Cleopatra → Cleopatra (Kleopatra)	3
 NAME	Conaniah → Konaniyah	3
+NAME	Cozbi → Cozbi (Kozbi)	3
 NAME	Cozeba → Kozava	3
-NAME	Crescens → Kreskes	3
 NAME	Cun → Kun	3
+NAME	Cushite → Cushite (Kushi)	3
+NAME	Dalmanutha → Dalmanoutha	3
 NAME	Dedanites → Dedanim	3
 NAME	Didymus → Didumos	3
+NAME	Diotrephes → Diotrefes	3
+NAME	Ebed-melech → Ebed-melech (Eved-Melek)	3
+NAME	Ebenezer → Ebenezer (Even-Ha’ezer)	3
+NAME	Elamite → Elamite (Eylami)	3
+NAME	Elamites → Elamites (Eylamites)	3
 NAME	Elasah → Eleasah	3
+NAME	Eliab → Eliab (Eliav)	3
 NAME	Ellasar → Elasar	3
-NAME	En-eglaim → Eyn-Eglayim	3
-NAME	Ephrathites → Efratim	3
+NAME	Elzaphan → Elitsafan	3
+NAME	Ephesian → Ephesian (Efesos)	3
+NAME	Ephraimites → Ephraimites (Efrayimim)	3
+NAME	Erastus → Erastus (Erastos)	3
 NAME	Eshbaal → Eshba’al	3
-NAME	Gath-rimmon → Gat-Rimon	3
+NAME	Ethbaal → Ethbaal (Etba’al)	3
+NAME	Ezrahite → Ezrahi	3
+NAME	Gareb → Garev	3
 NAME	Ge-harashim → Ge-Harashim	3
-NAME	Gebalites → Givlim	3
 NAME	Geber → Gever	3
-NAME	Gibeonite → Givoni	3
-NAME	Girgashites → Girgashim	3
-NAME	Girzites → Gizrim	3
+NAME	Geshurites → Geshurites (Geshurim)	3
+NAME	Gittaim → Gitayim	3
 NAME	Gittites → Gitim	3
 NAME	Gizonite → Gizoni	3
-NAME	Goah → Go’ah	3
+NAME	Hadad-rimmon → Hadad-Rimon	3
+NAME	Hadassah → Hadasah	3
 NAME	Hagrite → Hagri	3
-NAME	Hamath-zobah → Hamat-Tsovah	3
+NAME	Hagrites → Hagrim	3
+NAME	Hagrites → Hagrites (Hagrim)	3
 NAME	Hammuel → Hamuel	3
 NAME	Hanniel → Haniyel	3
+NAME	Hazar-addar → Hatsar-Adar	3
 NAME	Hazazon-tamar → Hatsatson-Tamar	3
+NAME	Hazeroth → Hatserot	3
 NAME	Hebronites → Hevronim	3
-NAME	Hegai → Hegay	3
-NAME	Helam → Heylam	3
+NAME	Heldai → Helday	3
+NAME	Hezron → Hezron (Hetsron)	3
 NAME	Hezronite → Hetsroni	3
-NAME	Hinnom Valley → Hinom Valley	3
+NAME	Hilkiah → Hilkiah (Hilkiyah)	3
+NAME	Hobah → Hovah	3
+NAME	Hophni → Hophni (Hofni)	3
 NAME	House of the Forest of Lebanon → Lebanon Forest House	3
-NAME	Ijon → Iyon	3
+NAME	Ichabod → I-Kavod	3
+NAME	Ichabod → Ichabod (I-Kavod)	3
+NAME	Idumea → Idumea (Idoumaia)	3
 NAME	Ir-shemesh → Ir-Shemesh	3
-NAME	Ishbi-benob → Yishbi-Benov	3
 NAME	Ishmaiah → Yishmaeyah	3
 NAME	Ishvah → Yishvah	3
 NAME	Ivvah → Ivah	3
 NAME	Jaakan → Ya’akan	3
-NAME	Jaar → Ya’ar	3
+NAME	Jaasiel → Ya’asiyel	3
 NAME	Jaaziah → Ya’aziyah	3
+NAME	Jabez → Yaebets	3
 NAME	Jabneel → Yavne’el	3
 NAME	Jada → Yada	3
+NAME	Jakeh → Yakeh	3
 NAME	Janoah → Yanoah	3
 NAME	Jarah → Yaerah	3
 NAME	Jashub → Yashuv	3
+NAME	Jason → Jason (Yason)	3
 NAME	Jeberechiah → Yeverekyah	3
-NAME	Jecoliah → Yekaleyah	3
+NAME	Jebus → Jebus (Yevus)	3
 NAME	Jehoiarib → Yehoyariv	3
+NAME	Jehonadab → Yehonadav	3
+NAME	Jehosheba → Jehosheba (Yehosheva)	3
 NAME	Jekuthiel → Yekutiel	3
-NAME	Jerahmeelites → Yerahme’elim	3
+NAME	Jephunneh → Yefuneh	3
 NAME	Jeriah → Yeriyah	3
 NAME	Jerubbaal → Yeruba’al	3
+NAME	Jeshanah → Yeshanah	3
 NAME	Jeush → Ye’ush	3
 NAME	Jezreelite → Yizre’eli	3
-NAME	Joanna → Yohanah	3
+NAME	Jobab → Yovav	3
+NAME	Jochebed → Jochebed (Yokeved)	3
 NAME	Joelah → Yoelah	3
-NAME	Jogbehah → Yagebehah	3
+NAME	Joiakim → Joiakim (Yoyakim)	3
+NAME	Joppa → Joppa (Yafo)	3
 NAME	Josheb-basshebeth → Yoshev-Bashevet	3
 NAME	Joshibiah → Yoshivyah	3
 NAME	Jozacar → Yozakar	3
 NAME	Jucal → Yukal	3
 NAME	Kabzeel → Kavtse’el	3
-NAME	Karnaim → Karnayim	3
+NAME	Kedemoth → Kedemot	3
+NAME	Keilah → Keilah (Ke’ilah)	3
 NAME	Kelaiah → Kelayah	3
 NAME	Kenan → Keynan	3
+NAME	Kephirah → Kefirah	3
 NAME	Kerioth-hezron → Keriyot-Hetsron	3
-NAME	Kir-hareseth → Kir-Hareset	3
-NAME	Kiriath → Kiryat	3
+NAME	Kibroth-hattaavah → Kibroth-hattaavah (Kivrot-Hata’avah)	3
 NAME	Kiriath-sannah → Kiryat-Sanah	3
 NAME	Kishion → Kishyon	3
+NAME	Laodicean → Laodikeus	3
+NAME	Linus → Linos	3
+NAME	Lo-ammi → Lo-Ami	3
+NAME	Lo-ruhamah → Lo-Ruhamah	3
 NAME	Maacathite → Ma’akati	3
+NAME	Maacathites → Ma’akatim	3
 NAME	Maasai → Ma’asay	3
-NAME	Madai → Maday	3
+NAME	Macedonians → Makedonians	3
 NAME	Madmannah → Madmanah	3
-NAME	Mahaneh-dan → Mahaneh-Dan	3
 NAME	Mahath → Mahat	3
+NAME	Malchus → Malkos	3
 NAME	Manahath → Manahat	3
 NAME	Manahathites → Manahatim	3
 NAME	Mehetabel → Meheytavel	3
-NAME	Memucan → Memukan	3
-NAME	Merib-baal → Meriv-Ba’al	3
+NAME	Merab → Merab (Merav)	3
 NAME	Methushael → Metushael	3
 NAME	Mezobaite → Metsovayah	3
 NAME	Mibhar → Mivhar	3
 NAME	Mijamin → Miyamin	3
-NAME	Mithradates → Mitredat	3
+NAME	Milcah → Milcah (Milkah)	3
+NAME	Moresheth → Moresheth (Morashet)	3
+NAME	Moseroth → Moserot	3
+NAME	Naamah → Naamah (Na’amah)	3
 NAME	Naarai → Na’aray	3
 NAME	Naphath-dor → Nafat-Dor	3
 NAME	Neariah → Nearyah	3
-NAME	Nibhaz → Nivhaz	3
-NAME	Nicolas → Nikolaos	3
+NAME	Neriah → Neriyah	3
+NAME	Nethanel → Netanel	3
+NAME	Nicopolis → Nicopolis (Nikopolis)	3
+NAME	Ninevites → Ninevites (Nineuitais)	3
+NAME	Nob → Nob (Nov)	3
 NAME	Noph → Nof	3
-NAME	Obal → Oval	3
+NAME	Ophel → Ophel (Ofel)	3
+NAME	Oreb → Oreb (Orev)	3
 NAME	Paltite → Palti	3
-NAME	Parvaim → Parvayim	3
+NAME	Pamphylia → Pamphylia (Pamfulia)	3
+NAME	Pekahiah → Pekahiah (Pekahyah)	3
+NAME	Pelatiah → Pelatyah	3
+NAME	Pelusium → Sin	3
+NAME	Perez-uzzah → Perets-Uza	3
+NAME	Perizzites → Perizzites (Perizim)	3
+NAME	Pethuel → Petuel	3
 NAME	Philopator → Filopator	3
-NAME	Phygelus → Fugelos	3
+NAME	Phrygia → Phrygia (Frugia)	3
+NAME	Pirathon → Pireaton	3
+NAME	Pontus → Pontus (Pontos)	3
+NAME	Potiphar → Potiphar (Potifar)	3
 NAME	Publius → Poplios	3
+NAME	Raamah → Raamah (Raemah)	3
 NAME	Raguel → Re’uel	3
-NAME	Ramathaim → Ramatayim	3
 NAME	Raphah → Rafa	3
-NAME	Rehoboth-Ir → Rehovot-Ir	3
 NAME	Remeth → Remet	3
-NAME	Rephan → Remfan	3
-NAME	Rezeph → Retsef	3
-NAME	Rock of Escape → Sela’-Hamahlekot	3
-NAME	Rodanim → Dodanim	3
-NAME	Sabtah → Savtah	3
+NAME	Rephaim → Rephaim (Refaim)	3
+NAME	Rephaites → Refaim	3
+NAME	Reuel → Reuel (Re’uel)	3
+NAME	Riphath → Rifat	3
+NAME	Rizpah → Rizpah (Ritspah)	3
 NAME	Salecah → Salkah	3
-NAME	Seba → Seva	3
-NAME	Segub → Seguv	3
-NAME	Sephar → Sefar	3
+NAME	Sapphira → Sapfira	3
+NAME	Shammai → Shammai (Shamay)	3
 NAME	Shaphir → Shafir	3
+NAME	Shear-jashub → She’ar-Yashuv	3
 NAME	Shebaniah → Shevanyah	3
 NAME	Shebuel → Shevuel	3
 NAME	Shemuel → Shmuel	3
 NAME	Shimeath → Shim’at	3
 NAME	Shimrith → Shimrit	3
 NAME	Shubael → Shuvael	3
+NAME	Shuhite → Shuhi	3
 NAME	Shulammite → Shulamit	3
 NAME	Shuthelah → Shutelah	3
 NAME	Sibbecai → Sibkay	3
+NAME	Sibmah → Sibmah (Sivmah)	3
+NAME	Sirion → Siryon	3
 NAME	Sopater → Sopatros	3
 NAME	Sosipater → Sosipatros	3
+NAME	Stephanas → Stephanas (Stefanas)	3
 NAME	Suph → Suf	3
-NAME	Suphah → Sufah	3
-NAME	Tabeel → Teve’el	3
-NAME	Tabrimmon → Tavrimon	3
+NAME	Taberah → Taberah (Tav’erah)	3
+NAME	Temanite → Temanite (Teymani)	3
+NAME	Tertius → Tertios	3
 NAME	Timnath-heres → Timnat-Heres	3
+NAME	Timnath-serah → Timnath-serah (Timnat-Serah)	3
 NAME	Tiphsah → Tifsah	3
+NAME	Tishbe → Tishbeh	3
+NAME	Titius → Titius (Titios)	3
+NAME	Toi → Toi (Toeu)	3
 NAME	Tokhath → Tokahat	3
 NAME	Tophel → Tofel	3
-NAME	Tryphon → Trufon	3
+NAME	Tower of Hananel → Hananel Tower	3
+NAME	Tower of Hananel → Tower of Hananel (Hananel Tower)	3
+NAME	Tower of the Ovens → Ovens Tower	3
 NAME	Ucal → Ukal	3
 NAME	Zair → Tsa’ir	3
+NAME	Zalmon → Zalmon (Tsalmon)	3
+NAME	Zamzummites → Zamzumim	3
+NAME	Zaphon → Tsafon	3
+NAME	Zaphon → Zaphon (Tsafon)	3
 NAME	Zebidah → Zevidah	3
-NAME	Zeboim → Tsevoeim	3
 NAME	Zebulunite → Zevuluni	3
-NAME	Zelzah → Tseltsah	3
-NAME	Zemaraim → Tsemarayim	3
+NAME	Zeeb → Zeeb (Ze’ev)	3
+NAME	Zela → Tsela	3
 NAME	Zerahiah → Zerahyah	3
+NAME	Ziklag → Ziklag (Tsiklag)	3
 NAME	Zimmah → Zimah	3
 NAME	Ziz → Tsits	3
-TERM	Sabbaths → Rest Days	3
+NAME	Zorah → Zorah (Tsor’ah)	3
+TERM	Sabbaths → Rest Days (added after their term)	3
 TERM	Sovereign LORD → master Yahweh	3
 NAME	Abda → Avda	2
 NAME	Abdiel → Avdiel	2
 NAME	Abi-albon → Avi-Alvon	2
-NAME	Abihud → Avihud	2
 NAME	Abinoam → Avinoam	2
+NAME	Abiram → Abiram (Aviram)	2
+NAME	Abishag → Abishag (Avishag)	2
 NAME	Abishua → Avishua	2
 NAME	Abronah → Avronah	2
 NAME	Accad → Akad	2
+NAME	Achaicus → Achaicus (Akaikos)	2
 NAME	Achim → Akim	2
 NAME	Achzib → Akziv	2
 NAME	Adami-nekeb → Adami-Nekev	2
@@ -1391,193 +1891,297 @@ NAME	Adummim → Adumim	2
 NAME	Agagite → Agagi	2
 NAME	Agee → Age	2
 NAME	Ahlab → Ahlav	2
+NAME	Aiath → Ay	2
 NAME	Aija → Ay	2
-NAME	Akrabbim → Akrabim	2
+NAME	Ain → Ain (Ayin)	2
 NAME	Allon → Alon	2
-NAME	Almon-diblathaim → Almon-Divlatayim	2
 NAME	Amasiah → Amasyah	2
+NAME	Amoz → Amots	2
+NAME	Amoz → Amoz (Amots)	2
 NAME	Amramites → Amramim	2
 NAME	Anaharath → Anaharat	2
+NAME	Anath → Anath (Anat)	2
 NAME	Anathothite → Antoti	2
+NAME	Anna → Anna (Hanah)	2
 NAME	Aphik → Afek	2
+NAME	Apollyon → Apolluon	2
 NAME	Appaim → Apayim	2
 NAME	Aradus → Arvad	2
 NAME	Aram-maacah → Aram-Ma’akah	2
-NAME	Arkite → Arki	2
-NAME	Arkites → Arkim	2
+NAME	Aram-zobah → Aram-zobah (Aram-Tsovah)	2
+NAME	Archippus → Archippus (Arkippos)	2
+NAME	Argob → Argob (Argov)	2
+NAME	Aristobulus → Aristobulus (Aristobulos)	2
 NAME	Arubboth → Arubot	2
+NAME	Arvadites → Arvadim	2
 NAME	Asharelah → Asarelah	2
-NAME	Ashdodites → Ashdodim	2
+NAME	Ashtaroth → Ashtaroth (Ashtarot)	2
 NAME	Ashterathite → Ashterati	2
-NAME	Ashurites → Ashurim	2
+NAME	Ashteroth-karnaim → Ashterot-Karnayim	2
 NAME	Asians → Asia	2
+NAME	Asshur → Asshur (Ashur)	2
 NAME	Asshurim → Ashurim	2
+NAME	Assur → Ashur	2
 NAME	Ataroth-addar → Atrot-Adar	2
 NAME	Athaiah → Atayah	2
+NAME	Athenian → Athenian (Athainaios)	2
 NAME	Athenobius → Athenobios	2
+NAME	Avvites → Avvites (Avim)	2
+NAME	Azel → Azel (Atsel)	2
+NAME	Azmon → Atsmon	2
+NAME	Azotus → Azotus (Azotos)	2
 NAME	Azubah → Azuvah	2
-NAME	Baal-hamon → Ba’al-Hamon	2
-NAME	Balamon → Ba’al-Hamon	2
+NAME	Baal-gad → Baal-gad (Ba’al-Gad)	2
+NAME	Baal-hamon → Baal-hamon (Ba’al-Hamon)	2
+NAME	Baal-hermon → Baal-hermon (Ba’al-Hermon)	2
+NAME	Baal-hermon → Ba’al-Hermon	2
+NAME	Baal-meon → Baal-meon (Ba’al-Me’on)	2
+NAME	Baal-perazim → Baal-perazim (Ba’al-Peratsim)	2
+NAME	Baal-perazim → Ba’al-Peratsim	2
+NAME	Baal-zebub → Baal-zebub (Ba’al-Zevuv)	2
+NAME	Bamoth → Bamot	2
+NAME	Bamoth-baal → Bamoth-baal (Bamot-Ba’al)	2
 NAME	Banias → Bani	2
 NAME	Barachiah → Barakias	2
-NAME	Beer-elim → Be’er-Elim	2
-NAME	Beer-lahai-roi → Be’er-Lahay-Ro’i	2
-NAME	Beeri → Be’eri	2
-NAME	Ben-ammi → Ben-Ami	2
+NAME	Basemath → Basemath (Basemat)	2
+NAME	Beelzebub → Beelzebub (Beelzeboul)	2
+NAME	Beer-lahai-roi → Beer-lahai-roi (Be’er-Lahay-Ro’i)	2
+NAME	Beeroth → Beeroth (Be’erot)	2
+NAME	Belteshazzar → Belteshazzar (Belteshatsar)	2
 NAME	Ben-hesed → Ben-Hesed	2
 NAME	Bene-jaakan → Beney-Ya’akan	2
-NAME	Benjamin Gate → Benyamin Gate	2
-NAME	Beon → Be’on	2
+NAME	Bernice → Bernice (Bernike)	2
 NAME	Beroea → Beroia	2
 NAME	Berothai → Berotah	2
+NAME	Beth-anath → Beyt-Anat	2
 NAME	Beth-biri → Beyt-Biri	2
-NAME	Beth-diblathaim → Beyt-Divlatayim	2
-NAME	Beth-eked → Beyt-Eked	2
 NAME	Beth-gader → Beyt-Gader	2
+NAME	Beth-haggan → Beyt-Hagan	2
+NAME	Beth-jeshimoth → Beyt-Hayeshimot	2
 NAME	Beth-marcaboth → Beyt-Hamarkavot	2
+NAME	Beth-millo → Beth-millo (Beyt-Milo)	2
+NAME	Beth-millo → Beyt-Milo	2
 NAME	Beth-rapha → Beyt-Rafa	2
+NAME	Beth-rehob → Beyt-Rehov	2
 NAME	Beth-shean → Beyt-Shean	2
 NAME	Beth-tappuah → Beyt-Tapuah	2
+NAME	Beth-togarmah → Beth-togarmah (Beyt-Togarmah)	2
+NAME	Beth-togarmah → Beyt-Togarmah	2
 NAME	Bethabara → Beyt-Avarah	2
+NAME	Bethesda → Bethesda (Beyt-Hesda)	2
+NAME	Bethphage → Bethphage (Beyt-Fagey)	2
 NAME	Betomasthaim → Betomesthaim	2
+NAME	Bigthana → Bigtan	2
 NAME	Bileam → Bil’am	2
 NAME	Bor-ashan → Bor-Ashan	2
 NAME	Bozez → Botsets	2
 NAME	Bukki → Buki	2
+NAME	Caphtorites → Kaftorim	2
 NAME	Casluhim → Kasluhim	2
 NAME	Caspin → Kaspin	2
 NAME	Chesulloth → Kesulot	2
 NAME	Chileab → Kilav	2
 NAME	Chinneroth → Kineret	2
 NAME	City of Palms → Palm City	2
-NAME	Claudia → Klaudia	2
+NAME	Clopas → Clopas (Klopas)	2
+NAME	Cnidus → Knidos	2
 NAME	Coelesyria → Coele-Syria	2
+NAME	Cos → Cos (Kos)	2
+NAME	Crescens → Kreskes	2
+NAME	Cushan → Cushan (Kushan)	2
 NAME	Cyprian → Kupros	2
 NAME	Daberath → Davrat	2
+NAME	Danite → Danite (Dani)	2
+NAME	Dathan → Dathan (Datan)	2
 NAME	Diblaim → Divlayim	2
 NAME	Dophkah → Dofkah	2
+NAME	Dothan → Dothan (Dotan)	2
+NAME	Ebed-melech → Eved-Melek	2
 NAME	Ebron → Evron	2
-NAME	Eglaim → Eglayim	2
+NAME	Ecbatana → Ecbatana (Ahmeta)	2
 NAME	Ekronites → Ekronim	2
-NAME	El-Elohe-Israel → El-Elohey-Yisra’el	2
 NAME	El-paran → Eyl-Paran	2
 NAME	Ela → Elah	2
-NAME	Elealeh → El’aleh	2
-NAME	Elihoreph → Elihoref	2
+NAME	Elealeh → Elealeh (El’aleh)	2
+NAME	Elim → Elim (Eylim)	2
 NAME	Eliphal → Elifal	2
 NAME	Elizur → Elitsur	2
-NAME	Elkoshite → Elkoshi	2
 NAME	Elnaam → Elna’am	2
+NAME	Elon → Elon (Eylon)	2
 NAME	Eltekeh → Elteke	2
+NAME	En-eglaim → Eyn-Eglayim	2
 NAME	Enan → Eynan	2
-NAME	Ephes-dammim → Efes-Damim	2
 NAME	Ephod → Efod	2
+NAME	Ephraim Gate → Efrayim Gate	2
+NAME	Ephraim Gate → Ephraim Gate (Efrayim Gate)	2
+NAME	Ephrathah → Efratah	2
+NAME	Ephrathites → Efratim	2
+NAME	Erech → Erech (Erek)	2
+NAME	Etham → Etham (Etam)	2
 NAME	Ethnan → Etnan	2
 NAME	Ethni → Etni	2
-NAME	Eubulus → Eubulos	2
+NAME	Evil-merodach → Evil-merodach (Evil-Merodak)	2
 NAME	Ezbai → Ezbay	2
 NAME	Ezbon → Etsbon	2
+NAME	Ezrahite → Ezrahite (Ezrahi)	2
 NAME	Ezrahites → Ezrahim	2
+NAME	Fortunatus → Fortunatus (Fortunatos)	2
 NAME	Gaash → Ga’ash	2
 NAME	Gaddi → Gadi	2
 NAME	Galeed → Gal’ed	2
-NAME	Gallim → Galim	2
+NAME	Gath-hepher → Gath-hepher (Gat-Hahefer)	2
+NAME	Gath-rimmon → Gat-Rimon	2
 NAME	Gazara → Gezer	2
+NAME	Gebalites → Givlim	2
 NAME	Gederothaim → Gederotayim	2
+NAME	Geliloth → Gelilot	2
+NAME	Gemariah → Gemariah (Gemaryah)	2
 NAME	Gennaeus → Gennaios	2
 NAME	Genubath → Genuvat	2
+NAME	Gershom → Gershom (Gereshom)	2
+NAME	Gibbethon → Gibbethon (Gibton)	2
 NAME	Gibea → Givea	2
+NAME	Gibeonite → Givoni	2
 NAME	Gideoni → Gid’oni	2
 NAME	Gilonite → Giloni	2
-NAME	Ginath → Ginat	2
+NAME	Girgashites → Girgashites (Girgashim)	2
+NAME	Girzites → Gizrim	2
+NAME	Gittaim → Gittaim (Gitayim)	2
+NAME	Goah → Go’ah	2
 NAME	Hacmonite → Hakmoni	2
 NAME	Haggith → Hagit	2
-NAME	Hall of Pillars → Pillar Hall	2
-NAME	Hamathites → Hamatim	2
+NAME	Hamath-zobah → Hamath-zobah (Hamat-Tsovah)	2
 NAME	Hanoch → Hanok	2
-NAME	Harbona → Harvona	2
 NAME	Harorite → Harori	2
 NAME	Haruz → Haruts	2
 NAME	Hassenaah → Hasena’ah	2
-NAME	Hassophereth → Soferet	2
 NAME	Hasupha → Hasufa	2
 NAME	Hathach → Hatak	2
 NAME	Hazar-susah → Hatsar-Susah	2
-NAME	Hazarmaveth → Hatsarmavet	2
 NAME	Hazer-hatticon → Hatsar-Hatikon	2
+NAME	Hazeroth → Hazeroth (Hatserot)	2
 NAME	Hazor-hadattah → Hatsor-Hadatah	2
+NAME	Hegai → Hegai (Hegay)	2
+NAME	Helam → Heylam	2
+NAME	Heli → Heli (Eli)	2
 NAME	Helkath → Helkat	2
+NAME	Heth → Heth (Het)	2
 NAME	Hezion → Hezyon	2
 NAME	Hiddai → Hiday	2
 NAME	Hieronymus → Hieronumos	2
+NAME	Hinnom Valley → Hinnom Valley (Hinom Valley)	2
 NAME	Hor-haggidgad → Hor-Hagidgad	2
+NAME	Horeb → Horeb (Horev)	2
+NAME	Horite → Horite (Hori)	2
+NAME	Horites → Horites (Horim)	2
+NAME	Horonaim → Horonaim (Horonayim)	2
+NAME	Horonaim → Horonayim	2
 NAME	Hupham → Hufam	2
 NAME	Huphamite → Hufami	2
+NAME	Huppim → Huppim (Hupim)	2
+NAME	Huram-abi → Huram-Avi	2
+NAME	Hymenaeus → Hymenaeus (Humenaios)	2
 NAME	Ibneiah → Yivneyah	2
 NAME	Ibsam → Yivsam	2
 NAME	Iezer → I’ezer	2
+NAME	Ijon → Iyon	2
 NAME	Ilai → Ilay	2
+NAME	Illyricum → Illyricum (Illurikon)	2
 NAME	Imnite → Yimni	2
 NAME	Ir-nahash → Ir-Nahash	2
 NAME	Ish-bosheth → Ish-Boshet	2
+NAME	Ishbi-benob → Yishbi-Benov	2
 NAME	Ishvite → Yishvi	2
 NAME	Ithra → Yitra	2
 NAME	Ithream → Yitream	2
+NAME	Ittai → Ittai (Itay)	2
+NAME	Izhar → Izhar (Yitshar)	2
 NAME	Izrahite → Yizrah	2
+NAME	Jaar → Ya’ar	2
 NAME	Jaare-oregim → Ya’are-Oregim	2
+NAME	Jabesh → Jabesh (Yavesh)	2
 NAME	Jadon → Yadon	2
+NAME	Jahaziel → Jahaziel (Yahaziel)	2
 NAME	Jalam → Yaelam	2
+NAME	Jambres → Jambres (Yambres)	2
 NAME	Jamin → Yamin	2
+NAME	Jamnia → Jamnia (Yavneh)	2
 NAME	Jannai → Yanai	2
+NAME	Jannes → Jannes (Yannes)	2
 NAME	Jechoniah → Yekaneyah	2
-NAME	Jedidiah → Yedideyah	2
+NAME	Jecoliah → Yekaleyah	2
 NAME	Jehdeiah → Yehdiyah	2
 NAME	Jehieli → Yehiel	2
 NAME	Jehoshabeath → Yehoshav’at	2
+NAME	Jehozadak → Jehozadak (Yehotsadak)	2
 NAME	Jehucal → Yehukal	2
 NAME	Jehuel → Yehiel	2
 NAME	Jekamiah → Yekamyah	2
-NAME	Jemimah → Yemimah	2
 NAME	Jemuel → Yemuel	2
-NAME	Jerah → Yerah	2
+NAME	Jerahmeelites → Yerahme’elim	2
 NAME	Jeremias → Yirmiyah	2
 NAME	Jeremy → Yirmiyah	2
 NAME	Jeribai → Yerivay	2
+NAME	Jeshimon → Jeshimon (Yeshimon)	2
+NAME	Jeshimon → Yeshimon	2
 NAME	Jeuel → Ye’uel	2
-NAME	Jezaniah → Yezanyah	2
 NAME	Jezer → Yetser	2
 NAME	Jeziel → Yeziel	2
 NAME	Joahaz → Yo’ahaz	2
+NAME	Joanna → Joanna (Yohanah)	2
 NAME	Joda → Yoda	2
+NAME	Jogbehah → Yagebehah	2
 NAME	Joha → Yoha	2
 NAME	Jokmeam → Yakemeam	2
+NAME	Joktan → Joktan (Yaketan)	2
 NAME	Jonam → Yonam	2
 NAME	Joshaphat → Yoshafat	2
+NAME	Junia → Yunia	2
+NAME	Karnaim → Karnayim	2
+NAME	Kebar → Kebar (Kevar)	2
 NAME	Kehelathah → Kehelatah	2
-NAME	Keziah → Ketsiah	2
-NAME	Kiriath-huzoth → Kiryat-Hutsot	2
+NAME	Kenizzites → Kenizzites (Kenizim)	2
+NAME	Kerethites → Kerethites (Kereti)	2
+NAME	Kibroth-hattaavah → Kivrot-Hata’avah	2
+NAME	Kir-hareseth → Kir-hareseth (Kir-Hareset)	2
+NAME	Kiriath-arba → Kiriath-arba (Kiryat-Arba)	2
+NAME	Kiriath-sepher → Kiriath-sepher (Kiryat-Sefer)	2
+NAME	Kittim → Kittim (Kitim)	2
+NAME	Kohathite → Kohathite (Kohatite)	2
 NAME	Kolaiah → Kolayah	2
 NAME	Korahites → Korhim	2
 NAME	Kushaiah → Kushayah	2
-NAME	Lasha → Lesha	2
+NAME	Laodiceans → Laodikeia	2
 NAME	Lebaoth → Leva’ot	2
+NAME	Lebo-hamath → Levo-Hamat	2
 NAME	Lehabim → Lehavim	2
+NAME	Libyan → Libyan (Luvi)	2
+NAME	Lo-debar → Lo-debar (Lo-Devar)	2
+NAME	Lower Beth-horon → Lower Beth-horon (Lower Beyt-Horon)	2
+NAME	Lower Beth-horon → Lower Beyt-Horon	2
 NAME	Lubim → Luvi	2
 NAME	Lycaonian → Lukaonios	2
 NAME	Maadiah → Ma’adeyah	2
 NAME	Maarath → Ma’arat	2
+NAME	Macedonian → Macedonian (Makedonian)	2
+NAME	Madai → Madai (Maday)	2
 NAME	Mahalab → Mahalav	2
 NAME	Mahalaleel → Mahalalel	2
+NAME	Mahaneh-dan → Mahaneh-dan (Mahaneh-Dan)	2
 NAME	Makheloth → Makhelot	2
 NAME	Malchiel → Malkiel	2
+NAME	Malchus → Malchus (Malkos)	2
 NAME	Malluch → Maluk	2
-NAME	Manaen → Menahem	2
-NAME	Mattanah → Matanah	2
+NAME	Massa → Massa (Masa)	2
 NAME	Mebunnai → Mevunay	2
+NAME	Medeba → Medeba (Meydeva)	2
 NAME	Mehujael → Mehuyael	2
+NAME	Memucan → Memucan (Memukan)	2
+NAME	Merib-baal → Merib-baal (Meriv-Ba’al)	2
 NAME	Merodach → Merodak	2
 NAME	Meshillemith → Meshilemit	2
 NAME	Meshillemoth → Meshilemot	2
+NAME	Meshullam → Meshullam (Meshulam)	2
 NAME	Mibsam → Mivsam	2
 NAME	Mikloth → Miklot	2
 NAME	Mishal → Mish’al	2
@@ -1586,153 +2190,261 @@ NAME	Mithnite → Mitni	2
 NAME	Mithredath → Mitredat	2
 NAME	Moza → Motsa	2
 NAME	Muppim → Mupim	2
+NAME	Naamathite → Naamathite (Na’amati)	2
+NAME	Naamathite → Na’amati	2
 NAME	Naharai → Naharay	2
 NAME	Necho → Nekoh	2
 NAME	Nehelamite → Nehelami	2
-NAME	Nympha → Numfa	2
+NAME	Nibhaz → Nivhaz	2
+NAME	Nicolaitans → Nicolaitans (Nikolaitais)	2
+NAME	Nicolas → Nikolaos	2
+NAME	Obal → Oval	2
+NAME	Oholibah → Oholibah (Oholivah)	2
+NAME	Oholibamah → Oholibamah (Oholivamah)	2
+NAME	Ophrah → Ophrah (Ofrah)	2
 NAME	Osnappar → Asenapar	2
 NAME	Paarai → Pa’aray	2
 NAME	Pallu → Palu	2
+NAME	Paphos → Paphos (Pafos)	2
+NAME	Parvaim → Parvayim	2
 NAME	Pathrusim → Patrusi	2
 NAME	Pau → Paeu	2
 NAME	Peleth → Pelet	2
-NAME	Perazim → Peratsim	2
+NAME	Peninnah → Peninnah (Peninah)	2
 NAME	Perezite → Partsi	2
 NAME	Pharpar → Parpar	2
 NAME	Philologus → Filologos	2
-NAME	Philopater → Filopator	2
+NAME	Philopater → Philopater (Filopator)	2
+NAME	Phygelus → Fugelos	2
 NAME	Piltai → Piltay	2
-NAME	Prisca → Priska	2
+NAME	Quirinius → Quirinius (Kurenios)	2
 NAME	Raamiah → Ra’amyah	2
+NAME	Ramathaim → Ramathaim (Ramatayim)	2
+NAME	Ramoth → Ramoth (Ramot)	2
 NAME	Recah → Rekah	2
 NAME	Rehabiah → Rehavyah	2
+NAME	Rehob → Rehob (Rehov)	2
+NAME	Rehoboth-Ir → Rehovot-Ir	2
 NAME	Remaliah → Remalyah	2
+NAME	Rephan → Remfan	2
 NAME	Resheph → Reshef	2
+NAME	Reubenites → Reubenites (Re’uvenim)	2
+NAME	Rezeph → Retsef	2
 NAME	Rimmon-perez → Rimon-Perets	2
 NAME	Rissah → Risah	2
+NAME	Rock of Escape → Rock of Escape (Sela’-Hamahlekot)	2
+NAME	Rodanim → Dodanim	2
 NAME	Rogelim → Roglim	2
+NAME	Rufus → Rufos	2
+NAME	Rufus → Rufus (Rufos)	2
 NAME	Sabean → Shevai	2
-NAME	Sabteca → Savteka	2
+NAME	Sabeans → Sava	2
+NAME	Sabtah → Savtah	2
 NAME	Sacar → Sakar	2
 NAME	Sachar → Sakar	2
 NAME	Sallai → Salu	2
 NAME	Saph → Saf	2
 NAME	Sceva → Skeuas	2
+NAME	Seba → Seba (Seva)	2
 NAME	Second Quarter → Mishneh	2
 NAME	Secundus → Sekundos	2
+NAME	Segub → Seguv	2
+NAME	Seleucia → Seleucia (Seleukeia)	2
+NAME	Sephar → Sefar	2
 NAME	Seredite → Sardi	2
 NAME	Shaalbim → Sha’alvim	2
 NAME	Shaalim → Sha’alim	2
 NAME	Shagee → Shageh	2
 NAME	Shamhuth → Shamhut	2
 NAME	Shammoth → Shamot	2
+NAME	Shealtiel → Shealtiel (Shealtiyel)	2
+NAME	Shecaniah → Shecaniah (Shekanyah)	2
 NAME	Sheerah → She’erah	2
 NAME	Shelanite → Shelani	2
 NAME	Shemariah → Shemaryah	2
 NAME	Shephuphan → Shefufan	2
 NAME	Sheshai → Sheshay	2
-NAME	Sheth → Shet	2
 NAME	Shimeite → Shim’i	2
 NAME	Shimron-meron → Shimron-Mer’on	2
 NAME	Shimshai → Shimshay	2
-NAME	Shobab → Shovav	2
 NAME	Shobach → Shovak	2
+NAME	Shuhite → Shuhite (Shuhi)	2
+NAME	Shuppim → Shuppim (Shupim)	2
+NAME	Sibmah → Sivmah	2
+NAME	Silvanus → Silvanus (Siluanos)	2
+NAME	Sirion → Sirion (Siryon)	2
 NAME	Sismai → Sismay	2
 NAME	Sithri → Sitri	2
 NAME	Succoth-benoth → Sukot-Benot	2
-NAME	Sukkites → Sukim	2
+NAME	Suphah → Sufah	2
+NAME	Sychar → Sychar (Sukar)	2
+NAME	Syrians → Syrians (Aramim)	2
+NAME	Tabeel → Teve’el	2
+NAME	Taberah → Tav’erah	2
 NAME	Tabitha → Tabita	2
+NAME	Tabrimmon → Tavrimon	2
 NAME	Tahpenes → Tahpeneis	2
+NAME	Tammuz → Tammuz (Tamuz)	2
+NAME	Tattenai → Tattenai (Tatenay)	2
 NAME	Tebah → Tevah	2
 NAME	Tebeth → Tevet	2
 NAME	Tehinnah → Tehinah	2
+NAME	Tertullus → Tertullus (Tertullos)	2
+NAME	Tibni → Tibni (Tivni)	2
 NAME	Tishbite → Tishbi	2
+NAME	Titius → Titios	2
+NAME	Tobit → Tobit (Tovi)	2
+NAME	Tower of the Hundred → Tower of the Hundred (Hundred Tower)	2
+NAME	Trophimus → Trophimus (Trofimos)	2
 NAME	Tryphena → Trufaina	2
+NAME	Tryphon → Trufon	2
 NAME	Tryphosa → Trufosa	2
-NAME	Uphaz → Ufaz	2
+NAME	Uzza → Uza	2
+NAME	Uzza → Uzza (Uza)	2
+NAME	Uzziel → Uzziel (Uziel)	2
+NAME	Valley of Slaughter → Slaughter Valley	2
+NAME	Valley of Slaughter → Valley of Slaughter (Slaughter Valley)	2
 NAME	Vophsi → Vofsi	2
+NAME	YHWH → YHWH (Yahweh)	2
 NAME	Yiron → Yir’on	2
 NAME	Zabdiel → Zavdiyel	2
+NAME	Zalmunna → Zalmunna (Tsalmuna)	2
 NAME	Zaphenath-paneah → Tsofnat-Pa’neah	2
-NAME	Zemarites → Tsemarim	2
+NAME	Zebah → Zebah (Zevah)	2
+NAME	Zeboim → Tsevoeim	2
+NAME	Zelzah → Tseltsah	2
+NAME	Zemaraim → Zemaraim (Tsemarayim)	2
 NAME	Zenan → Tsenan	2
 NAME	Zephath → Tsefat	2
 NAME	Zerahites → Zarhi	2
-NAME	Zophim → Tsofim	2
-TERM	Holy to the LORD → Holy to Yahweh	2
-TERM	LORD God → Yahweh God	2
+NAME	Ziphites → Ziphites (Zifim)	2
+NAME	Zuph → Zuph (Tsuf)	2
+TERM	Holy to the LORD → Holy to Yahweh (added after their term)	2
 NAME	Abdeel → Avdeel	1
+NAME	Abdon → Abdon (Avdon)	1
+NAME	Abednego → Abednego (Aved-Nego)	1
 NAME	Abel-maim → Avel-Mayim	1
+NAME	Abel-meholah → Abel-meholah (Avel-Meholah)	1
 NAME	Abel-mizraim → Avel-Mitsrayim	1
 NAME	Abiasaph → Aviasaf	1
 NAME	Abidan → Avidan	1
-NAME	Abimael → Avimael	1
+NAME	Abihud → Abihud (Avihud)	1
+NAME	Abihud → Avihud	1
+NAME	Abimael → Abimael (Avimael)	1
 NAME	Abital → Avital	1
+NAME	Acco → Acco (Ako)	1
 NAME	Accos → Hakots	1
 NAME	Achar → Akar	1
 NAME	Achmetha → Ahmeta	1
+NAME	Achor → Achor (Akor)	1
 NAME	Adadah → Ad’adah	1
 NAME	Adalia → Adalya	1
 NAME	Addan → Adan	1
 NAME	Adithaim → Aditayim	1
 NAME	Adlai → Adlay	1
+NAME	Adoni-zedek → Adoni-zedek (Adoni-Tsedek)	1
 NAME	Adora → Adorayim	1
+NAME	Adramyttium → Adramyttium (Adramuttainos)	1
+NAME	Aeneas → Aeneas (Aineas)	1
 NAME	Aharah → Ahrah	1
+NAME	Ahasuerus → Ahasuerus (Ahashverosh)	1
+NAME	Ahio → Ahio (Ahyo)	1
 NAME	Ahiramite → Ahirami	1
 NAME	Ahisamach → Ahisamak	1
 NAME	Ahumai → Ahumay	1
 NAME	Ahuzzath → Ahuzat	1
+NAME	Aiath → Aiath (Ay)	1
+NAME	Akrabbim → Akrabim	1
+NAME	Alexandrian → Alexandrian (Alexandria)	1
 NAME	Aliah → Alvah	1
 NAME	Alian → Alvan	1
 NAME	Allammelech → Alamelek	1
 NAME	Allemeth → Alemet	1
 NAME	Allon-bacuth → Alon-Bakut	1
-NAME	Amad → Am’ad	1
+NAME	Almon-diblathaim → Almon-Divlatayim	1
+NAME	Almon-diblathaim → Almon-diblathaim (Almon-Divlatayim)	1
+NAME	Amad → Amad (Am’ad)	1
+NAME	Amana → Amana (Amanah)	1
 NAME	Amasai → Amasay	1
 NAME	Aminadab → Aminadav	1
-NAME	Ammah → Amah	1
+NAME	Amittai → Amittai (Amitay)	1
+NAME	Ammah → Ammah (Amah)	1
+NAME	Ammiel → Ammiel (Amiyel)	1
 NAME	Amminadib → Ami-Nadiv	1
 NAME	Ammishaddai → Amishaday	1
 NAME	Ammizabad → Amizavad	1
+NAME	Amphipolis → Amphipolis (Amfipolis)	1
 NAME	Amran → Hamran	1
+NAME	Amraphel → Amraphel (Amrafel)	1
 NAME	Amzi → Amtsi	1
 NAME	Anael → Hanael	1
-NAME	Anamites → Anamim	1
+NAME	Anakites → Anakim	1
+NAME	Anamites → Anamites (Anamim)	1
+NAME	Andronicus → Andronicus (Andronikos)	1
 NAME	Anthothijah → Antotiyah	1
 NAME	Antiochian → Antiokian	1
 NAME	Antiochis → Antiokis	1
 NAME	Apollophanes → Apolofanes	1
+NAME	Apollyon → Apollyon (Apolluon)	1
+NAME	Apphia → Apphia (Apfia)	1
+NAME	Arabians → Arabians (Aravim)	1
 NAME	Arbathite → Arvati	1
 NAME	Ardite → Ardi	1
 NAME	Arelites → Arelim	1
 NAME	Areopagite → Areopagitais	1
+NAME	Arioch → Arioch (Areyok)	1
+NAME	Arkite → Arki	1
+NAME	Arkite → Arkite (Arki)	1
+NAME	Arkites → Arkim	1
+NAME	Arkites → Arkites (Arkim)	1
 NAME	Arodi → Arod	1
 NAME	Arodite → Arodi	1
 NAME	Arpachshad → Arpakshad	1
+NAME	Arphaxad → Arphaxad (Arpakshad)	1
+NAME	Arvadites → Arvadites (Arvadim)	1
 NAME	Arza → Artsah	1
 NAME	Ashbea → Eshbea	1
+NAME	Ashdodites → Ashdodim	1
+NAME	Ashdodites → Ashdodites (Ashdodim)	1
 NAME	Ashteroth → Ashtarot	1
+NAME	Ashteroth-karnaim → Ashteroth-karnaim (Ashterot-Karnayim)	1
+NAME	Ashurites → Ashurim	1
+NAME	Ashurites → Ashurites (Ashurim)	1
 NAME	Asiel → Asiyel	1
 NAME	Asnappar → Asenapar	1
+NAME	Assur → Assur (Ashur)	1
+NAME	Astyages → Astyages (Astuages)	1
 NAME	Asyncritus → Asunkritos	1
-NAME	Atharim → Atarim	1
+NAME	Ataroth → Ataroth (Atarot)	1
+NAME	Atharim → Atharim (Atarim)	1
+NAME	Athenians → Athenians (Athainai)	1
 NAME	Atroth-beth-joab → Atrot-Beyt-Yo’av	1
-NAME	Atroth-shophan → Atrot-Shofan	1
+NAME	Atroth-shophan → Atroth-shophan (Atrot-Shofan)	1
 NAME	Azael → Asahel	1
-NAME	Azal → Atsal	1
+NAME	Azal → Azal (Atsal)	1
 NAME	Azaliah → Atsalyah	1
 NAME	Azaniah → Azanyah	1
 NAME	Azaziah → Azazyah	1
+NAME	Azmaveth → Azmaveth (Azmavet)	1
+NAME	Azmon → Azmon (Atsmon)	1
 NAME	Aznoth-tabor → Aznot-Tavor	1
 NAME	Azzan → Azan	1
+NAME	Baal-gad → Ba’al-Gad	1
 NAME	Baal-hanan → Ba’al-Hanan	1
+NAME	Baal-hazor → Baal-hazor (Ba’al-Hatsor)	1
 NAME	Baal-shalishah → Ba’al-Shalishah	1
-NAME	Baal-tamar → Ba’al-Tamar	1
+NAME	Baal-tamar → Baal-tamar (Ba’al-Tamar)	1
+NAME	Baal-zephon → Baal-zephon (Ba’al-Tsefon)	1
+NAME	Baalath → Baalath (Ba’alat)	1
 NAME	Baale-judah → Ba’ale-Yehudah	1
+NAME	Baanah → Baanah (Ba’anah)	1
 NAME	Baaseiah → Ba’aseyah	1
 NAME	Bakbukiah → Bakbukyah	1
+NAME	Balamon → Ba’al-Hamon	1
+NAME	Bamoth → Bamoth (Bamot)	1
 NAME	Bar-Jonah → Bar-Yonah	1
-NAME	Bath-rabbim → Bat-Rabim	1
+NAME	Bartholomew → Bartholomew (Bar-Talmay)	1
+NAME	Bath-rabbim → Bath-rabbim (Bat-Rabim)	1
 NAME	Bath-shua → Bat-Shua	1
 NAME	Bazluth → Batslut	1
 NAME	Bealiah → Be’alyah	1
@@ -1740,35 +2452,60 @@ NAME	Becherite → Bakri	1
 NAME	Becherites → Bakrim	1
 NAME	Becorath → Bekorat	1
 NAME	Beeliada → Be’elyada	1
+NAME	Beer-elim → Beer-elim (Be’er-Elim)	1
+NAME	Beer-elim → Be’er-Elim	1
 NAME	Beerah → Be’erah	1
+NAME	Beeri → Beeri (Be’eri)	1
+NAME	Beeri → Be’eri	1
 NAME	Beeroth Bene-jaakan → Be’erot-Beney-Ya’akan	1
 NAME	Beerothite → Be’eroti	1
+NAME	Ben-ammi → Ben-Ami	1
+NAME	Ben-ammi → Ben-ammi (Ben-Ami)	1
 NAME	Ben-deker → Ben-Deker	1
 NAME	Ben-hail → Ben-Hayil	1
 NAME	Ben-hur → Ben-Hur	1
 NAME	Ben-zoheth → Ben-Zohet	1
 NAME	Bene-berak → Beney-Berak	1
+NAME	Benjamin Gate → Benjamin Gate (Benyamin Gate)	1
+NAME	Benjamin Gate → Benyamin Gate	1
+NAME	Benjaminite → Benjaminite (Benyamini)	1
+NAME	Benjamites → Benjamites (Benyamites)	1
+NAME	Beon → Beon (Be’on)	1
+NAME	Beon → Be’on	1
 NAME	Beracah → Berakah	1
 NAME	Berean → Beroia	1
+NAME	Berekiah → Berekiah (Berekyah)	1
 NAME	Beriites → Beri’im	1
 NAME	Berothah → Berotah	1
 NAME	Besodeiah → Besodeyah	1
+NAME	Beth-anath → Beth-anath (Beyt-Anat)	1
+NAME	Beth-arbel → Beth-arbel (Beyt-Arbel)	1
 NAME	Beth-azmaveth → Beyt-Azmavet	1
 NAME	Beth-baal-meon → Beyt-Ba’al-Me’on	1
-NAME	Beth-gilgal → Beyt-Hagilgal	1
+NAME	Beth-diblathaim → Beth-diblathaim (Beyt-Divlatayim)	1
+NAME	Beth-diblathaim → Beyt-Divlatayim	1
+NAME	Beth-eden → Beth-eden (Beyt-Eden)	1
+NAME	Beth-eked → Beth-eked (Beyt-Eked)	1
+NAME	Beth-eked → Beyt-Eked	1
+NAME	Beth-gilgal → Beth-gilgal (Beyt-Hagilgal)	1
+NAME	Beth-haggan → Beth-haggan (Beyt-Hagan)	1
 NAME	Beth-haram → Beyt-Haram	1
-NAME	Beth-haran → Beyt-Haran	1
+NAME	Beth-haran → Beth-haran (Beyt-Haran)	1
 NAME	Beth-hoglah → Beyt-Hoglah	1
+NAME	Beth-jeshimoth → Beth-jeshimoth (Beyt-Hayeshimot)	1
 NAME	Beth-lebaoth → Beyt-Leva’ot	1
 NAME	Beth-meon → Beyt-Me’on	1
 NAME	Beth-pazzez → Beyt-Patsets	1
+NAME	Beth-zur → Beth-zur (Beyt-Tsur)	1
 NAME	Bethbasi → Beyt-Basi	1
 NAME	Bethlehemite → Beyt-Lehemi	1
 NAME	Bethsura → Beyt-Tsur	1
+NAME	Bezer → Bezer (Betser)	1
 NAME	Bichri → Bikri	1
 NAME	Bichrite → Bikri	1
-NAME	Bigtha → Bigta	1
+NAME	Bigtha → Bigtha (Bigta)	1
 NAME	Bigthan → Bigtan	1
+NAME	Bigthana → Bigthana (Bigtan)	1
 NAME	Bilgai → Bilgay	1
 NAME	Birzaith → Birzot	1
 NAME	Birzavith → Birzot	1
@@ -1776,16 +2513,25 @@ NAME	Bithron → Bitron	1
 NAME	Blastus → Blastos	1
 NAME	Bocheru → Bokru	1
 NAME	Bozkath → Batsekat	1
+NAME	Brook of Egypt → Egyptian Brook	1
 NAME	Brook of the Willows → Willow Brook	1
+NAME	Buzite → Buzite (Buzi)	1
 NAME	Cabul → Kavul	1
+NAME	Calah → Calah (Kelah)	1
+NAME	Calcol → Calcol (Kalkol)	1
 NAME	Callisthenes → Kalisthenes	1
-NAME	Carite → Kari	1
+NAME	Calno → Calno (Kalno)	1
+NAME	Calno → Kalno	1
+NAME	Caphtor → Caphtor (Kaftor)	1
+NAME	Carite → Carite (Kari)	1
 NAME	Carites → Karim	1
 NAME	Carmelite → Karmeli	1
 NAME	Carmi → Karmi	1
 NAME	Carmites → Karmim	1
-NAME	Casluhites → Kasluhim	1
+NAME	Casluhites → Casluhites (Kasluhim)	1
+NAME	Cauda → Cauda (Klaudai)	1
 NAME	Cenchreae → Kegkreai	1
+NAME	Cephas → Cephas (Kefa)	1
 NAME	Chaereas → Kaireas	1
 NAME	Chalcol → Kalkol	1
 NAME	Chaphenatha → Kafenata	1
@@ -1797,71 +2543,130 @@ NAME	Chezib → Keziv	1
 NAME	Chimham → Kimham	1
 NAME	Chios → Kios	1
 NAME	Chittim → Kitim	1
+NAME	Chloe → Chloe (Kloe)	1
 NAME	Chorazin → Korazin	1
 NAME	Chuza → Kuzas	1
 NAME	Clauda → Klaudai	1
+NAME	Claudia → Claudia (Klaudia)	1
+NAME	Claudia → Klaudia	1
+NAME	Cleopas → Cleopas (Kleopas)	1
+NAME	Cnidus → Cnidus (Knidos)	1
 NAME	Colossae → Kolossai	1
 NAME	Coniah → Konyah	1
 NAME	Cosam → Kosam	1
+NAME	Crescens → Crescens (Kreskes)	1
+NAME	Crispus → Crispus (Krispos)	1
+NAME	Cushan-rishathaim → Cushan-rishathaim (Kushan-Rish’atayim)	1
+NAME	Cushites → Cushites (Kushim)	1
+NAME	Cushites → Kushim	1
 NAME	Cuth → Kut	1
 NAME	Cyamon → Kuamon	1
 NAME	Dabbesheth → Dabeshet	1
+NAME	Dalmanutha → Dalmanutha (Dalmanoutha)	1
 NAME	Daphne → Dafne	1
 NAME	Dedanite → Dedani	1
 NAME	Demophon → Demofon	1
 NAME	Diblah → Develah	1
 NAME	Dibon-gad → Divon-Gad	1
 NAME	Dibri → Divri	1
+NAME	Dionysius → Dionysius (Dionusios)	1
 NAME	Diphath → Rifat	1
+NAME	Dorcas → Dorcas (Dorkas)	1
 NAME	Dorymenes → Dorumenes	1
+NAME	Ebed → Ebed (Eved)	1
 NAME	Ebez → Evets	1
+NAME	Edrei → Edrei (Edre’i)	1
+NAME	Eglaim → Eglaim (Eglayim)	1
+NAME	Eglaim → Eglayim	1
+NAME	El-Elohe-Israel → El-Elohe-Israel (El-Elohey-Yisra’el)	1
+NAME	El-Elohe-Israel → El-Elohey-Yisra’el	1
 NAME	El-berith → El-Berit	1
 NAME	Eliahba → Elyahba	1
+NAME	Elihoreph → Elihoref	1
+NAME	Elihoreph → Elihoreph (Elihoref)	1
 NAME	Elishaphat → Elishafat	1
+NAME	Elkoshite → Elkoshi	1
+NAME	Elkoshite → Elkoshite (Elkoshi)	1
 NAME	Elonite → Eloni	1
 NAME	Elpelet → Elifelet	1
 NAME	Eluzai → Eleuzay	1
+NAME	Elymas → Elymas (Elumas)	1
+NAME	Elzaphan → Elzaphan (Elitsafan)	1
 NAME	Emek-keziz → Emek-Ketsits	1
-NAME	Emites → Emim	1
+NAME	Emites → Emites (Emim)	1
 NAME	Emmanuel → Imanu-El	1
+NAME	En-eglaim → En-eglaim (Eyn-Eglayim)	1
 NAME	En-hazor → Eyn-Hatsor	1
 NAME	En-mishpat → Eyn-Mishpat	1
 NAME	Enam → Eynam	1
 NAME	Eneas → Aineas	1
 NAME	Engedi → Eyn-Gedi	1
+NAME	Ephah → Ephah (Eyfah)	1
+NAME	Ephes-dammim → Efes-Damim	1
+NAME	Ephes-dammim → Ephes-dammim (Efes-Damim)	1
 NAME	Ephlal → Eflal	1
-NAME	Ephrathite → Efrati	1
+NAME	Ephraimite → Ephraimite (Efrati)	1
+NAME	Ephrath → Ephrath (Efrat)	1
+NAME	Ephrathite → Ephrathite (Efrati)	1
+NAME	Ephrathites → Ephrathites (Efratim)	1
 NAME	Eranite → Erani	1
 NAME	Erite → Eri	1
 NAME	Eshan → Esh’an	1
+NAME	Eshcol → Eshcol (Eshkol)	1
+NAME	Etam → Etam (Eytam)	1
 NAME	Eth-kazin → Et-Katsin	1
+NAME	Ethanim → Ethanim (Etanim)	1
+NAME	Eubulus → Eubulos	1
+NAME	Eubulus → Eubulus (Eubulos)	1
+NAME	Eunice → Eunice (Eunike)	1
+NAME	Eutychus → Eutychus (Eutukos)	1
 NAME	Ezem → Etsem	1
 NAME	Forum of Appius → Appius Forum	1
 NAME	Gabbatha → Gabatha	1
+NAME	Gadarenes → Gadarenes (Gadarainos)	1
 NAME	Gaddiel → Gadiel	1
+NAME	Gadites → Gadites (Gadim)	1
+NAME	Gallim → Galim	1
+NAME	Gallim → Gallim (Galim)	1
 NAME	Gamad → Gamadim	1
+NAME	Gareb → Gareb (Garev)	1
 NAME	Garmite → Garmi	1
+NAME	Gath-rimmon → Gath-rimmon (Gat-Rimon)	1
 NAME	Gazite → Gazi	1
 NAME	Gazites → Gazim	1
 NAME	Gebalite → Givli	1
+NAME	Gebalites → Gebalites (Givlim)	1
 NAME	Gederathite → Gederati	1
+NAME	Geliloth → Geliloth (Gelilot)	1
 NAME	Gemalli → Gemali	1
+NAME	Gennesaret → Gennesaret (Gennaisaret)	1
 NAME	Gennesareth → Gennaisaret	1
+NAME	Gershonite → Gershonite (Gershoni)	1
 NAME	Geshurite → Geshuri	1
-NAME	Gether → Geter	1
-NAME	Giah → Giyah	1
+NAME	Gether → Gether (Geter)	1
+NAME	Giah → Giah (Giyah)	1
 NAME	Gibbar → Givar	1
 NAME	Gibeath-elohim → Givat-Elohim	1
-NAME	Gibeath-haaraloth → Givat-Ha’aralot	1
+NAME	Gibeath-haaraloth → Gibeath-haaraloth (Givat-Ha’aralot)	1
+NAME	Gibeonite → Gibeonite (Givoni)	1
 NAME	Giddalti → Gidalti	1
+NAME	Gileadites → Gileadites (Giladim)	1
+NAME	Ginath → Ginat	1
+NAME	Ginath → Ginath (Ginat)	1
 NAME	Ginnethon → Gineton	1
 NAME	Girgashite → Girgashi	1
+NAME	Girgashites → Girgashim	1
 NAME	Girzite → Gizri	1
+NAME	Girzites → Girzites (Gizrim)	1
+NAME	Goah → Goah (Go’ah)	1
 NAME	Gortyna → Gortuna	1
 NAME	Gothoniel → Otniel	1
 NAME	Great Sidon → Great Tsidon	1
 NAME	Gunite → Guni	1
+NAME	Habor → Habor (Havor)	1
 NAME	Hacmoni → Hakmoni	1
+NAME	Hadad-rimmon → Hadad-rimmon (Hadad-Rimon)	1
+NAME	Hadassah → Hadassah (Hadasah)	1
 NAME	Hadlai → Hadlay	1
 NAME	Hadrach → Hadrak	1
 NAME	Haeleph → Ha’elef	1
@@ -1873,71 +2678,105 @@ NAME	Haggiah → Hagiyah	1
 NAME	Haggites → Hagim	1
 NAME	Hakkatan → Hakatan	1
 NAME	Halicarnassus → Halikarnasos	1
+NAME	Hall of Pillars → Hall of Pillars (Pillar Hall)	1
+NAME	Hall of Pillars → Pillar Hall	1
 NAME	Hallohesh → Halohesh	1
+NAME	Hamath-zobah → Hamat-Tsovah	1
+NAME	Hamathites → Hamathites (Hamatim)	1
+NAME	Hamathites → Hamatim	1
 NAME	Hammedatha → Hamedata	1
 NAME	Hammon → Hamon	1
 NAME	Hammoth-dor → Hamot-Dor	1
 NAME	Hamulite → Hamuli	1
 NAME	Hapharaim → Hafarayim	1
 NAME	Happizzez → Hapitsets	1
+NAME	Harbona → Harbona (Harvona)	1
+NAME	Harbona → Harvona	1
 NAME	Hareph → Haref	1
 NAME	Hariph → Harif	1
 NAME	Harumaph → Harumaf	1
 NAME	Haruphite → Harufi	1
 NAME	Hashabneiah → Hashavneyah	1
+NAME	Hassophereth → Hassophereth (Soferet)	1
+NAME	Hassophereth → Soferet	1
+NAME	Hattush → Hattush (Hatush)	1
+NAME	Havvoth-jair → Havvoth-jair (Havot-Ya’ir)	1
 NAME	Hazaiah → Hazayah	1
+NAME	Hazar-addar → Hazar-addar (Hatsar-Adar)	1
 NAME	Hazar-shual → Hatsar-Shual	1
 NAME	Hazar-susim → Hatsar-Susim	1
+NAME	Hazarmaveth → Hatsarmavet	1
+NAME	Hazarmaveth → Hazarmaveth (Hatsarmavet)	1
 NAME	Hazzelelponi → Hatslelponi	1
-NAME	Helech → Heylek	1
+NAME	Helam → Helam (Heylam)	1
+NAME	Heldai → Heldai (Helday)	1
+NAME	Helech → Helech (Heylek)	1
 NAME	Helekite → Helki	1
 NAME	Heleph → Helef	1
+NAME	Heliodorus → Heliodorus (Heliodoros)	1
 NAME	Helkai → Helkay	1
+NAME	Hellenists → Hellenists (Hellainistais)	1
 NAME	Hepherite → Hefri	1
 NAME	Hephzibah → Heftsi-Bah	1
 NAME	Hezro → Hetsro	1
+NAME	Hinnom Valley → Hinom Valley	1
 NAME	Hizkiah → Hizkiyah	1
+NAME	Hobab → Hobab (Hovav)	1
+NAME	Hobah → Hobah (Hovah)	1
 NAME	Hobaiah → Havayah	1
 NAME	Hodiah → Hodiyah	1
-NAME	Horonite → Horoni	1
+NAME	Horonite → Horonite (Horoni)	1
 NAME	Hozai → Hozay	1
 NAME	Hurai → Huray	1
+NAME	Huram-abi → Huram-abi (Huram-Avi)	1
 NAME	Hushathite → Hushati	1
 NAME	Hushathites → Hushatim	1
+NAME	Ibleam → Ibleam (Yivleam)	1
+NAME	Ibzan → Ibzan (Ivtsan)	1
 NAME	Iezerite → Iezeri	1
 NAME	Iezerites → Iezerim	1
 NAME	Igdaliah → Yigdalyah	1
+NAME	Ijon → Ijon (Iyon)	1
 NAME	Ikkesh → Ikesh	1
 NAME	Imlah → Yimla	1
 NAME	Iphtah → Yiftah	1
 NAME	Irpeel → Yirpe’el	1
 NAME	Ishbah → Yishbah	1
 NAME	Ishbak → Yishbak	1
+NAME	Ishbi-benob → Ishbi-benob (Yishbi-Benov)	1
 NAME	Ishhod → Ishehod	1
 NAME	Ishpah → Yishpah	1
+NAME	Italian → Italian (Italia)	1
 NAME	Ithai → Itay	1
 NAME	Ithlah → Yitlah	1
 NAME	Ithran → Yitran	1
 NAME	Ithrite → Yitri	1
 NAME	Ithrites → Yitrim	1
+NAME	Iye-abarim → Iye-abarim (Iyey-Ha’avarim)	1
 NAME	Izharite → Yitshari	1
 NAME	Izliah → Yizliah	1
 NAME	Izri → Yitsri	1
 NAME	Izziah → Yiziyah	1
 NAME	Jaan → Ya’an	1
+NAME	Jaar → Jaar (Ya’ar)	1
 NAME	Jaareshiah → Ya’areshyah	1
+NAME	Jaasiel → Jaasiel (Ya’asiyel)	1
 NAME	Jaasu → Ya’asu	1
+NAME	Jaazaniah → Jaazaniah (Ya’azanyah)	1
 NAME	Jaaziel → Ya’aziel	1
+NAME	Jabez → Jabez (Yaebets)	1
 NAME	Jagur → Yagur	1
 NAME	Jah → Yah	1
+NAME	Jahaz → Jahaz (Yahats)	1
 NAME	Jahleelite → Yahle’eli	1
 NAME	Jahleelites → Yahle’elim	1
 NAME	Jahmai → Yahmay	1
 NAME	Jahzeel → Yahtse’el	1
 NAME	Jahzeelite → Yahtse’eli	1
 NAME	Jahzerah → Yahzerah	1
+NAME	Jakeh → Jakeh (Yakeh)	1
 NAME	Jakim → Yakim	1
-NAME	Jakin → Yakin	1
+NAME	Jakin → Jakin (Yakin)	1
 NAME	Jaminite → Yemini	1
 NAME	Janai → Ya’anay	1
 NAME	Janim → Yanum	1
@@ -1945,30 +2784,51 @@ NAME	Japhia → Yafia	1
 NAME	Jarha → Yarha	1
 NAME	Jarib → Yariv	1
 NAME	Jashubite → Yashuvi	1
+NAME	Javan → Javan (Yavan)	1
 NAME	Jaziz → Yaziz	1
 NAME	Jeatherai → Ye’eteray	1
 NAME	Jechonias → Yekonias	1
+NAME	Jecoliah → Jecoliah (Yekaleyah)	1
+NAME	Jedaiah → Jedaiah (Yedayah)	1
 NAME	Jedidah → Yedidah	1
+NAME	Jedidiah → Jedidiah (Yedideyah)	1
+NAME	Jedidiah → Yedideyah	1
 NAME	Jeezer → I’ezer	1
 NAME	Jeezerites → Iezerim	1
 NAME	Jegar-sahadutha → Yegar-Sahaduta	1
 NAME	Jehizkiah → Yehizkiyah	1
 NAME	Jehoaddin → Yeho’adin	1
 NAME	Jehud → Yehud	1
+NAME	Jehudi → Jehudi (Yehudi)	1
 NAME	Jekabzeel → Yekavtse’el	1
 NAME	Jekameam → Yekameam	1
+NAME	Jemimah → Jemimah (Yemimah)	1
+NAME	Jemimah → Yemimah	1
+NAME	Jerah → Jerah (Yerah)	1
+NAME	Jerah → Yerah	1
+NAME	Jerahmeelites → Jerahmeelites (Yerahme’elim)	1
 NAME	Jered → Yered	1
 NAME	Jeriel → Yeriel	1
 NAME	Jerijah → Yeriyah	1
 NAME	Jerubbesheth → Yerubeshet	1
 NAME	Jerusalemites → Hierousalaim	1
 NAME	Jerushah → Yerushah	1
+NAME	Jeshaiah → Jeshaiah (Yeshaeyah)	1
+NAME	Jeshanah → Jeshanah (Yeshanah)	1
 NAME	Jesharelah → Yesarelah	1
+NAME	Jeshurun → Jeshurun (Yeshurun)	1
 NAME	Jetur → Yetur	1
+NAME	Jezaniah → Jezaniah (Yezanyah)	1
+NAME	Jezaniah → Yezanyah	1
+NAME	Joanna → Yohanah	1
 NAME	Joarib → Yoyariv	1
+NAME	Jobab → Jobab (Yovav)	1
 NAME	Joed → Yoed	1
+NAME	Jogbehah → Jogbehah (Yagebehah)	1
+NAME	Joiada → Joiada (Yoyada)	1
 NAME	Jokdeam → Yakedeam	1
 NAME	Joktheel → Yakete’el	1
+NAME	Jonadab → Jonadab (Yonadav)	1
 NAME	Jonas → Yonah	1
 NAME	Jorah → Yorah	1
 NAME	Jorim → Yorim	1
@@ -1977,32 +2837,68 @@ NAME	Joshah → Yoshah	1
 NAME	Joshaviah → Yoshavyah	1
 NAME	Josias → Yoshiyah	1
 NAME	Jotbah → Yotvah	1
+NAME	Jubal → Jubal (Yuval)	1
+NAME	Judith → Judith (Yehudit)	1
+NAME	Junia → Junia (Yunia)	1
 NAME	Jushab-hesed → Yushav-Hesed	1
 NAME	Juttah → Yutah	1
 NAME	Kadmonites → Kadmoni	1
+NAME	Karnaim → Karnaim (Karnayim)	1
 NAME	Kattath → Katat	1
+NAME	Kedemoth → Kedemoth (Kedemot)	1
 NAME	Keluhi → Keluhayo	1
 NAME	Kenaanah → Kena’anah	1
-NAME	Keren-happuch → Keren-Hapuk	1
+NAME	Kephirah → Kephirah (Kefirah)	1
+NAME	Keren-happuch → Keren-happuch (Keren-Hapuk)	1
+NAME	Keziah → Ketsiah	1
+NAME	Keziah → Keziah (Ketsiah)	1
 NAME	Kibzaim → Kivtsayim	1
+NAME	Kinnereth → Kinnereth (Kineret)	1
+NAME	Kir-hareseth → Kir-Hareset	1
+NAME	Kiriath → Kiriath (Kiryat)	1
+NAME	Kiriath → Kiryat	1
 NAME	Kiriath-baal → Kiryat-Ba’al	1
+NAME	Kiriath-huzoth → Kiriath-huzoth (Kiryat-Hutsot)	1
+NAME	Kiriath-huzoth → Kiryat-Hutsot	1
+NAME	Kiriathaim → Kiriathaim (Kiryatayim)	1
 NAME	Kiyyun → Kiyun	1
 NAME	Kushite → Kushi	1
 NAME	Laadah → Laedah	1
 NAME	Lael → La’el	1
 NAME	Laishah → Layshah	1
+NAME	Laodicean → Laodicean (Laodikeus)	1
+NAME	Laodiceans → Laodiceans (Laodikeia)	1
 NAME	Lappidoth → Lapidot	1
+NAME	Lasha → Lasha (Lesha)	1
+NAME	Lasha → Lesha	1
 NAME	Lebbaeus → Lebbaios	1
 NAME	Lecah → Lekah	1
-NAME	Lehabites → Lehavim	1
+NAME	Lehabites → Lehabites (Lehavim)	1
 NAME	Leummim → Le’umim	1
 NAME	Libnite → Livni	1
-NAME	Ludites → Ludim	1
-NAME	Luhith → Luhit	1
+NAME	Libyans → Libyans (Luvim)	1
+NAME	Linus → Linus (Linos)	1
+NAME	Lo-ammi → Lo-ammi (Lo-Ami)	1
+NAME	Lo-ruhamah → Lo-ruhamah (Lo-Ruhamah)	1
+NAME	Lucius → Lucius (Lukios)	1
+NAME	Ludites → Ludites (Ludim)	1
+NAME	Luhith → Luhith (Luhit)	1
+NAME	Lycaonia → Lycaonia (Lukaonia)	1
+NAME	Lycia → Lycia (Lukia)	1
+NAME	Lydda → Lydda (Lod)	1
+NAME	Lydians → Lydians (Ludi)	1
+NAME	Lysanias → Lysanias (Lusanias)	1
+NAME	Lysias → Lysias (Lusias)	1
+NAME	Lysimachus → Lysimachus (Lusimakos)	1
+NAME	Maacathites → Maacathites (Ma’akatim)	1
+NAME	Maaseiah → Maaseiah (Ma’aseyah)	1
 NAME	Maath → Ma’ath	1
 NAME	Maaziah → Ma’azyah	1
 NAME	Machbenah → Makbena	1
 NAME	Machirite → Makiri	1
+NAME	Madai → Maday	1
+NAME	Mahalath → Mahalath (Mahalat)	1
+NAME	Mahaneh-dan → Mahaneh-Dan	1
 NAME	Mahavite → Mahavim	1
 NAME	Mahlite → Mahli	1
 NAME	Mahlites → Mahlim	1
@@ -2012,137 +2908,225 @@ NAME	Malcam → Malkam	1
 NAME	Malchi-shua → Malkishua	1
 NAME	Malchielite → Malkieli	1
 NAME	Mallus → Malos	1
+NAME	Manaen → Manaen (Menahem)	1
+NAME	Manaen → Menahem	1
 NAME	Manahathite → Manahati	1
 NAME	Mani → Bani	1
 NAME	Maoch → Maeok	1
 NAME	Mareal → Maralah	1
 NAME	Maroth → Marot	1
 NAME	Mattan → Matan	1
+NAME	Mattanah → Matanah	1
+NAME	Mattanah → Mattanah (Matanah)	1
+NAME	Mattaniah → Mattaniah (Matanyah)	1
 NAME	Mattatha → Matatah	1
 NAME	Mattattah → Matatah	1
 NAME	Mattenai → Matenay	1
+NAME	Matthias → Matthias (Matiyah)	1
 NAME	Mazzaroth → Mazarot	1
 NAME	Mearah → Me’arah	1
 NAME	Meconah → Mekonah	1
-NAME	Melchi → Melki	1
+NAME	Melchi → Melchi (Melki)	1
 NAME	Melchiah → Malkiyah	1
 NAME	Melchiel → Malkiel	1
 NAME	Melita → Melitai	1
+NAME	Memucan → Memukan	1
+NAME	Menelaus → Menelaus (Menelaos)	1
 NAME	Menuhoth → Menuhot	1
 NAME	Meonothai → Me’onotay	1
 NAME	Meraiah → Merayah	1
-NAME	Merathaim → Meratayim	1
+NAME	Merarite → Merarite (Merari)	1
+NAME	Merathaim → Merathaim (Meratayim)	1
+NAME	Meremoth → Meremoth (Meremot)	1
+NAME	Merib-baal → Meriv-Ba’al	1
 NAME	Meribah-kadesh → Merivah-Kadesh	1
 NAME	Meribbaal → Meriv-Ba’al	1
 NAME	Meronothite → Meronoti	1
+NAME	Meshach → Meshach (Meyshak)	1
+NAME	Meshelemiah → Meshelemiah (Meshelemyah)	1
 NAME	Meshezabel → Mesheyzavel	1
 NAME	Meshullemeth → Meshulemet	1
+NAME	Methuselah → Methuselah (Metushelah)	1
+NAME	Meunites → Meunites (Meunim)	1
 NAME	Mibzar → Mivtsar	1
 NAME	Michri → Mikri	1
 NAME	Middin → Midin	1
 NAME	Migdal-gad → Migdal-Gad	1
+NAME	Milcom → Milcom (Malkam)	1
 NAME	Miniamin → Minyamin	1
-NAME	Minnith → Minit	1
+NAME	Minni → Minni (Mini)	1
+NAME	Minnith → Minnith (Minit)	1
 NAME	Miphkad → Mifkad	1
 NAME	Mispereth → Misperet	1
 NAME	Mithcah → Mitkah	1
-NAME	Mizar → Mits’ar	1
+NAME	Mithradates → Mithradates (Mitredat)	1
+NAME	Mitylene → Mitylene (Mitulainai)	1
+NAME	Mizar → Mizar (Mits’ar)	1
+NAME	Mizpeh → Mizpeh (Mitspah)	1
+NAME	Mizraim → Mizraim (Mitsrayim)	1
 NAME	Mizzah → Mizah	1
 NAME	Moadiah → Moeadyah	1
 NAME	Modin → Modi’in	1
 NAME	Moloch → Molok	1
+NAME	Moresheth-gath → Moresheth-gath (Moreshet-Gat)	1
+NAME	Moseroth → Moseroth (Moserot)	1
 NAME	Mushites → Mushim	1
+NAME	Myra → Myra (Mura)	1
+NAME	Mysia → Mysia (Musia)	1
 NAME	Naamite → Na’ami	1
 NAME	Naaran → Na’aran	1
 NAME	Nachor → Nakor	1
 NAME	Nahalol → Nahalal	1
 NAME	Nahath → Nahat	1
+NAME	Naioth → Naioth (Navit)	1
 NAME	Naphish → Nafish	1
 NAME	Naphtuhim → Naftuhim	1
-NAME	Naphtuhites → Naftuhim	1
+NAME	Naphtuhites → Naphtuhites (Naftuhim)	1
 NAME	Nasi → Netsiah	1
 NAME	Nathan-melech → Netan-Melek	1
-NAME	Neah → Ne’ah	1
+NAME	Nazarenes → Nazarenes (Nazoraios)	1
+NAME	Nebaioth → Nebaioth (Nevayot)	1
+NAME	Nebuzaradan → Nebuzaradan (Nevuzar-Adan)	1
 NAME	Nemuelite → Nemueli	1
 NAME	Nephisim → Nefisim	1
-NAME	Nephtoah → Neftoah	1
+NAME	Nephtoah → Nephtoah (Neftoah)	1
+NAME	Neriah → Neriah (Neriyah)	1
+NAME	Nethanel → Nethanel (Netanel)	1
+NAME	Nethaniah → Nethaniah (Netanyah)	1
+NAME	Netophathites → Netophathites (Netofatim)	1
+NAME	Nibhaz → Nibhaz (Nivhaz)	1
 NAME	Nibshan → Nivshan	1
+NAME	Nicanor → Nicanor (Nikanor)	1
+NAME	Nicolas → Nicolas (Nikolaos)	1
 NAME	Ninevite → Nineuitais	1
+NAME	Nobah → Nobah (Novah)	1
 NAME	Nophah → Nofah	1
-NAME	Oboth → Ovot	1
+NAME	Nympha → Nympha (Numfa)	1
+NAME	Obal → Obal (Oval)	1
+NAME	Oboth → Oboth (Ovot)	1
 NAME	Ochran → Okran	1
 NAME	Ocran → Okran	1
 NAME	Olympas → Olumpas	1
-NAME	Ozem → Otsem	1
+NAME	Onesiphorus → Onesiphorus (Onesiforos)	1
+NAME	Ozem → Ozem (Otsem)	1
 NAME	Oziel → Uziel	1
 NAME	Paddan → Padan	1
 NAME	Pai → Paeu	1
 NAME	Palestina → Peleshet	1
 NAME	Palluite → Palui	1
 NAME	Parnach → Parnak	1
-NAME	Pathrusites → Patrusim	1
+NAME	Parthians → Parthians (Parthia)	1
+NAME	Parvaim → Parvaim (Parvayim)	1
+NAME	Pathrusites → Pathrusites (Patrusim)	1
 NAME	Pedahzur → Pedahtsur	1
+NAME	Pelatiah → Pelatiah (Pelatyah)	1
 NAME	Pelethite → Peleti	1
+NAME	Pelethites → Pelethites (Peletim)	1
+NAME	Pelusium → Pelusium (Sin)	1
+NAME	Perazim → Peratsim	1
+NAME	Perazim → Perazim (Peratsim)	1
+NAME	Perez-uzzah → Perez-uzzah (Perets-Uza)	1
+NAME	Perga → Perga (Pergai)	1
 NAME	Pethahiah → Petahyah	1
+NAME	Pethuel → Pethuel (Petuel)	1
 NAME	Phanuel → Penuel	1
 NAME	Phares → Perets	1
+NAME	Philetus → Philetus (Filetos)	1
+NAME	Philometor → Philometor (Filometor)	1
 NAME	Phlegon → Flegon	1
+NAME	Phoebe → Phoebe (Foibe)	1
+NAME	Phygelus → Phygelus (Fugelos)	1
 NAME	Pi-beseth → Pi-Beset	1
+NAME	Pi-hahiroth → Pi-hahiroth (Pi-Hahirot)	1
 NAME	Piram → Pir’am	1
+NAME	Pirathon → Pirathon (Pireaton)	1
 NAME	Pirathonite → Pireatoni	1
+NAME	Pithom → Pithom (Pitom)	1
 NAME	Pochereth-hazzebaim → Pokeret-Hatsvayim	1
+NAME	Porcius → Porcius (Porkios)	1
 NAME	Posidonius → Posidonios	1
-NAME	Pudens → Pudes	1
+NAME	Prisca → Prisca (Priska)	1
+NAME	Prisca → Priska	1
+NAME	Pudens → Pudens (Pudes)	1
 NAME	Punite → Puni	1
+NAME	Puteoli → Puteoli (Potioloi)	1
 NAME	Puthite → Puti	1
 NAME	Raamses → Ra’meses	1
 NAME	Racal → Rakal	1
-NAME	Raddai → Raday	1
+NAME	Raddai → Raddai (Raday)	1
 NAME	Rakkath → Rakat	1
 NAME	Ramath-lehi → Ramat-Lehi	1
 NAME	Ramath-mizpeh → Ramat-Hamitspeh	1
+NAME	Ramathaim → Ramatayim	1
 NAME	Ramathite → Ramati	1
 NAME	Rapha → Rafa	1
-NAME	Raphia → Rafiah	1
+NAME	Raphia → Raphia (Rafiah)	1
 NAME	Raphon → Rafon	1
 NAME	Rechabite → Rekavi	1
 NAME	Rechabites → Rekavites	1
 NAME	Reelaiah → Re’elayah	1
-NAME	Rei → Re’i	1
+NAME	Rehoboth-Ir → Rehoboth-Ir (Rehovot-Ir)	1
+NAME	Rei → Rei (Re’i)	1
 NAME	Rephah → Refah	1
+NAME	Rephaiah → Rephaiah (Refayah)	1
+NAME	Rephan → Rephan (Remfan)	1
+NAME	Rezeph → Rezeph (Retsef)	1
+NAME	Rhegium → Rhegium (Raigion)	1
 NAME	Rhesa → Resa	1
+NAME	Rhoda → Rhoda (Rode)	1
+NAME	Riphath → Riphath (Rifat)	1
 NAME	Rithmah → Ritmah	1
 NAME	Rizia → Ritsya	1
+NAME	Rock of Escape → Sela’-Hamahlekot	1
+NAME	Rodanim → Rodanim (Dodanim)	1
 NAME	Sabi → Shovay	1
-NAME	Sadducee → Saddoukaios	1
+NAME	Sabtah → Sabtah (Savtah)	1
+NAME	Sabteca → Sabteca (Savteka)	1
+NAME	Sabteca → Savteka	1
 NAME	Salamiel → Shelumiel	1
 NAME	Salathiel → Salathiail	1
+NAME	Samothrace → Samothrace (Samothrakai)	1
 NAME	Saraph → Saraf	1
+NAME	Scythian → Scythian (Skuthais)	1
+NAME	Scythopolis → Scythopolis (Beyt-Shean)	1
+NAME	Seba → Seva	1
 NAME	Secacah → Sekakah	1
 NAME	Secu → Seku	1
-NAME	Seirah → Se’irah	1
-NAME	Sepharad → Sefarad	1
+NAME	Segub → Segub (Seguv)	1
+NAME	Seirah → Seirah (Se’irah)	1
+NAME	Sephar → Sephar (Sefar)	1
+NAME	Sepharad → Sepharad (Sefarad)	1
+NAME	Sepharvaim → Sepharvaim (Sefarvayim)	1
 NAME	Serar → Sisera	1
 NAME	Seredites → Sardim	1
+NAME	Sergius → Sergius (Sergios)	1
 NAME	Shaalbonite → Sha’alvoni	1
 NAME	Shaaph → Sha’af	1
-NAME	Shaashgaz → Sha’ashgaz	1
+NAME	Shaaraim → Shaaraim (Sha’arayim)	1
+NAME	Shaashgaz → Shaashgaz (Sha’ashgaz)	1
+NAME	Shadrach → Shadrach (Shadrak)	1
+NAME	Shaharaim → Shaharaim (Shaharayim)	1
 NAME	Shallecheth → Shaleket	1
 NAME	Shalmai → Shalmay	1
 NAME	Shamlai → Shamlay	1
+NAME	Shammah → Shammah (Shamah)	1
 NAME	Shaulite → Shauli	1
 NAME	Shaveh Kiriathaim → Shaveh-Kiryatayim	1
 NAME	Shebarim → Shevarim	1
 NAME	Shedeur → Shedeyur	1
-NAME	Sheleph → Shelef	1
+NAME	Shelemiah → Shelemiah (Shelemyah)	1
+NAME	Sheleph → Sheleph (Shelef)	1
 NAME	Shemaah → Shema’ah	1
 NAME	Shemeber → Shem’ever	1
 NAME	Shenazzar → Shenatsar	1
 NAME	Shepham → Shefam	1
+NAME	Shephelah → Shephelah (Shefelah)	1
 NAME	Shephi → Shefo	1
 NAME	Shepho → Shefo	1
 NAME	Sherebiah → Shereveyah	1
 NAME	Sheshach → Sheshak	1
+NAME	Sheth → Shet	1
+NAME	Sheth → Sheth (Shet)	1
 NAME	Shibah → Shiv’ah	1
 NAME	Shikkeron → Shikeron	1
 NAME	Shillem → Shilem	1
@@ -2151,53 +3135,90 @@ NAME	Shimeam → Shim’am	1
 NAME	Shimeathites → Shimeatim	1
 NAME	Shimronite → Shimroni	1
 NAME	Shiphmite → Shifmi	1
-NAME	Shiphrah → Shifrah	1
+NAME	Shiphrah → Shiphrah (Shifrah)	1
 NAME	Shiphtan → Shiftan	1
 NAME	Shitrai → Shitray	1
+NAME	Shobab → Shobab (Shovav)	1
+NAME	Shobab → Shovav	1
+NAME	Shobi → Shobi (Shovi)	1
 NAME	Shophach → Shofak	1
 NAME	Shuhamite → Shuhami	1
 NAME	Shuphamite → Shufami	1
 NAME	Shuthelahite → Shutalhi	1
 NAME	Siaha → Siea	1
 NAME	Sibraim → Sivrayim	1
-NAME	Siddim Valley → Sidim Valley	1
-NAME	Silla → Sila	1
-NAME	Sinites → Sinim	1
+NAME	Siddim Valley → Siddim Valley (Sidim Valley)	1
+NAME	Silla → Silla (Sila)	1
+NAME	Sinites → Sinites (Sinim)	1
 NAME	Sippai → Sipay	1
+NAME	Socoh → Socoh (Sokoh)	1
 NAME	Sophereth → Soferet	1
 NAME	Stone of Zoheleth → Zohelet Stone	1
 NAME	Sucathite → Sukati	1
+NAME	Sukkites → Sukim	1
+NAME	Sukkites → Sukkites (Sukim)	1
+NAME	Suphah → Suphah (Sufah)	1
+NAME	Syene → Syene (Seveneh)	1
+NAME	Syntyche → Syntyche (Suntuke)	1
+NAME	Syracuse → Syracuse (Surakousai)	1
+NAME	Syrtis → Syrtis (Surtis)	1
+NAME	Taanach → Taanach (Ta’anak)	1
 NAME	Taanath-shiloh → Ta’anat-Shiloh	1
+NAME	Tabeel → Tabeel (Teve’el)	1
+NAME	Tabrimmon → Tabrimmon (Tavrimon)	1
 NAME	Tahanite → Tahani	1
+NAME	Talmai → Talmai (Talmay)	1
 NAME	Tanhumeth → Tanhumet	1
+NAME	Tanis → Tanis (Tsoan)	1
 NAME	Taralah → Tar’alah	1
 NAME	Tarea → Ta’area	1
 NAME	Tehaphnehes → Tahfanhes	1
+NAME	Tel-abib → Tel-abib (Tel-Aviv)	1
 NAME	Telassar → Telasar	1
+NAME	Tertius → Tertius (Tertios)	1
+NAME	Thebez → Thebez (Tevets)	1
 NAME	Tibhath → Tivhat	1
 NAME	Timaeus → Timaios	1
+NAME	Tishbe → Tishbe (Tishbeh)	1
 NAME	Tizite → Titsi	1
-NAME	Tobijah → Toviyah	1
+NAME	Tob → Tob (Tov)	1
+NAME	Tobijah → Tobijah (Toviyah)	1
 NAME	Tochen → Token	1
 NAME	Tou → Toeu	1
+NAME	Tower of the Hundred → Hundred Tower	1
+NAME	Tower of the Ovens → Tower of the Ovens (Ovens Tower)	1
 NAME	Tryphaena → Trufaina	1
-NAME	Ulai → Ulay	1
+NAME	Tryphon → Tryphon (Trufon)	1
+NAME	Tyrian → Tyrian (Tsori)	1
+NAME	Ulai → Ulai (Ulay)	1
 NAME	Ummah → Umah	1
+NAME	Uphaz → Ufaz	1
+NAME	Uphaz → Uphaz (Ufaz)	1
 NAME	Uzai → Uzay	1
 NAME	Uzzen-sheerah → Uzen-She’erah	1
 NAME	Uzzia → Uziya	1
 NAME	Uzzielite → Uzieli	1
 NAME	Vashni → Vashini	1
-NAME	Waheb → Vahev	1
+NAME	Waheb → Waheb (Vahev)	1
 NAME	Zaanan → Tsa’anan	1
 NAME	Zaavan → Za’avan	1
+NAME	Zabad → Zabad (Zavad)	1
 NAME	Zabbai → Zabay	1
 NAME	Zacharias → Zekaryah	1
-NAME	Zahar → Tsahar	1
+NAME	Zahar → Zahar (Tsahar)	1
 NAME	Zalaph → Tsalaf	1
 NAME	Zamzummin → Zamzumim	1
+NAME	Zamzummites → Zamzummites (Zamzumim)	1
+NAME	Zarethan → Zarethan (Tseretan)	1
+NAME	Zeboim → Zeboim (Tsevoeim)	1
+NAME	Zebul → Zebul (Zevul)	1
+NAME	Zela → Zela (Tsela)	1
+NAME	Zelzah → Zelzah (Tseltsah)	1
+NAME	Zemaraim → Tsemarayim	1
+NAME	Zemarites → Tsemarim	1
+NAME	Zemarites → Zemarites (Tsemarim)	1
 NAME	Zephathah → Tsefat Valley	1
-NAME	Zepho → Tsefo	1
+NAME	Zepho → Zepho (Tsefo)	1
 NAME	Zephonite → Tsefoni	1
 NAME	Zer → Tser	1
 NAME	Zererah → Tsererah	1
@@ -2205,19 +3226,22 @@ NAME	Zereth → Tseret	1
 NAME	Zereth-shahar → Tseret-Hashahar	1
 NAME	Zeri → Tseri	1
 NAME	Zeror → Tseror	1
-NAME	Zibiah → Tsivyah	1
+NAME	Zibiah → Zibiah (Tsivyah)	1
 NAME	Ziha → Tsiha	1
 NAME	Zillethai → Tsiletay	1
 NAME	Zior → Tsi’or	1
 NAME	Ziphron → Zifron	1
 NAME	Zippor → Tsipor	1
-NAME	Zobah-Hamath → Tsovah-Hamat	1
+NAME	Zobah-Hamath → Zobah-Hamath (Tsovah-Hamat)	1
 NAME	Zohar → Tsohar	1
 NAME	Zoheth → Zohet	1
 NAME	Zophai → Tsuf	1
+NAME	Zophim → Tsofim	1
+NAME	Zophim → Zophim (Tsofim)	1
 NAME	Zorathite → Tsor’ati	1
 NAME	Zorathites → Tsor’atim	1
 NAME	Zuar → Tsuar	1
 NAME	Zur → Tsur	1
 NAME	Zuriel → Tsuriel	1
 NAME	Zurishaddai → Tsurishadai	1
+TERM	LORD God → Yahweh God (added after their term)	1
