@@ -11,7 +11,7 @@ The original works are copyright © Tyndale House Publishers and licensed under
 
 ## Changes made
 
-These changes were made automatically by `adaptTyndaleResources.py` (version 0.50)
+These changes were made automatically by `adaptTyndaleResources.py` (version 0.51)
 to match the [Open English Translation](https://github.com/Freely-Given-org/OpenEnglishTranslation--OET) Readers’ Version (OET-RV):
 
 - In the Bible dictionary, traditional (mostly NLT) forms of names were changed to the OET-RV forms from `OET-RV_names_table.tsv`.
@@ -36,3 +36,9 @@ to match the [Open English Translation](https://github.com/Freely-Given-org/Open
 
 Bible references, links, titles, Hebrew/Greek words, and text quoted from other Bible versions (e.g., ‘“…” (KJV)’) were not changed.
 See `adaptation_log.tsv` for the number of times each change was made.
+
+## Corrections
+
+These errors in the original files were also corrected:
+
+- `Tyndale Open Study Notes/BookIntros.xml`: a broken link to Acts 20:29-31 (with stray spaces and a backslash) in a book introduction was fixed

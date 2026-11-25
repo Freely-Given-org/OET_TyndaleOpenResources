@@ -51,19 +51,21 @@ CHANGELOG:
     2026-11-21 Allow for the OET-RV names table now repeating rows for each OT/NT/DC segment
     2026-11-22 OET-RV names table 'Explanation' column split into 'NotesExplanation' (without the \\add !(…)\\add* markup) and 'CanonicalExplanation' (the inserted text)
     2026-11-22 Explain names with the OET-RV names table 'NotesExplanation' (not the Greek forms used in the OET-RV ESFM files), and use a slash rather than parentheses, e.g., 'Shmuel/Samuel' or 'Samuel/Shmuel'; treat a slashed source alternative like a parenthesised one, e.g., 'Xerxes/Ahasuerus'; don't change names inside a replaced source explanation, e.g., 'Ahasuerus (Xerxes)'
+    2026-11-26 Correct known errors in the source files (SOURCE_CORRECTIONS), and fail on stray backslashes (which make OpenBibleData fail)
 """
 from collections import Counter, defaultdict
 from csv import DictReader
 from functools import lru_cache
+import json
 from pathlib import Path
 import re
 import shutil
 import sys
 
 
-LAST_MODIFIED_DATE = '2026-11-22' # by RJH
+LAST_MODIFIED_DATE = '2026-11-26' # by RJH
 PROGRAM_NAME = "Adapt Tyndale Open Resources for OET-RV"
-PROGRAM_VERSION = '0.50'
+PROGRAM_VERSION = '0.51'
 
 THIS_FOLDER = Path(__file__).resolve().parent
 DOWNLOADS_FOLDER = THIS_FOLDER.parent # where the zips were unzipped
@@ -559,6 +561,111 @@ class NameAdapter:
 # END OET-RV names code
 ############################################################################################################
 
+# Errors in the original Tyndale files: (filepath, wrong text, correct text, description)
+SOURCE_CORRECTIONS = [
+    ('Tyndale Open Study Notes/BookIntros.xml', 'href="  \\?bref=Acts.20.29-31"', 'href="?bref=Acts.20.29-31"',
+        "a broken link to Acts 20:29-31 (with stray spaces and a backslash) in a book introduction was fixed"),
+    ]
+ALLOWED_BACKSLASH_RE = None # No backslashes are expected
+KNOWN_STRAY_BACKSLASHES = {}
+
+############################################################################################################
+# BEGIN stray backslash check code
+#   This block is copied (identically) into adaptTyndaleResources.py, adaptUBSResources.py, adapt_uW_en_tn.py,
+#       and adaptSILOpenTranslatorsNotes.py so that each repo's script is independent. Please keep the copies in sync.
+#   The including script must first define THIS_FOLDER, SOURCE_CORRECTIONS, ALLOWED_BACKSLASH_RE, and KNOWN_STRAY_BACKSLASHES.
+#   OpenBibleData fails on stray backslashes (e.g., left-over or mistyped USFM-style markers) in the text that it displays,
+#       so we find them here (where the file and line are known) rather than partway through a long OBD build.
+CHECKED_SUFFIXES = {'.json', '.xml', '.html', '.htm', '.tsv', '.txt', '.md'}
+
+
+def applySourceCorrections(counts:Counter) -> None:
+    """
+    Correct known errors in the freshly copied source files (before they're adapted).
+
+    SOURCE_CORRECTIONS entries are (filepath relative to THIS_FOLDER, wrong text, correct text, description).
+    Each wrong text must occur exactly once (so that it's not changed somewhere unexpected),
+        but it's only noted if it's not found (because it might have been fixed in the source).
+    """
+    for relativePath, wrongText, correctText, description in SOURCE_CORRECTIONS:
+        filepath = THIS_FOLDER / relativePath
+        text = filepath.read_text(encoding='utf-8')
+        numFound = text.count(wrongText)
+        if numFound == 0:
+            print(f"  NOTE: Source correction no longer needed (fixed in the source?): {relativePath} {wrongText!r}")
+            continue
+        if numFound > 1:
+            sys.exit(f"ERROR: Source correction {wrongText!r} found {numFound} times in {relativePath} (expected once)")
+        filepath.write_text(text.replace(wrongText, correctText), encoding='utf-8')
+        counts[f'CORRECTION\t{description}'] += 1
+        print(f"  Corrected {relativePath}: {description}")
+# end of applySourceCorrections
+
+
+def sourceCorrectionsNotice() -> str:
+    """
+    Return the ADAPTATION_NOTICE.md section listing SOURCE_CORRECTIONS (or '' if there are none).
+    """
+    if not SOURCE_CORRECTIONS: return ''
+    return "\n## Corrections\n\nThese errors in the original files were also corrected:\n\n" \
+            + ''.join(f"- `{relativePath}`: {description}\n" for relativePath, _wrong, _correct, description in SOURCE_CORRECTIONS)
+# end of sourceCorrectionsNotice
+
+
+def _jsonStrings(value):
+    if isinstance(value, dict):
+        for subValue in value.values(): yield from _jsonStrings(subValue)
+    elif isinstance(value, list):
+        for item in value: yield from _jsonStrings(item)
+    elif isinstance(value, str): yield value
+# end of _jsonStrings
+
+
+def checkStrayBackslashes(filepaths:list[Path]) -> None:
+    """
+    Exit with a list of them all if any adapted text file contains a backslash
+        that isn't allowed by ALLOWED_BACKSLASH_RE (e.g., USFM-style \\heb…\\heb* markers)
+        or listed (with its surrounding text) in KNOWN_STRAY_BACKSLASHES.
+
+    JSON files are checked after decoding (so JSON escapes like \\" don't count).
+    """
+    strays, unusedKnown = [], {(relativePath, snippet) for relativePath, snippets in KNOWN_STRAY_BACKSLASHES.items() for snippet in snippets}
+    numChecked = 0
+    for filepath in filepaths:
+        if filepath.suffix.lower() not in CHECKED_SUFFIXES: continue
+        relativePath = str(filepath.relative_to(THIS_FOLDER))
+        fileText = filepath.read_text(encoding='utf-8')
+        numChecked += 1
+        if '\\' not in fileText: continue
+        isJSON = filepath.suffix.lower() == '.json'
+        for text in (_jsonStrings(json.loads(fileText)) if isJSON else (fileText,)):
+            if '\\' not in text: continue
+            allowed = set()
+            if ALLOWED_BACKSLASH_RE is not None:
+                for match in ALLOWED_BACKSLASH_RE.finditer(text): allowed.update(range(match.start(), match.end()))
+            for snippet in KNOWN_STRAY_BACKSLASHES.get(relativePath, ()):
+                for match in re.finditer(re.escape(snippet), text):
+                    allowed.update(range(match.start(), match.end()))
+                    unusedKnown.discard((relativePath, snippet))
+            for match in re.finditer(r'\\', text):
+                if match.start() not in allowed:
+                    where = 'in a JSON string' if isJSON else f'line {text.count(chr(10), 0, match.start())+1:,}'
+                    context = text[max(0, match.start()-50):match.end()+30].replace('\n', ' ')
+                    strays.append(f"{relativePath} {where}: …{context}…")
+    for relativePath, snippet in sorted(unusedKnown):
+        print(f"  NOTE: Known stray backslash no longer found (fixed in the source?): {relativePath} {snippet!r}")
+    if strays:
+        print(f"\nFound {len(strays):,} stray backslash{'' if len(strays)==1 else 'es'} (which would make OpenBibleData fail):")
+        for stray in strays[:50]: print(f"  {stray}")
+        if len(strays) > 50: print(f"  …and {len(strays)-50:,} more")
+        sys.exit("ERROR: Add a SOURCE_CORRECTIONS entry for each error (and report it to the source),"
+                 " or add it to ALLOWED_BACKSLASH_RE or KNOWN_STRAY_BACKSLASHES if it's intended or unused.")
+    print(f"  Checked {numChecked:,} files for stray backslashes")
+# end of checkStrayBackslashes
+
+# END stray backslash check code
+############################################################################################################
+
 
 class ItemAdapter(NameAdapter):
     """
@@ -642,7 +749,7 @@ to match the [Open English Translation](https://github.com/Freely-Given-org/Open
 Bible references, links, titles, Hebrew/Greek words, and text quoted from other Bible versions (e.g., ‘“…” (KJV)’) were not changed.
 See `adaptation_log.tsv` for the number of times each change was made.
 """
-    (THIS_FOLDER / 'ADAPTATION_NOTICE.md').write_text(notice, encoding='utf-8')
+    (THIS_FOLDER / 'ADAPTATION_NOTICE.md').write_text(notice + sourceCorrectionsNotice(), encoding='utf-8')
     for readmePath in THIS_FOLDER.glob('*/_README.txt'):
         with open(readmePath, 'at', encoding='utf-8') as readmeFile:
             readmeFile.write("\n\nThis copy has been adapted for the Open English Translation Readers’ Version (OET-RV). See ../ADAPTATION_NOTICE.md for the changes made.\n")
@@ -659,10 +766,12 @@ def main() -> None:
     names = loadNames(countEsfmWords())
     namesRE = makeNamesRegex(names)
     counts = Counter()
+    applySourceCorrections(counts)
     for folderName in SOURCE_FOLDER_NAMES:
         for filepath in sorted((THIS_FOLDER / folderName).rglob('*.xml')):
             adaptFile(filepath, names, namesRE, counts)
             print(f"  Adapted {filepath.relative_to(THIS_FOLDER)}")
+    checkStrayBackslashes([filepath for folderName in SOURCE_FOLDER_NAMES for filepath in sorted((THIS_FOLDER / folderName).rglob('*')) if filepath.is_file()])
     writeNotices(counts)
     numNameChanges = sum(count for key, count in counts.items() if key.startswith('NAME'))
     numTermChanges = sum(count for key, count in counts.items() if key.startswith('TERM'))
