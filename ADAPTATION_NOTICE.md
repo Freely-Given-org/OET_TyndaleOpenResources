@@ -11,16 +11,15 @@ The original works are copyright © Tyndale House Publishers and licensed under
 
 ## Changes made
 
-These changes were made automatically by `adaptTyndaleResources.py` (version 0.12)
+These changes were made automatically by `adaptTyndaleResources.py` (version 0.50)
 to match the [Open English Translation](https://github.com/Freely-Given-org/OpenEnglishTranslation--OET) Readers’ Version (OET-RV):
 
 - In the Bible dictionary, traditional (mostly NLT) forms of names were changed to the OET-RV forms from `OET-RV_names_table.tsv`.
-  The traditional form is given in parentheses at the first use in each article
-  (and again after about 10 paragraphs), imitating the OET-RV,
-  e.g., ‘Yeshua (Jesus; Grk. Yesus)’ then just ‘Yeshua’.
+  The traditional form is given after a slash at the first use in each article
+  (and again after about 10 paragraphs), e.g., ‘Yeshua/Jesus’ then just ‘Yeshua’.
 - In the study notes (which discuss the NLT text), the NLT names were kept,
-  but the OET-RV form is given in parentheses after the first use in each note
-  (and again after about 10 paragraphs), e.g., ‘Samuel (Shmuel)’ then just ‘Samuel’.
+  but the OET-RV form is given after a slash at the first use in each note
+  (and again after about 10 paragraphs), e.g., ‘Samuel/Shmuel’ then just ‘Samuel’.
 - Other wording changes (in the study notes, the NLT wording was kept, with the OET-RV wording added in parentheses
   after its first use in each note, e.g., ‘the LORD (Yahweh)’):
   - Sovereign LORD → master Yahweh
